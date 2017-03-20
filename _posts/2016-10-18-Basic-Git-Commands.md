@@ -1,3 +1,9 @@
+---
+layout: post
+title: Basic Git Commands
+comment: true
+---
+
 In this post, I talk about some of the most common git commands that I use. It is my version of the Git cheat sheet.
 
 ## Creating a repository

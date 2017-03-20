@@ -1,3 +1,9 @@
+---
+layout: post
+title: DevOps Journey: Settup up Git Server & SSH enabled client
+comment: true
+---
+
 In this post, I describe the steps needed to setup a Git server and configuring it to accept the git push command.
 
 ## Background
