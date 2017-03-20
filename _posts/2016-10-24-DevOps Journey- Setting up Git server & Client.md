@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DevOps Journey: Settup up Git Server & SSH enabled client
+title: DevOps Journey: Settup up Git Server &amp; SSH enabled client
 comment: true
 ---
 
