@@ -1,3 +1,5 @@
+In this post, I describe the steps needed to setup a Git server and configuring it to accept the git push command.
+
 ## Background
 
 Before embarking on my DevOps journey, I wanted to setup a Git server and client. I did not want to use the public Github or any free service. I wanted to do it the hard way to ensure that I knew the process and could relate to the pain that ops feel in setting a new system up!
