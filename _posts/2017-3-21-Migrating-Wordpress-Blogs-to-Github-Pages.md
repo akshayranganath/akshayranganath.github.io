@@ -5,7 +5,7 @@ comment: true
 ---
 Over last 3 weeks, I learnt how to create and fix issues on the [github pages](https://pages.github.com/). I wanted to share the steps involved in migrating [my wordpress blog](https://akshayrangananth.wordpress.com/) to a github blog post. 
 
-![Banner of word blog](blog_banner.jpg)
+![Banner of word blog](/blog_banner.jpg)
 
 ## Why give up Wordpress blog?
 I have been using Wordpress blogs for some time now. Wordpress blogs are free, easy to use and very easy to administer. However, the free edition of Wordpress does have these issues:
@@ -35,7 +35,7 @@ Apart from the fact that it is free, I love GitHub pages for the following facto
 * Potential to [CNAME to any hostname](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/) that I want.
 
 ### Migraton steps
-![Migration of birds](migration.jpg)
+![Migration of birds](/migration.jpg)
 
 The migration process is quite simple for me:
 
@@ -75,9 +75,9 @@ The praser doesn't know if the word is _title_ followed by everything of it is _
 * If updates don't show up, check for error messages. To see the error message, do the following:
 	- Go to your github project.
  	- Click on the project settings tag
- 		![Project settings](github_project_settings.png)
+ 		![Project settings](/github_project_settings.png)
  	- Scroll down to the section *GhitHub Pages*. If parsing was successful, you should see a message like this:
- 		![Parser success message](github_parser_success.png)
+ 		![Parser success message](/github_parser_success.png)
  	- If you see an error about time stamp or any kind of parsing error, it means that your latest push has broken the parser. The simplest way to debug it is to revert back the change and start tweaking the latet post.
 
 #### Gotcha&#35; 2: Post name should not contain an '&amp;' character
