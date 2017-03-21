@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quotes from book: The Phoenix Project
+title: Quotes from book - The Phoenix Project
 comment: true
 ---
 
