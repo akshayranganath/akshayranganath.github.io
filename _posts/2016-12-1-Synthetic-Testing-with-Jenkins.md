@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Basic Git Commands
+title: Synthentic Testing with Jenkins
 comment: true
 ---
 
