@@ -4,6 +4,8 @@ title: Synthentic Testing with Jenkins
 comment: true
 ---
 
+In this blog post, I try to outline how Jenkins can be leveraged to perform Synthetic testing by using command line tool called Siege for automating the tests.
+
 ## Why Jenkins?
 Jenkins is an excellent CI tool that has some really cool capabilities. One of the features I like is the sceduled build. It is very similar to a cron job. The place where it shines well is in managing the master/slave node execution. With Jenkins, you could designate an instance as the master and then enable it to run the different commands/processes on the slave nodes. This is the feature that helps in setting up synthentic tests.
 
