@@ -4,6 +4,8 @@ title: Useful SEO Tags - Part 1
 comment: true
 ---
 
+In this blog post, I analyze the distribution and the use cases for the different kinds of __link__ tags. Starting with _link rel="canonical"_, I dig into the distribution of the other attributes and use cases for the tag.
+
 ## SEO Tags in the wild
 [Rand Fishkin](https://twitter.com/randfish) published a [whiteboard Friday](https://moz.com/blog/category/whiteboard-friday) on the topic of [which tags matter for SEO](https://moz.com/blog/which-page-markup-tags-still-matter-for-seo-whiteboard-friday). While reading it, I was intrigued to check the kind of tags that are actually being used in the wild.
 
