@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Useful SEO Tags - Part 1
-comment: true
+comment: false
 ---
 
 In this blog post, I analyze the distribution and the use cases for the different kinds of __link__ tags. Starting with _link rel="canonical"_, I dig into the distribution of the other attributes and use cases for the tag.
