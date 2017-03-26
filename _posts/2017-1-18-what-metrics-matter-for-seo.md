@@ -30,7 +30,7 @@ Although I highly value the studies done by each of the above authors, there are
 <blockquote>Do these websites rank highly because they have better back-end infrastructure than other sites? Or do they need better back-end infrastructure to handle the load of ALREADY being ranked higher?</blockquote>
 In other words, all of the studies have an issue where it's hard to go ignore this:
 
-![Correlation is not causation](correlation_not_causation.jpg)
+![Correlation is not causation](/images/correlation_not_causation.jpg)
 
 (Digressing: If you want to read up on more serious issues related to <i>correlation is not causation</i> issue, head [over here](http://www.skepticalraptor.com/skepticalraptorblog.php/correlation-does-not-imply-causation-except-when-it-does/)).
 
