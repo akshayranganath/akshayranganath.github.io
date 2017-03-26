@@ -8,7 +8,7 @@ In this second part of the blog series, I look at the distribution on the usage 
 
 ## Introduction
 
-In the [first part of the blog](https://akshayranganath.github.io/Useful-SEO-tags-part-1/), I looked at the pattern of use for the  tag. In this blog post, I'd like to focus on the meta tags. If you'd like to see all the possible options, please refer the [meta-tags](http://www.metatags.org/all_metatags) website</a>.
+In the [first part of the blog](https://akshayranganath.github.io/Useful-SEO-tags-part-1/), I looked at the pattern of use for the  tag. In this blog post, I'd like to focus on the meta tags. If you'd like to see all the possible options, please refer the [meta-tags](http://www.metatags.org/all_metatags) website.
 
 ## Meta Tags that matter
 Moz has an excellent article by [Kate Morris](http://twitter.com/katemorris) on the set of [meta tags that matters](https://moz.com/blog/the-wonderful-world-of-seo-metatags). In this, it lists just 2 tags as essential. These are:
