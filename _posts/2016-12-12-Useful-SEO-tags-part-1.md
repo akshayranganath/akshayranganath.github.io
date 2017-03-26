@@ -51,7 +51,8 @@ I was correct in this assumption. Of the top 25 use of _link rel_, here's the di
 
 I have uploaded the raw data here: [https://gist.github.com/akshayranganath/9e953a32c6ed8066f006301bc02bef1c](https://gist.github.com/akshayranganath/9e953a32c6ed8066f006301bc02bef1c).
 
-Here's the distribution again:
+Here's the distribution again: 
+
 ![SEO Link Distribution](/images/link_distribution.png]
 
 When I looked at the &lt;link&gt; tags, I wasn't sure on the usage and had to do a bit of read-up. Here's a summary of some of the tags:
