@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "name": "Akshay Ranganath–Blogs about Web Performance",
+  "short_name": "Akshay's Blog",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/images/icon_144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ]
+}
