@@ -3,6 +3,8 @@
   "name": "Akshay Ranganath–Blogs about Web Performance",
   "short_name": "Akshay's Blog",
   "display": "standalone",
+  "start_url": "https://akshayranganath.github.io/",
+  "theme_color": "#0000ff",
   "icons": [
     {
       "src": "/images/icon_144.png",
