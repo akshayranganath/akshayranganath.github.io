@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How can CDN help in your SEO efforts?
+title: How to auto-upgrade to HTTPS (aka avoid mixed content)?
 comment: true
 ---
 Migrating to a full HTTPS site is hard. Using <b>"Content-Security-Policy: upgrade-insecure-requests"</b> can reduce the "mixed-content" errors for embedded objects. Finally, use <strong>Strict-Transport-Security</strong> header to secure the domain its sub-domains.
