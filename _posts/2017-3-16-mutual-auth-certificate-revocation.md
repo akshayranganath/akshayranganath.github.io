@@ -6,6 +6,8 @@ comment: true
 
 Over the last few days, I have been working on mutual authentication / client certificates. While working on it, I learnt a few concepts around Certificate authentication and tools used to achive it. I thought it could be useful to others and wanted to share the same.
 
+![Vault](/images/vault.png)
+
 ## What is Mutual Authentication?
 According to the <cite>[Microsoft TechNet](https://technet.microsoft.com/en-us/library/cc961730.aspx)</cite>,
 <blockquote>Mutual Authentication is a security feature in which a client process must prove its identity to a server, and the server must prove its identity to the client, before any application traffic is sent over the client-to-server connection.</blockquote>
