@@ -14,10 +14,9 @@ Here's my notes and thoughts about the paper.
 
 Until a few years back, a website's performance was measured using the Javascript's _onLoad_ event. It was easy to measure and available across all browsers. However, over time, people realized that pure metrics don't matter if it is not relate to what the users think. This is when the concept of **Perceived Performance** was introduced. I find this explanation quite useful:
 
-<blockquote>
-	Perceived performance refers to how fast a user thinks your website is, not necessarily how fast your technical stats say it is. When it comes to optimising your websites, it’s what the user thinks that really matters, not the technical wizardry that’s going on behind the scenes. <br />
-	<cite>Source: <a href="http://blog.teamtreehouse.com/perceived-performance">An Introduction to Perceived Performance</a>
-</blockquote>
+
+>Perceived performance refers to how fast a user thinks your website is, not necessarily how fast your technical stats say it is. When it comes to optimising your websites, it’s what the user thinks that really matters, not the technical wizardry that’s going on behind the scenes. <br />
+_Source: [An Introduction to Perceived Performance](http://blog.teamtreehouse.com/perceived-performance)_
 
 ### Hows does this impact measurement?
 
@@ -53,10 +52,10 @@ It is similar to the the concept being proposed by [Sergey Chernyshev](https://t
 
 ## What's not so clear?
 Although the idea is very interesting, the measurement technique needs to be tested more throughly. In most cases, the 2 metrics closely follow each other. Here's what the author says about the SI and Perceptal SI:
-<blockquote>
-	In large-scale empirical studies that we conducted (using 500+ Alexa top mobile webpage videos collected via WebPagetest), we find that SI and PSI are linearly correlated ( at 0.91, to be precise). This means most of these webpages aren't visually jittery. In the cases where visual jitter or layout stability problems exist, SI and PSI differ quite a bit.
-	<cite><a href="https://www.instartlogic.com/blog/perceptual-speed-index-psi-measuring-above-fold-visual-performance-web-pages">Perceptual SpeedIndex for measuring above-the-fold web performance</a></cite>
-</blockquote>
+
+In large-scale empirical studies that we conducted (using 500+ Alexa top mobile webpage videos collected via WebPagetest), we find that SI and PSI are linearly correlated ( at 0.91, to be precise). This means most of these webpages aren't visually jittery. In the cases where visual jitter or layout stability problems exist, SI and PSI differ quite a bit.
+_[Perceptual SpeedIndex for measuring above-the-fold web performance](https://www.instartlogic.com/blog/perceptual-speed-index-psi-measuring-above-fold-visual-performance-web-pages)_
+
 
 So the real use case would for pages where:
 
