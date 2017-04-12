@@ -53,8 +53,7 @@ It is similar to the the concept being proposed by [Sergey Chernyshev](https://t
 ## What's not so clear?
 Although the idea is very interesting, the measurement technique needs to be tested more throughly. In most cases, the 2 metrics closely follow each other. Here's what the author says about the SI and Perceptal SI:
 
-In large-scale empirical studies that we conducted (using 500+ Alexa top mobile webpage videos collected via WebPagetest), we find that SI and PSI are linearly correlated ( at 0.91, to be precise). This means most of these webpages aren't visually jittery. In the cases where visual jitter or layout stability problems exist, SI and PSI differ quite a bit.
-_[Perceptual SpeedIndex for measuring above-the-fold web performance](https://www.instartlogic.com/blog/perceptual-speed-index-psi-measuring-above-fold-visual-performance-web-pages)_
+>In large-scale empirical studies that we conducted (using 500+ Alexa top mobile webpage videos collected via WebPagetest), we find that SI and PSI are linearly correlated ( at 0.91, to be precise). This means most of these webpages aren't visually jittery. In the cases where visual jitter or layout stability problems exist, SI and PSI differ quite a bit._[Perceptual SpeedIndex for measuring above-the-fold web performance](https://www.instartlogic.com/blog/perceptual-speed-index-psi-measuring-above-fold-visual-performance-web-pages)_
 
 
 So the real use case would for pages where:
