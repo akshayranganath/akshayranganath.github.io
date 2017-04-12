@@ -4,7 +4,7 @@ title: My thoughts on the Perceived Performance study
 comment: true
 description: Recently a paper was released about perceived performance around a new metric called SpeedPerception. Although interesting, it does not appear to be practical like SpeedIndex, TTFB or other metrics.
 ---
-Recently, a [new paper](https://arxiv.org/abs/1704.01220) was released about [perceived performance](https://www.smashingmagazine.com/2015/09/why-performance-matters-the-perception-of-time/). This paper calls for a new way to measure the perception of speed with a tool called SpeedPerception. It proposes improvements to [SpeedIndex](https://sites.google.com/a/webpagetest.org/docs/using-webpagetest/metrics/speed-index) for modelling the user's perceived speed. Although the study was interesting, I find it impractical to implement.
+Recently, a [new paper](https://arxiv.org/abs/1704.01220) was released about [perceived performance](https://www.smashingmagazine.com/2015/09/why-performance-matters-the-perception-of-time/). This paper calls for a new way to measure the perception of speed with a tool called SpeedPerception. It proposes improvements to [SpeedIndex](https://sites.google.com/a/webpagetest.org/docs/using-webpagetest/metrics/speed-index) for modelling the user's perceived speed. The study was interesting and here's my thoughts on it.
 
 Here's my notes and thoughts about the paper.
 
