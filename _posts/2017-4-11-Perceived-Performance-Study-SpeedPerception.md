@@ -30,9 +30,9 @@ Bottom line: if a page loads above the content faster the SpeedIndex will be low
 
 ## SpeedPerception Experiment
 [InstartLogic](https://www.instartlogic.com/)'s team of Qingzhu Gao, Parvez Ahammad, and Prasenjit Dey have published a paper titled __[Perceived Performance of Webpages In the Wild](https://arxiv.org/abs/1704.01220):__ *Insights from Large-scale Crowdsourcing of Above-the-Fold QoE*. In this paper, they talk about a new way of measuring the perceived performance using the tool [SpeedPerception](http://speedperception.meteorapp.com/). It is a very unique approach and tries to address this challenge of perceived performance:
-<blockquote>
-	..understanding the relationship between static measure- ments and user experience is non-trivial and hard to generalize across websites for a key reason: a user’s perception of speed (when presented a single webpage in isolation) is subjective
-</blockquote>
+
+>..understanding the relationship between static measure- ments and user experience is non-trivial and hard to generalize across websites for a key reason: a user’s perception of speed (when presented a single webpage in isolation) is subjective
+
 
 The goal of the study was 3-fold. I am praphrasing the first 2 here. The third one is related to the tool itself.
 
