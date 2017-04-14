@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My thoughts on the Perceived Performance study
+title: Perceptual SpeedIndex - What, Why and is it necessary?
 comment: true
 description: Recently a paper was released about perceived performance around a new metric called SpeedPerception. Although interesting, it does not appear to be practical like SpeedIndex, TTFB or other metrics.
 ---
