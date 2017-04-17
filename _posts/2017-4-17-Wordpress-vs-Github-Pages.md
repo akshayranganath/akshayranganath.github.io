@@ -44,10 +44,33 @@ Here's a graphic on the reduction in each performance metric.
 ![github vs wordpress - timing metrics](/images/github_vs_wordpress_timing_metrics.png)
 
 Finally, here's the side-by-side video of the websites loading the content.
-<video width="320" height="240" controls>
+<video width="90%" controls>
   <source src="/images/github_vs_wordpress_video.mp4" type="video/mp4">  
 Your browser does not support the video tag.
 </video>
+
+## JS & CSS Complexity
+
+Apart from performance, the migration resulted in a huge reduction in the complexity of the JS code and CSS scripts that are used. I used the [YellowLab tools](http://yellowlab.tools/) to run the comparison. Here's link to the results:
+
+| Test | Score | URL |
+| ---- | ----- | --- |
+| Wordpress | 68/100 | [http://yellowlab.tools/result/ep126bxo5p](http://yellowlab.tools/result/ep126bxo5p) |
+| GitHub | 98/100 | [http://yellowlab.tools/result/ep123gqut6](http://yellowlab.tools/result/ep123gqut6) |
+
+Here's some the primary reasons for Wordpress scoring so low. 
+
+* 18 webfonts are loaded on the wordpress page
+* Bad and duplicated CSS code
+* 997 DOM related queries were made. This seems to be a bit outrageous for a page that is just loading blog!
+
+And the reason Ghithub pages lost 2 points is that Fastly CDN that hosts the GitHub page hasn't enabled HTTP/2. Once this is done, the score could be a clean 100!
+
+### YellowLab result for Wordpress.com site
+![Wordpress.com yellow lab report](/images/yellowlab_wordpress.png)
+
+### YellowLab result for Github pages
+![Githubpages yellow lab report](/images/yellowlab_githubpages.png)
 
 ## Github Pages FTW!
 Based on the numbers, Githubpages shaved off more almost half the bytes resulting in a much more peformant website. Wordpress did add a lot of scripts that were not necessary for rendering and I had no control over its use. With Github pages, I do have 2 external scripts in the form of Google Analytics and Disqus. Since I know the scripts, I can easily control. If at some point say Disqus misbehaves, I can very easily remove it when building the page and performance will improve. I had no such freedom on Wordpress blog.
