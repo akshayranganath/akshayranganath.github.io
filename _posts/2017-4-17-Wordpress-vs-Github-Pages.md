@@ -44,7 +44,10 @@ Here's a graphic on the reduction in each performance metric.
 ![github vs wordpress - timing metrics](/images/github_vs_wordpress_timing_metrics.png)
 
 Finally, here's the side-by-side video of the websites loading the content.
-![comparison video](/images/github_vs_wordpress_video.mp4)
+<video width="320" height="240" controls>
+  <source src="/images/github_vs_wordpress_video.mp4" type="video/mp4">  
+Your browser does not support the video tag.
+</video>
 
 ## Github Pages FTW!
 Based on the numbers, Githubpages shaved off more almost half the bytes resulting in a much more peformant website. Wordpress did add a lot of scripts that were not necessary for rendering and I had no control over its use. With Github pages, I do have 2 external scripts in the form of Google Analytics and Disqus. Since I know the scripts, I can easily control. If at some point say Disqus misbehaves, I can very easily remove it when building the page and performance will improve. I had no such freedom on Wordpress blog.
