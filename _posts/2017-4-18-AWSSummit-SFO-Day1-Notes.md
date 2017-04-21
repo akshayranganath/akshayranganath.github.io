@@ -71,7 +71,6 @@ New features:
 - Key-value pairs (SAM)
 
 Amazon API Gateway
->is this a competitor to RAPID?
 
 * authenticate and authorize
 	* sigv4, oAuth, Amazon Cognito, custom auth ==> per method authorization
