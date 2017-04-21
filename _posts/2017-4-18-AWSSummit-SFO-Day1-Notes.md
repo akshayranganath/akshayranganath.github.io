@@ -6,6 +6,9 @@ comment: true
 AWS organized the [AWS Summit at San Francisco](https://aws.amazon.com/summits/san-francisco/) on 18th and 19th of April. It was an eye-opener for me on the devOps progress and the adoption of cloud based work-flows. I had take some notes and thought of sharing it. This is the notes from Day 1 of the event. Hope it is of use to you!
 
 ![Amazon Summit SFO logo](https://d0.awsstatic.com/events/Summits/AWS_Summit_Logo_RGB_WhiteAWS_Horiz_CityLeft_SanFrancisco.png)
+
+This is part 1 of the blog post. For notes from Day 2, please see the post [AWS Summit - SFO - Day - 2 Notes](https://akshayranganath.github.io/AWSSummit-SFO-Day2-Notes/).
+
 ## The State of Serverless Computing
 
 

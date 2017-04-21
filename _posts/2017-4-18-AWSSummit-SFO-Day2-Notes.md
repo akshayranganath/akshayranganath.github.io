@@ -7,6 +7,8 @@ AWS organized the [AWS Summit at San Francisco](https://aws.amazon.com/summits/s
 
 ![Amazon Summit SFO logo](https://d0.awsstatic.com/events/Summits/AWS_Summit_Logo_RGB_WhiteAWS_Horiz_CityLeft_SanFrancisco.png)
 
+This part 2 of the blog post. For notes on the 1st day's events, see the [AWS Summit - SFO - Day - 1 Notes](https://akshayranganath.github.io/AWSSummit-SFO-Day1-Notes/) post.
+
 # Keynote featuring Dr. Werner Vogels, CTO, Amazon.com
 
 - 7,500 people in attendence
