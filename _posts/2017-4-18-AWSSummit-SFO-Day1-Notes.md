@@ -70,7 +70,7 @@ New features:
 - Allows for creating dev/prod - by pulling in the latest
 - Key-value pairs (SAM)
 
-Amazon API Gateway
+#### Amazon API Gateway
 
 * authenticate and authorize
 	* sigv4, oAuth, Amazon Cognito, custom auth ==> per method authorization
