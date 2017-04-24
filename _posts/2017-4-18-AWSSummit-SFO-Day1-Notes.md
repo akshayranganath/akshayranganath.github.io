@@ -205,7 +205,7 @@ Managed service for setting up docker images.
 
 #### AWS CodePipeline
 Provides ability to model and implement the full CI/CD pipeline. It can talk to external tools and can even integrate with Lambda functions.
-{Try this for Macys maybe?}
+
 
 Reference architecture: [https://github.com/awslabs/ecs-refarch-continuous-deployment](https://github.com/awslabs/ecs-refarch-continuous-deployment)
 
