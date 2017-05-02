@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jenkins based synthetic testing using WebPageTest
+title: Synthetic testing with WPT and Jenkins
 comment: true
 ---
 Webpagetest is an indispensable tool to performance monitoring of websites. Using the scripted test+REST API and combining with Jenkins, WPT can be converted to a synthetic testing tool to test scenario beyond the scope of tools like Gomez and Catchpoint. 
@@ -227,4 +227,5 @@ By running this scripted test, it is possible to build a synthetic testing solut
 Even when good synthetic tests are setup, this will still help. If a particular test is slow, it will be easier to go into the corresponding WPT test and look at the resources and see if something had gone wrong. For CDN specific testing, it is possible to add special headers to get back caching status. 
 
 ![Using WPT book cover](https://www.safaribooksonline.com/library/cover/9781491902783/)
+
 As everyone keeps saying, with WPT, the possibilities are endless! So this is just a peek at what can be done. If you are not familiar with WPT, do consider the book _[Using WebPageTest](https://www.safaribooksonline.com/library/view/using-webpagetest/9781491902783/). It is a wonderful resource to learn about the multi-faceted functionality offered by this great tool!
