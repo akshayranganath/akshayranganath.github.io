@@ -9,6 +9,8 @@ Webpagetest is an indispensable tool to performance monitoring of websites. Usin
 
 While working on a issue, I faced an situation where we had to develop a testing solution over WPT. Gomez could only run tests from a HAR file. Catchpoint could execute a transaction but was limited to Chrome. Since we had no other tool that could cover all the devices and use cases, we scripted the solution. 
 
+I had written a very closely related article on using [Jenkins for running performance tests](https://akshayranganath.github.io/Performance-Testing-with-Jenkins/). This blog is more on creating synthetic testing with Jenkins and WPT.
+
 ## Background
 We had to measure the performance of a particular website by going through a transaction. The challenge was to ensure that the test was run on at least these 4 devices:
 
