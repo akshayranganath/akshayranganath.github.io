@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Synthentic Testing with Jenkins
+title: Performance Testing with Jenkins
 comment: true
 ---
 
