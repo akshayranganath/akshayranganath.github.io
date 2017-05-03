@@ -9,7 +9,7 @@ In this blog post, I try to outline how Jenkins can be leveraged to perform Synt
 If you are looking to setup a synthetic testing with Jenkins, please read the blog about [Synthetic testing with WPT and Jenkins](https://akshayranganath.github.io/Synthetic-Testing-With-WPT-and-Jenkins/).
 
 ## Why Jenkins?
-Jenkins is an excellent CI tool that has some really cool capabilities. One of the features I like is the sceduled build. It is very similar to a cron job. The place where it shines well is in managing the master/slave node execution. With Jenkins, you could designate an instance as the master and then enable it to run the different commands/processes on the slave nodes. This is the feature that helps in setting up synthentic tests.
+Jenkins is an excellent CI tool that has some really cool capabilities. One of the features I like is the scheduled build. It is very similar to a cron job. The place where it shines well is in managing the master/slave node execution. With Jenkins, you could designate an instance as the master and then enable it to run the different commands / processes on the slave nodes. This is the feature that helps in setting up synthentic tests.
 
  
 ## What is the idea?
@@ -33,7 +33,7 @@ I am still new to the world of Jenkins but, based on my understanding following 
 ## Simple Demo
 To prove that this idea can work, I leveraged [Siege](https://www.joedog.org/siege-home/) testing tool to execute a 10s load test on a single URL. This test was scheduled to execute every 10 minutes. I also enabled the logging with siege so that the historical set of results would be available for analysis. 
 
-I did not use a master/slave setup in this test. So the load test was running from the same instance as the Jenkins server. 
+I did not use a master / slave setup in this test. So the load test was running from the same instance as the Jenkins server. 
 
 ### Setting up the scheduled build
 
