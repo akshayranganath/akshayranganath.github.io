@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AWS Summit - SFO - Day - 2 Notes
+title: AWS Summit - SFO - Day-2 Notes from Keynote and Fireside chat
 comment: true
 ---
 AWS organized the [AWS Summit at San Francisco](https://aws.amazon.com/summits/san-francisco/) on 18th and 19th of April. It was an eye-opener for me on the devOps progress and the adoption of cloud based work-flows. I had take some notes and thought of sharing it. This is the notes from Day 2 of the event. Hope it is of use to you!
