@@ -175,6 +175,8 @@ Altassian has developed a [local EC2](https://github.com/atlassian/localstack) s
 ## Deep Dive on CICD and Docker
 - John Pignata - Startup solutions architect
 
+Slides: https://www.slideshare.net/AmazonWebServices/srv412-deep-dive-on-cicd-and-docker-75232162
+
 #### CI/CD Objective
 	How can we quickly and reliably deliver good ideas to our customers?
 
