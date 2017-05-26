@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Markdown for notes and setting it up on Sublime Text 2
+title: Markdown for notes and setting it up on SublimeText2
 comment: true
 description: Learn why Markdown is a good for taking notes during trainings and meetings and plugins for Sublime Text2+Markdown integration. It's very good for converting to blog posts with Github pages as well.
 ---
