@@ -490,7 +490,7 @@ Working of Varnish connector is explained here. Basically, Varnish VCL can be se
 
 ![Varnish connector](https://developer.akamai.com/connector-for-varnish/images/architecture.png)
 
-###Installation
+### Installation
 
 First download the Akamai connector code from https://akamai-connector.varnish-software.com/dist/.
 
