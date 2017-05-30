@@ -61,7 +61,29 @@ Once done with the installations, create a list of the libraries and their versi
 	
 	pip freeze > myproject/requirements.txt
 
-This file *requirements.txt* will hold the necessary dependencies for your project. This fill will need to be checked in to your project code. At any time, if any other developer installs a new library, it will have to be added to this requirements.txt file. That way once other developers pull the update from the source code repository, they will be made aware of the new dependencies.
+This file *requirements.txt* will hold the necessary dependencies for your project. In one of my projects, it looks like this:
+
+```
+appdirs==1.4.3
+asn1crypto==0.22.0
+cffi==1.10.0
+cryptography==1.8.1
+enum34==1.1.6
+idna==2.5
+ipaddress==1.0.18
+jsontree==0.4.3
+ndg-httpsclient==0.4.2
+packaging==16.8
+pyasn1==0.2.3
+pycparser==2.17
+pyOpenSSL==17.0.0
+pyparsing==2.2.0
+requests==2.14.2
+six==1.10.0
+urllib3==1.21.1
+```
+
+This fill will need to be checked in to your project code. At any time, if any other developer installs a new library, it will have to be added to this requirements.txt file. That way once other developers pull the update from the source code repository, they will be made aware of the new dependencies.
 
 ![cog wheels](/images/cog-wheels-2125169_640.jpg)
 
