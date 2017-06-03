@@ -108,7 +108,7 @@ Now navigate to this sub-folder.
 
 Install the dependencies:
 
-	pip -r requirements.txt
+	pip install -r requirements.txt
 
 That's it! Your developer machine is now all set for coding.
 
