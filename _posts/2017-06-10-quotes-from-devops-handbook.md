@@ -2,7 +2,7 @@
 layout: post
 title: Quotes from DevOps Handbook
 comment: true
-description: "The DevOps Handbook: How to create world-class agility, reliability and security in technology organizations" is codification of DevOps mindset, practices and processes. Here are my favorite quotes from the book.
+description: The DevOps Handbook is codification of DevOps mindset, practices and processes. Written as a follow-up to the other book, The Phoenix Project, it reinforces core concepts. Here are my favorite quotes from the book.
 ---
 
 __[The DevOps Handbook]((https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)): How to create world-class agility, reliability and security in technology organizations__ is the follow-on book to __[The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509/ref=pd_lpo_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=6Q7CNB17CF6AAX0DWSKT): A Novel about IT, DevOps, and Helping Your Business Win__. I had collected my favorite [quotes from the Phoenix project](https://akshayranganath.github.io/quotes-from-book-the-phoenix-project/) earlier. I finally managed to get the DevOps handbook and here's my collection of favorite thoughts from the book. 
