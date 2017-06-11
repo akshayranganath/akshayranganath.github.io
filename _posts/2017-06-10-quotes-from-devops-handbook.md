@@ -7,7 +7,7 @@ description: The DevOps Handbook is codification of DevOps mindset, practices an
 
 __[The DevOps Handbook]((https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)): How to create world-class agility, reliability and security in technology organizations__ is the follow-on book to __[The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509/ref=pd_lpo_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=6Q7CNB17CF6AAX0DWSKT): A Novel about IT, DevOps, and Helping Your Business Win__. I had collected my favorite [quotes from the Phoenix project](https://akshayranganath.github.io/quotes-from-book-the-phoenix-project/) earlier. I finally managed to get the DevOps handbook and here's my collection of favorite thoughts from the book. 
 
-<img src="http://lh3.googleusercontent.com/ZE_FlRhIjlfueaWLxIK0_eFkUgJ9rEc2wg-akVq_D9ghFk4i3BWA52tdv5mZ4rVyDYR38hPIC-j-ZT3uY0IK=s0" width="30%" \/>
+<img src="http://lh3.googleusercontent.com/ZE_FlRhIjlfueaWLxIK0_eFkUgJ9rEc2wg-akVq_D9ghFk4i3BWA52tdv5mZ4rVyDYR38hPIC-j-ZT3uY0IK=s0" width="30%" >
 
 ## DevOps Myths
 
