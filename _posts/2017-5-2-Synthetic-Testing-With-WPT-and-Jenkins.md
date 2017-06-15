@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Synthetic testing with WPT and Jenkins
+title: Synthetic Testing and with WPT and Jenkins
 comment: true
+description: Webpagetest is very good for monitoring website performance. By using Jenkins to run synthetic tests on WPT, it is possible to build a decent solution for automated performance monitoring and validating your performance budget.
 ---
 Webpagetest is an indispensable tool to performance monitoring of websites. Using the scripted test+REST API and combining with Jenkins, WPT can be converted to a synthetic testing tool to test scenario beyond the scope of tools like Gomez and Catchpoint. 
 
@@ -116,7 +117,7 @@ WebpageTest results are available through the URL format https://www.webpagetest
 
 Since the results are accessible with no special authentication, I had to write a script to pull the following from Jenkins:
 
-* Fetch the start and end run number. Basicaly, each number will be one instance of 3 WPT tests being run.
+* Fetch the start and end run number. Basically, each number will be one instance of 3 WPT tests being run.
 * From the console output of each run, extract the WPT result ID.
 * Go to WPT and fetch the result for the test run
 * Extract the relevant fields and print it. In my case, I print it in a CSV friendly format.
@@ -220,7 +221,7 @@ if __name__ == "__main__":
 	#print_result()
 ```
 
-The output would be a comma-seperated value of these fields:
+The output would be a comma-separated value of these fields:
 	WPT	Browser	Protocol	TTFB	FirstPaint	Render	VisualCompelte	domInteractive	loadEventStart	fullyLoaded	docTime	SpeedIndex	bytesOut	requestFull	image_total
 
 ## Conclusion

@@ -2,6 +2,7 @@
 layout: post
 title: How to auto-upgrade to HTTPS (aka avoid mixed content)?
 comment: true
+description: When migrating to a full HTTPS site, Content-Security-Policy and Upgrade-Insecure-Requests could be your friend. This post tells you the use of the headers and the mechanism to implement it during the site migration.
 ---
 Migrating to a full HTTPS site is hard. Using <b>"Content-Security-Policy: upgrade-insecure-requests"</b> can reduce the "mixed-content" errors for embedded objects. Finally, use <strong>Strict-Transport-Security</strong> header to secure the domain its sub-domains.
 
