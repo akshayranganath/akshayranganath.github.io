@@ -58,7 +58,7 @@ This list is based on work done for [Puppet Labs - State of DevOps report](https
 
 ## Technology Value Stream
 
->.. as the process required to convert a business hypothesis into a technology enabled service that delivers value to the customer.
+>.. is defined as the process required to convert a business hypothesis into a technology enabled service that delivers value to the customer.
 
 ```
 My paraphrasing: 
@@ -68,10 +68,96 @@ is successfully running in production and providing value
 to customer and generating feedback and telemetry.
 ```
 
+### Why is the focus on automation?
+
+*Design and development* is akin to __Lean Product Development__ and is highly variable and highly uncertain, often requiring high degrees of creativity and work that may never be performed again, resulting in high variability of process time. In contrast, the second phase of work which includes *Testing and Operations* is akin to __Lean Manufacturing__. It requires creativity and expertise, and strives to be predictable and mechanistic, with the goal of achieving work outputs with minimized variability.
+
+```
+End goal:
+Have testing and operations simultaneously with design and development to enable fast flow of work.
+```
+
+#### Concept of Lead Time
+
+```
+	|<--------------- Lead Time ---------------->|
+	|=======================|====================|
+Ticket 					  Work		   		   Work 
+Created					Started		 		Completed
+							|<-- Process Time -->|
+```
+
+
+>When we have long deployment lead times, heroics are required at almost every stage of the value stream.
+
+
 ## The Three Ways
 Taken from the blog by [Gene Kim](https://twitter.com/RealGeneKim) titled [The Three Ways: The Principles Underpinning DevOps](https://itrevolution.com/the-three-ways-principles-underpinning-devops/)
 
-- *First Way*: 
+### First Way - Fast Flow
+
+- *First Way*: The First Way requires the fast and smooth flow of work from Development to Operations, to deliver value to customers quickly. We optimize for this global goal instead of local goals, such as Development feature completion rates, test find/fix rations, or Ops availably measures.
 <img alt="First way - principles of flow" src="https://itrevolution.com/wp-content/uploads/2012/08/first-way2-400x191.png" width="50%">
+
+>Stop starting. Start finishing. - David J. Anderson.
+
+__Issue with hand-offs__
+With enough handoffs, the work can completely loose the context of the problem being solved or the organizational goal being supported.
+
+__ 5 Focusing steps - Dr Goldratt __
+
+<a href="https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884271951"><img alt="The Goal book" src="https://images-na.ssl-images-amazon.com/images/I/519C2Gz-v2L._SX334_BO1,204,203,200_.jpg" width="20%"></a>
+
+- identify the system's constraint
+- decide how to explot the system's contraint
+- subordinate everything else to the above decisions
+- elevate the sytem's constraint
+- if in previous steps a constraint has been broken, go back to step one, but do not allow inertia to cause a system constraint.
+
+__ DevOps Transformation - Focus Areas __
+
+- Environment creation
+- Code deployment
+- Test setup and run
+- Overly tight architecture
+
+__I am praphrasing here__
+The goal of fast flow is to make any kind of waste and hardships - anything that requires heroics is made visible and to systematically alleviate or eliminate the burden. Types of waste that lead to heroics are:
+
+- partially done work (sitting in QA, waiting for deployment - stuck WIP)
+- extra processes (eg Documenting steps to document - I guess this is where CMM models failed)
+- extra features (adding more things than a minimum viable product {MVP})
+- task switching
+- waiting
+- motion (lack of co-located colleagues, hand-offs, KTs)
+- defects
+- nonstandard or manual work
+
+### Second way - Principles of Feedback
+
 <img alt="Second way - principles of feedback" src="https://itrevolution.com/wp-content/uploads/2012/08/second-way1-400x211.png" width="50%">
+
+.. Second way describes the principles that enable the fast and constant feedback from right to left at all stages of value stream.
+
+According to Dr Spear, the goal of *swarming* is to contain problems before they have a chance to spread, and to diagnose and treat the problem so that it cannot recur.
+
+```
+When automated build is used and a test fails, the entire pipeline fails - and that is acceptable. Here's the reason.
+```
+Preventing the introduction of new work enables continuous integration and deployment, which is a single piece of flow in the technology value stream. All changes that pass our continuous build and integration tests are automatically deployed into production, and any changes that cause any tests to fail trigger our Andon cord and are swarmed until resolved.
+
+__ Biggest differentiator in devOps compared to traditional software life-cycle?__
+In the technology value stream, we optimize for downstream work centers by designing for operations, where operational non-functional requirements (e.g., architecture, performance, reliability, stability, testability, configurability, and security) are prioritized as highly as user features.
+
+
+Preventing the introduction of new work enables continuous integration and deployment, which is 
+
+### Third way - Continual learning and Experimentation
+
 <img alt="Third way - priciples of continual learning and experimentation" src="https://itrevolution.com/wp-content/uploads/2012/08/third-way-400x224.png" width="50%">
+
+.. the Third Way focuses on creating a culture of continual learning and experimentation. These are the principles that enable constant creation of individual knowledge, which is then turned into team and organizational knowledge.
+
+__How?__
+We improve daily work by explicitly reserving time to pay down technical debt, fix defects, and refactor and improve problematic areas of our code and environments.
+
