@@ -12,6 +12,7 @@ description: Collated list of my blogs on topics related to DevOps core concepts
 - [Basic Docker Commands](https://akshayranganath.github.io/Docker-Commands/)
 - [Integraring Akamai with Varnish - The Varnish Connector training notes](https://akshayranganath.github.io/Akamai-Varnish-Connector-Training/)
 - [Creating virtual environments with for Python](https://akshayranganath.github.io/How-to-create-dev-environment-for-python/)
+- [JSON Pretty Printer for command line](https://akshayranganath.github.io/pretty-print-json-with-command-line/)
 
 
 ## DevOps Core Concepts
