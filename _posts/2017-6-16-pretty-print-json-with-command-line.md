@@ -95,3 +95,9 @@ echo $PATH
 On Windows system, execute the _set_ command and look for _PATH_.
 
 Based on the output, move the pretty_printer.py to a location specified in the PATH directory list. For Linux/Mac users, you could move it to _/usr/local/bin_. Once done, you can execute this as a built-in command from any folder.
+
+After it is setup correctly, you can execute it like this.
+```bash
+$ pretty_printer.py --file rules.json
+Pretty printer complete.
+```
