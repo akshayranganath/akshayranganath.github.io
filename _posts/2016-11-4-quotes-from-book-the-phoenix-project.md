@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quotes from book - The Phoenix Project
+title: DevOps Quotes from book - The Phoenix Project
 comment: true
 description: The Phoenix Project book is a good introduction to the approach of moving from traditional ops to devOps. This is my favorite set of devops quotes from the book.
 ---
