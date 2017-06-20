@@ -159,5 +159,6 @@ Preventing the introduction of new work enables continuous integration and deplo
 .. the Third Way focuses on creating a culture of continual learning and experimentation. These are the principles that enable constant creation of individual knowledge, which is then turned into team and organizational knowledge.
 
 __How?__
+
 We improve daily work by explicitly reserving time to pay down technical debt, fix defects, and refactor and improve problematic areas of our code and environments.
 
