@@ -8,6 +8,7 @@ description: Collated list of my blogs on topics related to DevOps core concepts
 ## Development &amp; DevOps Tools
 - [Basic Git Commands](https://akshayranganath.github.io/Basic-Git-Commands/)
 - [DevOps Journey: Setting up a Git Server and Client](https://akshayranganath.github.io/DevOps-Journey-Setting-up-Git-server-and-Client)
+- [Handling a Git Pull request with merge conflict](https://akshayranganath.github.io/Git-Pull-Handling-Merge-Conflict/)
 - [Performance Testing with Siege and Jenkins](https://akshayranganath.github.io/Performance-Testing-with-Jenkins/)
 - [Basic Docker Commands](https://akshayranganath.github.io/Docker-Commands/)
 - [Integraring Akamai with Varnish - The Varnish Connector training notes](https://akshayranganath.github.io/Akamai-Varnish-Connector-Training/)
