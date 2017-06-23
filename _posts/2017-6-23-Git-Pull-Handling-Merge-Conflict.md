@@ -6,6 +6,7 @@ description: Merging a git pull request with conflicts is not straight-forward f
 ---
 
 When working with Git, the relatively complex tasks are issuing a pull request and then merging with conflicts. Due to the prevalence of UIs, pull requests are now quite simple. However, merge requests that have a conflict are a little bit more hard to handle. Here's how I get this done.
+
 ![pull request](/images/pull_request.png)
 
 In this example, let's work with 2 branches:
