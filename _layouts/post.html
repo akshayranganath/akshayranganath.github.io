@@ -1,7 +1,32 @@
 ---
 layout: default
 ---
-
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "http://www.acmetools.com/blog/11-best-cordless-circular-saws-2017/"
+    },
+    "headline": "{{ page.title }}",
+    "datePublished": "{{ page.date }}",
+    "dateModified": "{{ page.date }}",
+    "author": {
+        "@type": "Person",
+        "name": "Akshay Ranganath"
+    },
+    "description": "{{ description }}",
+    {% if page.image %}
+    "image": {
+        "@type": "ImageObject",
+        "url": "http://www.acmetools.com/blog/wp-content/uploads/2017/03/top-11-cordless-circular-saws-featured-1.jpg",
+        "width": 1366,
+        "height": 362
+    }
+    {% endif %}
+}
+</script>
 <article class="post">
   <h1>{{ page.title }}</h1>
 
