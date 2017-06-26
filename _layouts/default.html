@@ -46,7 +46,19 @@
         </footer>
       </div>
     </div>
-
+    {% if page.url== "/index.html %}
+    <script type="text/javascript">
+      if('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('/sw_worker.js', { scope: '/' })
+          .then(function(registration) {
+                console.log('Service Worker Registered');
+          });
+        navigator.serviceWorker.ready.then(function(registration) {
+           console.log('Service Worker Ready');
+        });
+      }
+    </script>  
+    {% endif %}    
     {% include analytics.html %}
   </body>
 </html>
