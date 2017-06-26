@@ -7,14 +7,14 @@ layout: default
     "@type": "BlogPosting",
     "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://akshayranganath.github.io{{ page.url }}"
+        "@id": "{{ site.url }}{{ page.url }}"
     },
     "headline": "{{ page.title }}",
     "datePublished": "{{ page.date }}",
     "dateModified": "{{ 'now' | date_to_xmlschema }}",
     "author": {
         "@type": "Person",
-        "name": "Akshay Ranganath"
+        "name": "{{ site.author }}"
     },
     "description": "{{ page.description }}",
     {% if page.image %}
