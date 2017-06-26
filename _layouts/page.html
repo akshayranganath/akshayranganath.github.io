@@ -24,7 +24,7 @@ layout: default
 </article>
 <script>
       if('serviceWorker' in navigator) {
-        navigator.serviceWorker.register('sw_worker.js', { scope: '/' })
+        navigator.serviceWorker.register('/sw_worker.js', { scope: '/' })
           .then(function(registration) {
                 console.log('Service Worker Registered');
           });
