@@ -46,7 +46,7 @@
         </footer>
       </div>
     </div>
-    {% if page.url== "/index.html %}
+    {% if page.url== "/index.html or page.url == "/" or page.url == "/about/index.html" or page.url=="/about/ %}
     <script type="text/javascript">
       if('serviceWorker' in navigator) {
         navigator.serviceWorker.register('/sw_worker.js', { scope: '/' })
