@@ -6,7 +6,7 @@ self.addEventListener('install', e => {
     caches.open('akshay_blog').then(cache => {
       return cache.addAll([
         `/`,
-        `/about/`        
+        `/about`        
       ])
       .then(() => self.skipWaiting());
     })
