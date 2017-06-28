@@ -162,3 +162,28 @@ __How?__
 
 We improve daily work by explicitly reserving time to pay down technical debt, fix defects, and refactor and improve problematic areas of our code and environments.
 
+### Selecting the correct Value Stream
+
+Greenfield / brownfield do not matter - as long as the application is architected (or re-architected) for testability and deployability.
+
+Although _systems of engagement_ are more easy to adopt to devOps, it is the _systems of record_ that can form a bottleneck. So everything in the org has to move to devOps going against the _bimodal_ IT design.
+
+
+### Understanding work
+Next step in value stream is:
+
+	..what work is performed and by whom, and what steps can we take to improve flow
+
+Typical teams involved in value stream mapping:
+
+- Product owners
+- Development
+- QA
+- Operations
+- InfoSec
+- Release Managers
+- Technology executive or value stream manager
+
+___ Managing Technical Debt and Non-functional requirements ___
+Invest around 20% of all dev and ops time on Non-functional requirements. This is the only way to pay down technical debt.
+
