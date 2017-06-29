@@ -5,8 +5,8 @@ self.addEventListener('install', e => {
   e.waitUntil(
     caches.open('akshay_blog').then(cache => {
       return cache.addAll([
-        `https://akshayranganath.gihub.io/`,
-        `https://akshayranganath.gihub.io/about`        
+        `/`,
+        `/about`        
       ])
       .then(() => self.skipWaiting());
     })
