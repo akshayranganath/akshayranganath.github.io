@@ -20,7 +20,7 @@ When a webmaster wants to move a website from HTTP to HTTPS, the typical process
 
 Step #3 could be especially hard for very large websites. Finding pages that have a mixed content issue is a deal breaker as well. If it is not done, then the browser will show the warning on console and disable the padlock icon as well. 
 
-One of the ideas we had was, "What happens if we enable both the 'upgrade-insecure-requests' and HSTS headers?" That way, even when the base HTML references a resource as 'http', the other directives will force it be requested over HTTPs. Although this is true, at least in Chrome, the browser first flags the warning on mixed content and breaks the padlock first. The directives to convert to https seems to occur only when the actual resource is requested. This research was done by [Paul Calvanho](https://twitter.com/paulcalvano) and posted the results on an internal forum at Akamai.
+One of the ideas we had was, "What happens if we enable both the 'upgrade-insecure-requests' and HSTS headers?" That way, even when the base HTML references a resource as 'http', the other directives will force it be requested over HTTPs. Although this is true, at least in Chrome, the browser first flags the warning on mixed content and breaks the padlock first. The directives to convert to https seems to occur only when the actual resource is requested. This research was done by [Paul Calvano](https://twitter.com/paulcalvano) and posted the results on an internal forum at Akamai.
 
 So the only solution to ensure that you do migrate successfully is to actually fix all insecure references to https.
 
