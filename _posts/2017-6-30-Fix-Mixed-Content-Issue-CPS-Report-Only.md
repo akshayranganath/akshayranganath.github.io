@@ -23,6 +23,7 @@ Step #3 could be especially hard for very large websites. Finding pages that hav
 One of the ideas we had was, "What happens if we enable both the 'upgrade-insecure-requests' and HSTS headers?" That way, even when the base HTML references a resource as 'http', the other directives will force it be requested over HTTPs. Although this is true, at least in Chrome, the browser first flags the warning on mixed content and breaks the padlock first. The directives to convert to https seems to occur only when the actual resource is requested. This check was done by [Paul Calvanho](https://twitter.com/paulcalvano).
 
 So the only solution to ensure that you do migrate successfully is to actually fix all insecure references to https.
+
 <span style="color: red">
 <b>ALERT!</b> <br />"Content-Security-Policy: upgrade-insecure-requests" is not available in IE browsers. Users on this browsers will not only get the warning but, the requests to embedded objects will never be promoted to HTTPs as well.
 </span>
