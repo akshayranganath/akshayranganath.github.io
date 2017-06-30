@@ -68,5 +68,18 @@ When the reporting is setup, an alert is fired for each of the blocked request. 
 
 As a webmaster, you could then share it with the developer team. They could reference the base page tab and then fix the insecure reference. The development team could then change any __http://__ references to be relative reference __//__. This way, there is no dependency on forcing https. The embedded page will use the same protocol as the base page in such cases.
 
+### Progressively Add Security
+Since there are browser inconsistencies, one of the better ways to proceed with full site HTTPS migration is to use both CSP and CSP report-only headers. CSP header should perform the __upgrade-insecure-requests__. This will occur for all browsers other than IE. You can also use CSP report only to get a report of blocked URL. In this way, you'd get:
+
+```
+Content-Security-Policy-Report-Only: default-src https:; report-uri /csp-violation-report-endpoint/
+Content-Security-Policy: upgrade-insecure-requests;
+```
+
+- full site HTTPS behavior on browsers that do support upgrade-insecure-requests
+- warning and mixed content messages that can be used to clean up the code.
+
+There is no issue with using both headers.
+
 ## Conclusion
 Migrating from HTTP to HTTPs could be challenging but, using the right set of CSP headers could help you make this transition a bit more easy. Unfortunately, the only clean way to get this done is to fix the references to any http request to use https. 
