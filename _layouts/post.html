@@ -16,7 +16,11 @@ layout: default
         "@type": "Person",
         "name": "{{ site.author }}"
     },
-    "description": "{{ page.description }}"
+    "description": "{{ page.description }}",
+     "publisher": {
+	"@type": "{{ site.name }}",
+	"name": "{{ site.author }}"
+     }
 }
 </script>
 <article class="post">
