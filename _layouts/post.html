@@ -11,7 +11,7 @@ layout: default
     },
     "headline": "{{ page.title }}",
     "datePublished": "{{ page.date }}",
-    "dateModified": "{{ 'now' | date_to_xmlschema }}",
+    "dateModified": "{{ site.time | date_to_xmlschema }}",
     "author": {
         "@type": "Person",
         "name": "{{ site.author }}"
