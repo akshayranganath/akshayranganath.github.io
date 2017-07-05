@@ -1,28 +1,6 @@
 ---
 layout: default
 ---
-<script type="application/ld+json">
-{
-    "@context": "http://schema.org",
-    "@type": "BlogPosting",
-    "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "{{ site.url }}{{ page.url }}"
-    },
-    "headline": "{{ page.title }}",
-    "datePublished": "{{ page.date }}",
-    "dateModified": "{{ site.time | date_to_xmlschema }}",
-    "author": {
-        "@type": "Person",
-        "name": "{{ site.author }}"
-    },
-    "description": "{{ page.description }}",
-     "publisher": {
-	"@type": "{{ site.name }}",
-	"name": "{{ site.author }}"
-     }
-}
-</script>
 <article class="post">
   <h1>{{ page.title }}</h1>
 
