@@ -105,7 +105,7 @@ Taken from the blog by [Gene Kim](https://twitter.com/RealGeneKim) titled [The T
 __Issue with hand-offs__
 With enough handoffs, the work can completely loose the context of the problem being solved or the organizational goal being supported.
 
-__ 5 Focusing steps - Dr Goldratt __
+__5 Focusing steps - Dr Goldratt__
 
 <a href="https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884271951">![The Goal book cover](/images/the_goal_book.jpg)</a>
 
@@ -115,7 +115,7 @@ __ 5 Focusing steps - Dr Goldratt __
 - elevate the sytem's constraint
 - if in previous steps a constraint has been broken, go back to step one, but do not allow inertia to cause a system constraint.
 
-__ DevOps Transformation - Focus Areas __
+__DevOps Transformation - Focus Areas__
 
 - Environment creation
 - Code deployment
@@ -147,7 +147,7 @@ When automated build is used and a test fails, the entire pipeline fails - and t
 ```
 Preventing the introduction of new work enables continuous integration and deployment, which is a single piece of flow in the technology value stream. All changes that pass our continuous build and integration tests are automatically deployed into production, and any changes that cause any tests to fail trigger our Andon cord and are swarmed until resolved.
 
-__ Biggest differentiator in devOps compared to traditional software life-cycle?__
+__Biggest differentiator in devOps compared to traditional software life-cycle?__
 In the technology value stream, we optimize for downstream work centers by designing for operations, where operational non-functional requirements (e.g., architecture, performance, reliability, stability, testability, configurability, and security) are prioritized as highly as user features.
 
 
@@ -185,7 +185,7 @@ Typical teams involved in value stream mapping:
 - Release Managers
 - Technology executive or value stream manager
 
-___ Managing Technical Debt and Non-functional requirements ___
+___Managing Technical Debt and Non-functional requirements___
 Invest around 20% of all dev and ops time on Non-functional requirements. This is the only way to pay down technical debt.
 
 #### Use tools to reinforce behavior
