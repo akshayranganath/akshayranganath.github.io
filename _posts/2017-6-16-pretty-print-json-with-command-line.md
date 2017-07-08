@@ -3,6 +3,8 @@ layout: post
 title: Pretty Print JSON &#38; Move it to Command Line
 comment: true
 description: Pretty printing JSON is a common operation. I show how to get this done and set it as a command.
+image: /images/needle.jpg 
+tag: [json,pretty-print]
 ---
 Pretty printing JSON is a very common operation. In this post, I show how to build the code and make the script an executable as a first-class command.
 
