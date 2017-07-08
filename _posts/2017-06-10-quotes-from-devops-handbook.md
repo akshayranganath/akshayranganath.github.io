@@ -41,7 +41,7 @@ _Why is this important?_
 
 _There is a discussion of *dark releases* and *feature flags*. Here's a very well written description by [Martin Fowler](https://twitter.com/martinfowler):_ [Feature toggles](https://martinfowler.com/articles/feature-toggles.html)
 
-![feature toggles overview](https://martinfowler.com/articles/feature-toggles/overview-diagram.png)
+![feature toggles overview](/images/feature_toggles.png)
 
 ### Where is DevOps impact seen?
 This list is based on work done for [Puppet Labs - State of DevOps report](https://puppet.com/resources/whitepaper/2016-state-of-devops-report).
@@ -97,7 +97,8 @@ Taken from the blog by [Gene Kim](https://twitter.com/RealGeneKim) titled [The T
 ### First Way - Fast Flow
 
 - *First Way*: The First Way requires the fast and smooth flow of work from Development to Operations, to deliver value to customers quickly. We optimize for this global goal instead of local goals, such as Development feature completion rates, test find/fix rations, or Ops availably measures.
-<img alt="First way - principles of flow" src="https://itrevolution.com/wp-content/uploads/2012/08/first-way2-400x191.png" width="50%">
+
+![first way](/images/first_way.png)
 
 >Stop starting. Start finishing. - David J. Anderson.
 
@@ -106,7 +107,7 @@ With enough handoffs, the work can completely loose the context of the problem b
 
 __ 5 Focusing steps - Dr Goldratt __
 
-<a href="https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884271951"><img alt="The Goal book" src="https://images-na.ssl-images-amazon.com/images/I/519C2Gz-v2L._SX334_BO1,204,203,200_.jpg" width="20%"></a>
+<a href="https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884271951">![The Goal book cover](/images/the_goal_book.jpg)</a>
 
 - identify the system's constraint
 - decide how to explot the system's contraint
@@ -121,7 +122,7 @@ __ DevOps Transformation - Focus Areas __
 - Test setup and run
 - Overly tight architecture
 
-__I am praphrasing here__
+__I am paraphrasing here__
 The goal of fast flow is to make any kind of waste and hardships - anything that requires heroics is made visible and to systematically alleviate or eliminate the burden. Types of waste that lead to heroics are:
 
 - partially done work (sitting in QA, waiting for deployment - stuck WIP)
@@ -135,7 +136,7 @@ The goal of fast flow is to make any kind of waste and hardships - anything that
 
 ### Second way - Principles of Feedback
 
-<img alt="Second way - principles of feedback" src="https://itrevolution.com/wp-content/uploads/2012/08/second-way1-400x211.png" width="50%">
+![second way](/images/second_way.png)
 
 .. Second way describes the principles that enable the fast and constant feedback from right to left at all stages of value stream.
 
@@ -154,7 +155,7 @@ Preventing the introduction of new work enables continuous integration and deplo
 
 ### Third way - Continual learning and Experimentation
 
-<img alt="Third way - priciples of continual learning and experimentation" src="https://itrevolution.com/wp-content/uploads/2012/08/third-way-400x224.png" width="50%">
+![third way](/images/third_way.png)
 
 .. the Third Way focuses on creating a culture of continual learning and experimentation. These are the principles that enable constant creation of individual knowledge, which is then turned into team and organizational knowledge.
 
@@ -186,4 +187,66 @@ Typical teams involved in value stream mapping:
 
 ___ Managing Technical Debt and Non-functional requirements ___
 Invest around 20% of all dev and ops time on Non-functional requirements. This is the only way to pay down technical debt.
+
+#### Use tools to reinforce behavior
+
+Tools should be designed such that dev and Ops use the same systems to create a queue of shared work. It can show a unified backlog. This can help in prioritizing work that delivers highest value to the organization.
+
+## Designing Organizational Structure
+
+_Dr. Melvin Conway - Conway's Law:_
+>“organizations which design systems...are constrained to produce designs which are copies of the communication structures of these organizations….The larger an organization is, the less flexibility it has and the more pronounced the phenomenon.”
+
+Simplified by Eris S. Raymong:
+>“The organization of the software and the organization of the software team will be congruent; commonly stated as ‘if you have four groups working on a compiler, you’ll get a 4-pass compiler.’”
+
+### Organizational Archetypes
+
+- **Functional-oriented organizations** optimize for expertise, division of labor, or reducing cost. These organizations centralize expertise, which helps enable career growth and skill development, and often have tall hierarchical organizational structures.
+- **Market-oriented organizations** optimize for responding quickly to customer needs. These organizations tend to be flat, composed of multiple, cross-functional disciplines ..  which often lead to potential redundancies across the organization. (__most commonly seen in early adopters of devOps).
+- **Matrix-oriented organizations** attempt to combine functional and market orientation. However, as many who work in or manage matrix organizations observe, matrix organizations often result in complicated organizational structures
+
+#### Why Functional oriented organizations fail to adopt devOps?
+.. as we increase the number of Development teams and their deployment and release frequencies, most functionally-oriented organizations will have difficulty keeping up and delivering satisfactory outcomes, especially when their work is being performed manually.
+
+** How to adopt Market organization practices? **
+Instead of re-organizing, embed functional specialist into service teams or automate the specific process (like provisioning, testing). This will help service teams to deliver value independent of other groups.
+
+** Common Trend in good DevOps organizations **
+> ..a high-trust culture that enables all departments to work together effectively, where all work is transparently prioritized and there is sufficient slack in the system to allow high-priority work to be completed quickly. 
+
+** Issue of monolithic application **
+>When we have a tightly-coupled architecture, small changes can result in large scale failures. As a result, anyone working in one part of the system must constantly coordinate with anyone else working in another part of the system they may affect, including navigating complex and bureaucratic change management processes.
+
+** Bounded Contexts **
+.. described in __Domain Driven Design__ by __Eric J. Evans__
+>The idea is that developers should be able to understand and update the code of a service without knowing anything about the internals of its peer services. Services interact with their peers strictly through APIs and thus don’t share data structures, database schemata, or other internal representations of objects.
+
+** Heather Mickman - Requirements from team members **
+>Because our team also needed to deliver capabilities in days, not months, I needed a team who could do the work, not give it to contractors—we wanted people with kickass engineering skills, not people who knew how to manage contracts. 
+
+## Building the foundation
+
+One of the recurring idea in building the foundation is for Operations team to build self-service capabilities for the Dev teams. Basically, Dev teams should rely on Ops tools rather than on Ops people. The tools should be completely automated and the usage should be on "on demand" basis. Dev teams should not have to use ticketing system or it'll lead to bottle necks.
+
+
+** Breaking the Dev / Ops boundaries** 
+It is better to either:
+
+- embed Ops engineers into Dev teams OR
+- assign Ops liason to Dev teams
+
+This will ensure that Ops priorities are now driven by the goals of the product teams as opposed to Ops focused inwardly on solving their own problems. It has a side-effect where the interaction can help the dev teams understand the process and open up automation opportunities.
+
+### Scrum Standup meetings
+
+Popular ritual of Scrum is the Daily Standup meeting. Discuss:
+
+- what was done yesterday
+- what is going to be done today
+- what is preventing you from getting your work done
+
+### Retrospectives
+
+
 
