@@ -248,5 +248,18 @@ Popular ritual of Scrum is the Daily Standup meeting. Discuss:
 
 ### Retrospectives
 
+![rear view](/images/retrospect.jpg)
+
+An agile practice where teams meet at the end of a development interval and discuss 3 things:
+
+- what was successful
+- what can be improved
+- how to incorporate the success and improvements in the future iterations
+
+** Building Kanbans for Operations ** 
+Making the work of ops visible ensures that it is easier to keep track of the work in progress, the effort required to move the code to production and the points where back-logs occur and potentially improve the process.
+
+## The First Way - Practices of Flow
+To help in a 
 
 

@@ -17,6 +17,7 @@ description: Collated list of my blogs on topics related to DevOps core concepts
 
 
 ## DevOps Core Concepts
+- [How to learn & adopt devops?](https://akshayranganath.github.io/how-to-learn-and-adopt-to-devops/)
 - [Quotes from the book Phoenix Project](https://akshayranganath.github.io/quotes-from-book-the-phoenix-project/)
 - [AWS Summit SFO - Day 1 notes](https://akshayranganath.github.io/AWSSummit-SFO-Day1-Notes/)
 - [AWS Summit SFO - Keynote &amp; Day 2 notes](https://akshayranganath.github.io/AWSSummit-SFO-Day2-Keynote-Notes/)
@@ -25,8 +26,8 @@ description: Collated list of my blogs on topics related to DevOps core concepts
 
 
 ## Webperformance &amp Search Engine Optimization
-- [Useful Seach Engine Optimization Tags - Part 1](https://akshayranganath.github.io/Useful-SEO-tags-part-1/)
-- [Useful Seach Engine Optimization Tags - Part 2](https://akshayranganath.github.io/Useful-SEO-Tags-Part-2/)
+- [Useful Search Engine Optimization Tags - Part 1](https://akshayranganath.github.io/Useful-SEO-tags-part-1/)
+- [Useful Search Engine Optimization Tags - Part 2](https://akshayranganath.github.io/Useful-SEO-Tags-Part-2/)
 - [What metrics matter for SEO?](https://akshayranganath.github.io/what-metrics-matter-for-seo/)
 - [How can a Content Delivery Network help in your SEO?](https://akshayranganath.github.io/how-can-cdn-help-in-your-seo-efforts/)
 - [Web Performance - Notes from PerfPlanet December calendar blogs](https://akshayranganath.github.io/webperformance-notes-from-perfplanet/)
