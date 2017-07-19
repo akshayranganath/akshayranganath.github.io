@@ -51,7 +51,7 @@ After reading these 2 books, I realized that there were so many things that I wa
 
 ## Getting involved..
 
-![hands on ](/images/hands-on.jpg)
+![hands on ](/images/handson.jpg)
 
 The next step was to get a more in-depth view and learn the **how** of devops. Actually, this step gaining more understanding of the _what_ and _why_ as well. For this purpose, I would highly recommend the book **[The DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002/ref=pd_lpo_sbs_14_t_0/140-1510501-0325548?_encoding=UTF8&psc=1&refRID=J9PM2SX07X936SY6DHJ9)**. It explains in a very clear manner on how organizations can approach the devops transformation. The authors cover various aspects from culture, the tooling and the process necessary to make this transformation. I have published a [collection of quotes from DevOps handbook](https://akshayranganath.github.io/quotes-from-devops-handbook/) as well.
 
