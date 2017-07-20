@@ -17,7 +17,7 @@ description: Collated list of my blogs on topics related to DevOps core concepts
 
 
 ## DevOps Core Concepts
-- [How to learn & adopt devops?](https://akshayranganath.github.io/how-to-learn-and-adopt-to-devops/)
+- [How to learn & adapt devops?](https://akshayranganath.github.io/how-to-learn-and-adapt-to-devops/)
 - [Quotes from the book Phoenix Project](https://akshayranganath.github.io/quotes-from-book-the-phoenix-project/)
 - [AWS Summit SFO - Day 1 notes](https://akshayranganath.github.io/AWSSummit-SFO-Day1-Notes/)
 - [AWS Summit SFO - Keynote &amp; Day 2 notes](https://akshayranganath.github.io/AWSSummit-SFO-Day2-Keynote-Notes/)
