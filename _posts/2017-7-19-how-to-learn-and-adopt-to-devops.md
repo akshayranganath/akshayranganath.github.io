@@ -16,10 +16,10 @@ If you want to quickly get an idea on the journey, here's my path to DevOps:
 - Take an introductory course on DevOps. There are a few of them from Linux Academy, Linda.com, Udacity and Coursera.
 - Read the book DevOps Handbook to get a firm foundation
 - Build a simple code pipeline with Github. This involves:
--- picking up a programming language, 
--- working with git
--- writing unit tests
--- adding git hooks and github webhooks
+	- picking up a programming language, 
+ 	- working with git
+ 	- writing unit tests
+ 	- adding git hooks and github webhooks
 
 Basically here's the mapping:
 
