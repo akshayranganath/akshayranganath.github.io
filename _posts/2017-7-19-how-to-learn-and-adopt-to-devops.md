@@ -83,4 +83,6 @@ My learning effort was based on the amazing work being done in this field by so 
 I am still collating good resources. If you have any suggestions, please let me know!
 
 ## In the end..
+At the culmination of my effort, I was able to put out a strategy for adopting DevOps with Akamai. If you are interested, head over to my post [Planning a DevOps Strategy](https://developer.akamai.com/blog/2017/07/11/planning-devops-strategy/).
+
 That's it for this edition. I hope to take this forward from my learning over the next few months. Hope this has been useful.
