@@ -1,8 +1,10 @@
 ---
 layout: post
-title: How to learn &amp; adopt DevOps? 
+title: How to learn &amp; adapt DevOps? 
 comment: true
 description: Moving from traditional development models to DevOps is a significant transformation. I share my experience on this journey and the resources I used.
+image: /images/cocoon.jpg
+tags: [devops, automation, automated unit test, git, git hooks, webhooks, transformation]
 ---
 
 DevOps is the latest buzzword but, it is also a philosophy that has a potential to change the way organizations build product and services. Being in a professional services role associated with CDN, I was far removed from the actual development teams and had lost touch with my coding background. Over the last 6-8 months, I have been working on to learn about the concepts of this new methodology and felt that there are may be people out there embarking on a similar journey. If you are one of them, hope my approach can give some ideas. Of course, I am still learning - so if you have any thoughts, please let me know!
