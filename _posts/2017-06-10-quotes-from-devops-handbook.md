@@ -3,6 +3,8 @@ layout: post
 title: Quotes from DevOps Handbook
 comment: true
 description: The DevOps Handbook is codification of DevOps mindset, practices and processes. Written as a follow-up to the other book, The Phoenix Project, it reinforces core concepts. Here are my favorite quotes from the book.
+image: /images/DevOpsHandbook.png
+tags: [devops, book, gene kim, jez humble, devops processes]
 ---
 
 __[The DevOps Handbook]((https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)): How to create world-class agility, reliability and security in technology organizations__ is the follow-on book to __[The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509/ref=pd_lpo_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=6Q7CNB17CF6AAX0DWSKT): A Novel about IT, DevOps, and Helping Your Business Win__. I had collected my favorite [quotes from the Phoenix project](https://akshayranganath.github.io/quotes-from-book-the-phoenix-project/) earlier. I finally managed to get the DevOps handbook and here's my collection of favorite thoughts from the book. 
@@ -260,6 +262,37 @@ An agile practice where teams meet at the end of a development interval and disc
 Making the work of ops visible ensures that it is easier to keep track of the work in progress, the effort required to move the code to production and the points where back-logs occur and potentially improve the process.
 
 ## The First Way - Practices of Flow
-To help in a 
+_my summary_
+To help in a fast deployments, the basic building blocks are:
+
+- create the foundation for an automated deployment pipeline
+- automate testing
+- trunk based development
+- enable low-risk releases and very find-grained telemetry
+
+>In Puppet Labs' 2014 _State of DevOps Report the use of version control by Ops was the highest predictor of both IT performance and organizational performance. In fact, whether Ops used version control was a higher predictor for both IT performance and organizational performance than whether Dev used version control.
+
+Why is this so? It's because there are a lot more complex details involved in configurable settings than in the application code.
+
+__Easier to build and throw-away infrastructure __
+>Bill Baker, a distinguished engineer at Microsoft, quipped that we used to treat servers like pets: “You name them and when they get sick, you nurse them back to health. [Now] servers are [treated] like cattle. You number them and when they get sick, you shoot them.”
+
+__What is _done_?__
+"Done" should be re-defined to "running in production-like" environment.
+Get away from a feature being called done when it runs on a developer machine.
+
+### Fast & Reliable Automated testing
+
+Warning bells to IT outsourcing companies specializing in just testing services?
+>we are likely to get undesired outcomes if we find and fix errors in a separate test phase, executed by a separate QA department only after all development has been completed.
+
+__ Automated testing process __ _my summary_
+Automated testing ensured quality is built at the earliest stage into the product. By having automated unit tests, errors are found at an earlier stage and avoids re-work. Even when a bug is found at a later stage, the remedial process should be to constructed an equivalent unit test to catch a similar bug. Logging of the tests and its results automatically collects evidence for audit and compliance requirements. Integration tests tend to be brittle and it is always better to find as many bugs during unit and acceptance testing.
+
+Refer to the excellent blog post by [Martin Fowler](https://twitter.com/martinfowler?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) titled [Test Pyramid](https://martinfowler.com/bliki/TestPyramid.html).
+
+![test pyramid](/images/AgileTestingPyramid2.jpg "Testing pyramid by Martin Fowler")
+__ Goal of Deployment Pipeline __
+>The goal of the deployment pipeline is to provide everyone in the value stream, especially developers, the fastest possible feedback that a change has taken us out of a deployable state.
 
 
