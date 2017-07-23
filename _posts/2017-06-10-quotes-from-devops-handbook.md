@@ -295,4 +295,34 @@ Refer to the excellent blog post by [Martin Fowler](https://twitter.com/martinfo
 __ Goal of Deployment Pipeline __
 >The goal of the deployment pipeline is to provide everyone in the value stream, especially developers, the fastest possible feedback that a change has taken us out of a deployable state.
 
+>When we use infrastructure as code configuration management tools, we can use the same testing framework that we use to test our code to also test that our environments are configured and operating correctly.
 
+### Enable and Practice Continuous Integration
+
+_Trunk based development_ (__my summary__)
+The more time developers work on a branch, the more difficult it is to merge back. Since it is hard to merge, we tend to delay and this leads to self-defeating cycle.
+
+>Without automated testing, continuous integration is the fastest way to get a big pile of junk that never compiles or runs correctly. <br /> - [Gary Gruver](https://twitter.com/GRUVERGary)
+
+** Version control & Continuous Integration **
+..after comprehensive use of version control, continuous integration is one of the most critical practices that enable the fast flow of work in our value stream, enabling many development teams to independently develop, test, and deliver value. 
+
+
+__Gated Commits__: Basically, verifying the code _before_ it is merged into trunk. When a developer commits code, it undergoes the automated testing and only if it passes, code is merged into trunk. If it fails, the developer is notified and the merge fails. This ensures that the trunk is always tested code.
+
+>trunk-based development predicts higher throughput and better stability, and even higher job satisfaction and lower rates of burnout  <br /> - State of DevOps, 2015
+
+### Automate and enable low-risk releases
+
+_Automated deployments_: Document the steps in deployment process and automate as much as possible.
+
+__ 3 characteristics of automated deployments __
+
+- _Deploying the same way to every environment_: By using the same steps for deployment in each environment, the process is tested and stable.
+- _Smoke testing our deployments_: All the components should and critical transactions should be tested to ensure all components are tested.
+- _Ensure we maintain consistent environment_: Ensure that the environments are synchronized. 
+
+__ Decouple release from deployment __
+
+- _Deployment_ is the installation of a specified version of software to a given environment .. a deployment may or may not be associated with a release of a feature to customers.
+- _Release_ is when we make a feature (or set of features) available to all our customers or a segment of customers
