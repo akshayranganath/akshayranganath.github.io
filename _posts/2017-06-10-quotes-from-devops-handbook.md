@@ -316,13 +316,14 @@ __Gated Commits__: Basically, verifying the code _before_ it is merged into trun
 
 _Automated deployments_: Document the steps in deployment process and automate as much as possible.
 
-__ 3 characteristics of automated deployments __
+__3 characteristics of automated deployments__
 
 - _Deploying the same way to every environment_: By using the same steps for deployment in each environment, the process is tested and stable.
 - _Smoke testing our deployments_: All the components should and critical transactions should be tested to ensure all components are tested.
 - _Ensure we maintain consistent environment_: Ensure that the environments are synchronized. 
 
-__ Decouple release from deployment __
+__Decouple release from deployment__
 
 - _Deployment_ is the installation of a specified version of software to a given environment .. a deployment may or may not be associated with a release of a feature to customers.
 - _Release_ is when we make a feature (or set of features) available to all our customers or a segment of customers
+
