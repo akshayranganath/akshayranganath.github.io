@@ -7,7 +7,7 @@ image: /images/DevOpsHandbook.png
 tags: [devops, book, gene kim, jez humble, devops processes]
 ---
 
-__[The DevOps Handbook]((https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)): How to create world-class agility, reliability and security in technology organizations__ is the follow-on book to __[The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509/ref=pd_lpo_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=6Q7CNB17CF6AAX0DWSKT): A Novel about IT, DevOps, and Helping Your Business Win__. I had collected my favorite [quotes from the Phoenix project](https://akshayranganath.github.io/quotes-from-book-the-phoenix-project/) earlier. I finally managed to get the DevOps handbook and here's my collection of favorite thoughts from the book. 
+__[The DevOps Handbook]((https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)): How to create world-class agility, reliability and security in technology organizations__ is the follow-on book to __[The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509/ref=pd_lpo_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=6Q7CNB17CF6AAX0DWSKT): A Novel about IT, DevOps, and Helping Your Business Win__. I had collected my favorite [quotes from the Phoenix project](https://akshayranganath.github.io/quotes-from-book-the-phoenix-project/) earlier. I finally managed to get the DevOps handbook and here's my collection of favorite thoughts from the book.
 
 ![DevOps Handbook cover photo](/images/DevOpsHandbook.png)
 
@@ -31,7 +31,7 @@ DevOps is the outcome of applying the most trusted principles from the domains o
 ..describes how decisions we make lead to problems that get increasingly more difficult to fix over time, continually reducing our available options in the future.
 
 ### Problem with traditional Dev &amp; Ops Structures
-Talking about the discussion in the book, [The Goal](https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884270610) about conflict between traditional organizational goals and metrics, 
+Talking about the discussion in the book, [The Goal](https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884270610) about conflict between traditional organizational goals and metrics,
 
 >the core, chronic effect - when organization measurements and incentives across different silos prevent the achievement of global organizational goals.
 
@@ -63,10 +63,10 @@ This list is based on work done for [Puppet Labs - State of DevOps report](https
 >.. is defined as the process required to convert a business hypothesis into a technology enabled service that delivers value to the customer.
 
 ```
-My paraphrasing: 
-Value stream starts when the any engineer checks 
-in a change (could be design, user story) and ends with this change 
-is successfully running in production and providing value 
+My paraphrasing:
+Value stream starts when the any engineer checks
+in a change (could be design, user story) and ends with this change
+is successfully running in production and providing value
 to customer and generating feedback and telemetry.
 ```
 
@@ -84,7 +84,7 @@ Have testing and operations simultaneously with design and development to enable
 ```
 	|<--------------- Lead Time ---------------->|
 	|=======================|====================|
-Ticket 					  Work		   		   Work 
+Ticket 					  Work		   		   Work
 Created					Started		 		Completed
 							|<-- Process Time -->|
 ```
@@ -153,7 +153,7 @@ __Biggest differentiator in devOps compared to traditional software life-cycle?_
 In the technology value stream, we optimize for downstream work centers by designing for operations, where operational non-functional requirements (e.g., architecture, performance, reliability, stability, testability, configurability, and security) are prioritized as highly as user features.
 
 
-Preventing the introduction of new work enables continuous integration and deployment, which is 
+Preventing the introduction of new work enables continuous integration and deployment, which is
 
 ### Third way - Continual learning and Experimentation
 
@@ -215,7 +215,7 @@ Simplified by Eris S. Raymong:
 Instead of re-organizing, embed functional specialist into service teams or automate the specific process (like provisioning, testing). This will help service teams to deliver value independent of other groups.
 
 ** Common Trend in good DevOps organizations **
-> ..a high-trust culture that enables all departments to work together effectively, where all work is transparently prioritized and there is sufficient slack in the system to allow high-priority work to be completed quickly. 
+> ..a high-trust culture that enables all departments to work together effectively, where all work is transparently prioritized and there is sufficient slack in the system to allow high-priority work to be completed quickly.
 
 ** Issue of monolithic application **
 >When we have a tightly-coupled architecture, small changes can result in large scale failures. As a result, anyone working in one part of the system must constantly coordinate with anyone else working in another part of the system they may affect, including navigating complex and bureaucratic change management processes.
@@ -225,14 +225,14 @@ Instead of re-organizing, embed functional specialist into service teams or auto
 >The idea is that developers should be able to understand and update the code of a service without knowing anything about the internals of its peer services. Services interact with their peers strictly through APIs and thus don’t share data structures, database schemata, or other internal representations of objects.
 
 ** Heather Mickman - Requirements from team members **
->Because our team also needed to deliver capabilities in days, not months, I needed a team who could do the work, not give it to contractors—we wanted people with kickass engineering skills, not people who knew how to manage contracts. 
+>Because our team also needed to deliver capabilities in days, not months, I needed a team who could do the work, not give it to contractors—we wanted people with kickass engineering skills, not people who knew how to manage contracts.
 
 ## Building the foundation
 
 One of the recurring idea in building the foundation is for Operations team to build self-service capabilities for the Dev teams. Basically, Dev teams should rely on Ops tools rather than on Ops people. The tools should be completely automated and the usage should be on "on demand" basis. Dev teams should not have to use ticketing system or it'll lead to bottle necks.
 
 
-** Breaking the Dev / Ops boundaries** 
+** Breaking the Dev / Ops boundaries**
 It is better to either:
 
 - embed Ops engineers into Dev teams OR
@@ -258,7 +258,7 @@ An agile practice where teams meet at the end of a development interval and disc
 - what can be improved
 - how to incorporate the success and improvements in the future iterations
 
-** Building Kanbans for Operations ** 
+** Building Kanbans for Operations **
 Making the work of ops visible ensures that it is easier to keep track of the work in progress, the effort required to move the code to production and the points where back-logs occur and potentially improve the process.
 
 ## The First Way - Practices of Flow
@@ -305,7 +305,7 @@ The more time developers work on a branch, the more difficult it is to merge bac
 >Without automated testing, continuous integration is the fastest way to get a big pile of junk that never compiles or runs correctly. <br /> - [Gary Gruver](https://twitter.com/GRUVERGary)
 
 ** Version control & Continuous Integration **
-..after comprehensive use of version control, continuous integration is one of the most critical practices that enable the fast flow of work in our value stream, enabling many development teams to independently develop, test, and deliver value. 
+..after comprehensive use of version control, continuous integration is one of the most critical practices that enable the fast flow of work in our value stream, enabling many development teams to independently develop, test, and deliver value.
 
 
 __Gated Commits__: Basically, verifying the code _before_ it is merged into trunk. When a developer commits code, it undergoes the automated testing and only if it passes, code is merged into trunk. If it fails, the developer is notified and the merge fails. This ensures that the trunk is always tested code.
@@ -320,10 +320,78 @@ __3 characteristics of automated deployments__
 
 - _Deploying the same way to every environment_: By using the same steps for deployment in each environment, the process is tested and stable.
 - _Smoke testing our deployments_: All the components should and critical transactions should be tested to ensure all components are tested.
-- _Ensure we maintain consistent environment_: Ensure that the environments are synchronized. 
+- _Ensure we maintain consistent environment_: Ensure that the environments are synchronized.
 
 __Decouple release from deployment__
 
 - _Deployment_ is the installation of a specified version of software to a given environment .. a deployment may or may not be associated with a release of a feature to customers.
 - _Release_ is when we make a feature (or set of features) available to all our customers or a segment of customers
 
+
+## Release Patterns
+2 broad ways of release pattern:
+
+- Environment-based release patterns
+    - Blue / Green
+    - Canary deployments: Typical deployment pattern:
+        - A1 group: In prod, but serve to internal users only
+        - A2 group: small % of customers
+        - A3 group: Rest of production servers
+
+- Application-based release patterns
+    - Feature flag
+    - Dark launches
+
+__Cluster immune system__ extends on canary release by linking production monitoring to releae process. It'll automativally roll back change when user-performance issues are detected.
+
+__Feature toggle__ enables us to do the following:
+
+- Roll back easily
+- Gracefully degrade performance
+- Increase our resilience through a service-oriented architecture
+
+
+__Testing tip__
+>To ensure that we find errors in features wrapped in feature toggles, our automated acceptance tests should run with all feature toggles on.
+
+Ultimate goal of CI/CD effort:
+.. deployments should be low-risk push-button events we can perform on demand.
+
+Paradox of goals in IT Organizations:
+>reducing our overall complexity and increasing the productivity of all our development teams is rarely the goal of an individual project.
+
+#### Replacing monolith
+2 patterns:
+
+- [Strangler application](https://www.martinfowler.com/bliki/StranglerApplication.html) pattern
+- _[Branching by abstraction](https://martinfowler.com/bliki/BranchByAbstraction.html)_ pattern by Paul Hammant
+
+## The Second Way
+
+__ Secret of high performers __
+>High performers used a disciplined approach to solving problems, using production telemetry to understand possible contributing factors to focus their problem solving, as opposed to lower performers who would blindly reboot servers.
+
+__ Telemetry __ defined
+>an automated communications process by which measurements and other data are collected at remote points and are subsequently transmitted to receiving equipment for monitoring
+.. telemetry is what enables us to assemble our best understanding of reality and detect when our understanding of reality is incorrect.
+
+In the world of devOps, monitoring is so important that monitoring systems need to be more available and scalable than the systems being monitored.
+
+__ Culture of blame__
+Typical metric used is *[mean time until declared innocent](http://www.networkworld.com/article/2264981/lan-wan/eliminating-the-mean-time-to-innocence.html)* - how quickl can we convince everyone else that we didn't cause the outage.
+
+#### Information radiator
+"[Information radiator](https://www.agilealliance.org/glossary/information-radiators/)" is the generic term for any of a number of handwritten, drawn, printed or electronic displays which a team places in a highly visible location, so that all team members as well as passers-by can see the latest information at a glance: count of automated tests, velocity, incident reports, continuous integration status, and so on.
+
+The goal of telemetry and monitoring is to reduce MTTR instead of trying to focus and reduce MTBF.
+
+![monitoring break down](https://image.slidesharecdn.com/monitoring-project-overview-120119004841-phpapp02/95/atlassian-hostedops-ondemand-monitoring-6-728.jpg?cb=1327832130)
+
+> Alert fatigue is the single biggest problem we have right now.. We need to be more intelligent about our alerts or we'll go insane.
+
+## Tools
+- statsD
+- Zookeeper
+- Etcd
+- Consul
+- stats - mean, median, std deviaton, chi squared distribution, fast fourier transform
