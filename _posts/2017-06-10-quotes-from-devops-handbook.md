@@ -211,20 +211,20 @@ Simplified by Eris S. Raymong:
 #### Why Functional oriented organizations fail to adopt devOps?
 .. as we increase the number of Development teams and their deployment and release frequencies, most functionally-oriented organizations will have difficulty keeping up and delivering satisfactory outcomes, especially when their work is being performed manually.
 
-** How to adopt Market organization practices? **
+**How to adopt Market organization practices?**
 Instead of re-organizing, embed functional specialist into service teams or automate the specific process (like provisioning, testing). This will help service teams to deliver value independent of other groups.
 
-** Common Trend in good DevOps organizations **
+**Common Trend in good DevOps organizations**
 > ..a high-trust culture that enables all departments to work together effectively, where all work is transparently prioritized and there is sufficient slack in the system to allow high-priority work to be completed quickly.
 
-** Issue of monolithic application **
+**Issue of monolithic application**
 >When we have a tightly-coupled architecture, small changes can result in large scale failures. As a result, anyone working in one part of the system must constantly coordinate with anyone else working in another part of the system they may affect, including navigating complex and bureaucratic change management processes.
 
-** Bounded Contexts **
+**Bounded Contexts**
 .. described in __Domain Driven Design__ by __Eric J. Evans__
 >The idea is that developers should be able to understand and update the code of a service without knowing anything about the internals of its peer services. Services interact with their peers strictly through APIs and thus don’t share data structures, database schemata, or other internal representations of objects.
 
-** Heather Mickman - Requirements from team members **
+**Heather Mickman - Requirements from team members**
 >Because our team also needed to deliver capabilities in days, not months, I needed a team who could do the work, not give it to contractors—we wanted people with kickass engineering skills, not people who knew how to manage contracts.
 
 ## Building the foundation
@@ -232,7 +232,7 @@ Instead of re-organizing, embed functional specialist into service teams or auto
 One of the recurring idea in building the foundation is for Operations team to build self-service capabilities for the Dev teams. Basically, Dev teams should rely on Ops tools rather than on Ops people. The tools should be completely automated and the usage should be on "on demand" basis. Dev teams should not have to use ticketing system or it'll lead to bottle necks.
 
 
-** Breaking the Dev / Ops boundaries**
+**Breaking the Dev / Ops boundaries**
 It is better to either:
 
 - embed Ops engineers into Dev teams OR
@@ -258,7 +258,8 @@ An agile practice where teams meet at the end of a development interval and disc
 - what can be improved
 - how to incorporate the success and improvements in the future iterations
 
-** Building Kanbans for Operations **
+**Building Kanbans for Operations**
+
 Making the work of ops visible ensures that it is easier to keep track of the work in progress, the effort required to move the code to production and the points where back-logs occur and potentially improve the process.
 
 ## The First Way - Practices of Flow
@@ -274,7 +275,7 @@ To help in a fast deployments, the basic building blocks are:
 
 Why is this so? It's because there are a lot more complex details involved in configurable settings than in the application code.
 
-__Easier to build and throw-away infrastructure __
+__Easier to build and throw-away infrastructure__
 >Bill Baker, a distinguished engineer at Microsoft, quipped that we used to treat servers like pets: “You name them and when they get sick, you nurse them back to health. [Now] servers are [treated] like cattle. You number them and when they get sick, you shoot them.”
 
 __What is _done_?__
@@ -286,13 +287,13 @@ Get away from a feature being called done when it runs on a developer machine.
 Warning bells to IT outsourcing companies specializing in just testing services?
 >we are likely to get undesired outcomes if we find and fix errors in a separate test phase, executed by a separate QA department only after all development has been completed.
 
-__ Automated testing process __ _my summary_
+__Automated testing process __ _my summary_
 Automated testing ensured quality is built at the earliest stage into the product. By having automated unit tests, errors are found at an earlier stage and avoids re-work. Even when a bug is found at a later stage, the remedial process should be to constructed an equivalent unit test to catch a similar bug. Logging of the tests and its results automatically collects evidence for audit and compliance requirements. Integration tests tend to be brittle and it is always better to find as many bugs during unit and acceptance testing.
 
 Refer to the excellent blog post by [Martin Fowler](https://twitter.com/martinfowler?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) titled [Test Pyramid](https://martinfowler.com/bliki/TestPyramid.html).
 
 ![test pyramid](/images/AgileTestingPyramid2.jpg "Testing pyramid by Martin Fowler")
-__ Goal of Deployment Pipeline __
+__Goal of Deployment Pipeline__
 >The goal of the deployment pipeline is to provide everyone in the value stream, especially developers, the fastest possible feedback that a change has taken us out of a deployable state.
 
 >When we use infrastructure as code configuration management tools, we can use the same testing framework that we use to test our code to also test that our environments are configured and operating correctly.
@@ -368,16 +369,16 @@ Paradox of goals in IT Organizations:
 
 ## The Second Way
 
-__ Secret of high performers __
+__Secret of high performers__
 >High performers used a disciplined approach to solving problems, using production telemetry to understand possible contributing factors to focus their problem solving, as opposed to lower performers who would blindly reboot servers.
 
-__ Telemetry __ defined
+__Telemetry__ defined
 >an automated communications process by which measurements and other data are collected at remote points and are subsequently transmitted to receiving equipment for monitoring
 .. telemetry is what enables us to assemble our best understanding of reality and detect when our understanding of reality is incorrect.
 
 In the world of devOps, monitoring is so important that monitoring systems need to be more available and scalable than the systems being monitored.
 
-__ Culture of blame__
+__Culture of blame__
 Typical metric used is *[mean time until declared innocent](http://www.networkworld.com/article/2264981/lan-wan/eliminating-the-mean-time-to-innocence.html)* - how quickl can we convince everyone else that we didn't cause the outage.
 
 #### Information radiator
