@@ -28,7 +28,7 @@ If your page implements the AMP HTML, passes the validation by AMP JS, then you 
 
 An immediate question that comes to mind is: _Do we remove CDN since we now have AMP and save some money?_ Well, the answer is you will still need a CDN and here are 3 reasons for it.
 
-[team work](/images/fist-pump.jpg)
+![team work](/images/fist-pump.jpg)
 
 ## Reason 1: AMP pages still need to be hosted
 
