@@ -6,10 +6,15 @@ description: Google's Accelerated Mobile Pages (AMP) and Content Delivery Networ
 image: /images/fist-pump.jpg
 tags: [amp, cdn]
 ---
+
+## What is AMP?
+
 According to Google [Accelerated Mobile Pages (AMP)](https://developers.google.com/amp/) project 
 >is built on top of existing web technologies to enable blazing-fast page rendering and content delivery.
 
 Although Google's stated purpose is about speed, the adoption has been due to the carrot it danlges for AMP users. A page that implements AMP could be shown as part of the carousal right under the search bar. A non-AMP page will never be shown here. This SEO jump is what has been driving the folks to try AMP. To get into this carousal, you need to have your content in Google's AMP cache. But - we're getting ahead of oursleves. Let's see how AMP works.
+
+## How does AMP work?
 
 AMP consists of 3 parts. Again, taken from the AMP project:
 
@@ -25,16 +30,19 @@ An immediate question that comes to mind is: _Do we remove CDN since we now have
 [team work](/images/fist-pump.jpg)
 
 ## Reason 1: AMP pages still need to be hosted
-AMP pages are discovered like regular pages by Google. So you need to have a webpage that is hosted on the internet. Here's a the work-flow that Google uses to discover and cache an AMP page. For details and an example, refer to the [case study](#Case Study) below.
+
+AMP pages are discovered like regular pages by Google. So you need to have a webpage that is hosted on the internet. Here's a the work-flow that Google uses to discover and cache an AMP page. For details and an example, refer to the [case study](#case-study) below.
 
 ![How is AMP Page Discovered?](/images/how-is-amp-page-discovered.png)
  
 Google detects that an AMP version exists by looking for the ```&lt;link rel="amphtml"``` tag. Content publishers will potentially need to create 2 versions of a page and host it at origin. Since these are pages that can be cached, serving them over CDN will ensure better performance and a good offload at the origin data center.
 
 ## Reason 2: Google still needs to index
+
 Google claims that _site speed_ is one of the indicators for ranking a web page. To get to a good performance, you'd need to leverage a CDN. This will ensure that the latencies are reduced for the Google bot, regardless of the bot's location and your site has a good performance and  better chance of ranking well on Google.
 
 ## Reason 3: AMP is not universally supported
+
 The target for AMP project was mainly publisers. These are the pages that can easily be cached and has little to no personalization. If you are running an website like an online shop with personalized content, A/B tests and device specific optimizations then, AMP will not be a good fit.
 
 AMP is also not designed for pages that have dynamic elements. So if you have a form or a check-out flow, AMP will not work for you. In all these cases, you'd need to host a version of your website and use a CDN to deliver and optimal experience to your users. 
