@@ -72,8 +72,17 @@ There is a pattern that Google follows to name the AMP domain. This is explained
 #### Use AMP without AMP cache
 Using the JS code to validate your page is the step that actually causes Google to create the Google cache domain and serve the objects from here. If your goal is to build a well-performing web page but without the Google AMP cache, then simply remvove the reference to the JS file. By doing this, you get the advantage of a well performing page and full control over the content. 
 
-The downside is you will not appear in the carousal below search box.
+The downside is you will not appear in the carousal below search box. 
 
+### Create AMP-only page
+You could create a website that has AMP-only version. In this case, the ```&lt;link rel="amphtml"``` tag will point back to the same URL to tell Google that this page is an AMP version. 
+
+For example, [BMW.com](https://www.bmw.com/en/index.html) has a new website that is based on AMP (and progressive web app). If you notice the source code, it starts with this tag:
+
+```html
+<html amp lang="en">
+```
+So this page itself will be served for mobile search results (from AMP cache) and from the regular domain for all other uers.
 
 ## Concluding thoughts
 AMP is targeted for mobile search results and for faster rendering of content on the mobile devices, especially in constrainted network conditions. If you are a web-admin who wants to provide a rich user experience and immersive images, then AMP is not necessarily the right approach. It can give you a marginal SEO boost but, at a cost of minimalistic experience.
