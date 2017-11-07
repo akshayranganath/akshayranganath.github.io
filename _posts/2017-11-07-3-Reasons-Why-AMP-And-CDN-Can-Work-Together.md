@@ -2,10 +2,11 @@
 layout: post
 title: 3 Reasons Why AMP And CDN Can work together
 comment: true
-description: Google's Accelerated Mobile Pages (AMP) and Content Delivery Networks (CDN) are complimentary. I show the two can co-exist.
+description: Google's Accelerated Mobile Pages (AMP) and Content Delivery Networks (CDN) are complimentary. In this post I'd like to show that the two can co-exist.
 image: /images/fist-pump.jpg
 tags: [amp, cdn]
 ---
+Google's Accelerated Mobile Pages (AMP) and Content Delivery Networks (CDN) are complimentary. In this post I'd like to show that the two can co-exist.
 
 ## What is AMP?
 
