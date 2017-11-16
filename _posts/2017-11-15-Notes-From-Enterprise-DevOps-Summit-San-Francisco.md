@@ -7,8 +7,12 @@ image:
 tags: [devops, conferences, san francisco]
 ---
 
-I was privileged to be sponsored by Akamai to attend the Enterprise DevOps Summit in San Francisco. Here are the notes from the sessions I attended.
+I was privileged to be sponsored by Akamai to attend the Enterprise DevOps Summit in San Francisco. Here are the notes from the sessions I attended. All the resources for the conferences were already shared. Here are the links:
 
+- [Presentations on Github](https://github.com/devopsenterprise/2017-San-Francisco)
+- [Presentations on DropBox](https://bit.ly/DOES17SFOslides)
+- [Videos on Youtube](https://www.youtube.com/channel/UCkAQCw5_sIZmj2IkSrNy00A/feed)
+ 
 
 # Day 1: 11/13/2017
 
@@ -64,6 +68,7 @@ Referenced a velocity talk about Ops in one of the roles:
 - rockstars
 - builders
 - janitors
+
 [Watch this](https://www.youtube.com/watch?v=posb7CzWSFc)
 
 _"Weekly retrospective"_ added a huge value and gave a lot of insight on how to improve from grass-roots.
@@ -79,7 +84,7 @@ Cultural change is the hardest change. Success rate of just 19%. But, ability to
 Why do transformations fail?
 Confusion -> Frustration -> Anxiety -> Fear (now people are at the lowest tier of Maslow's pyramid) -> Resistance
 
-[Transformation Leadership model](https://techbeacon.com/sites/default/files/styles/inline_image/public/maynerfigure_0.png?itok=E0nRDj1l)
+![Transformation Leadership model](https://techbeacon.com/sites/default/files/styles/inline_image/public/maynerfigure_0.png?itok=E0nRDj1l)
 
 Books referenced:
 - The Startup Way
@@ -226,6 +231,7 @@ Parameterization of tests and using environment variables made a big difference 
 On-demand is the key. Environment needs to be spun up and down with no tickets and wait times.
 
 #### Cloud Native Architectures
+**[Cornelia Davis](https://twitter.com/cdavisafc))**
 
 Just download the presentation. It is simply too good. Try to get the book as well.
 [Slides](https://www.slideshare.net/cdavisafc/cloud-native-architectures-for-devops)
@@ -491,9 +497,15 @@ Every requirement should follow a Hypothesis Drive Development by [@barryoreilly
 
 - The Startup Way
 - Turn the ship around
-
-### Action items
-
-- integrate GCS pipeline to a tool to measure the cycle time
+- What Got You Here Won’t Get You There
+- Cucumber and Cheese - A Tester's Workshop
+- [Cloud Native](https://www.manning.com/books/cloud-native)
 
 ### Key trends
+
+1. DevOps is in full-swing accross industries
+2. Cultural transformation is the hardest but, it is necessary. 
+3. Focus is shifting from plain "deployment frequency" to being ready for "on-demand" deployments.
+4. Security, esp security of code and the pipeline is gaining attention.
+5. Maturity in-terms of expanding the DevOps to mean more teams like audit, marketing, finance and legal teams
+6. Data is the hardest problem to move to cloud based architecture. This is going be to an ongoing item for investivation.
