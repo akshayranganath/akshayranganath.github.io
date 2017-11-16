@@ -3,11 +3,15 @@ layout: post
 title: Notes from Enterprise DevOps Summit 2017 - San Francisco
 comment: true
 description: I was privileged to be sponsored by Akamai to attend the Enterprise DevOps Summit in San Francisco. Here are the notes from the sessions I attended.
-image: 
+image: /images/DOES2017SFO.png
 tags: [devops, conferences, san francisco]
 ---
 
-I was privileged to be sponsored by Akamai to attend the Enterprise DevOps Summit in San Francisco. Here are the notes from the sessions I attended. All the resources for the conferences were already shared. Here are the links:
+I was privileged to be sponsored by Akamai to attend the Enterprise DevOps Summit in San Francisco. Here are the notes from the sessions I attended. 
+
+![DOES 2017 SFO](/images/DOES2017SFO.png)
+
+All the resources for the conferences were already shared. Here are the links:
 
 - [Presentations on Github](https://github.com/devopsenterprise/2017-San-Francisco)
 - [Presentations on DropBox](https://bit.ly/DOES17SFOslides)
