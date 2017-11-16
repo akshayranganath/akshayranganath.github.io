@@ -195,7 +195,7 @@ Opensource tools: [CapitalOne](https://github.com/capitalone/)
 
 #### The Making of Amazon Prime Now
 
-![amazon virtuous cycle](http://on-amzn.com/wp-content/uploads/2015/04/AMZN-flywheel-300x237.png)
+![amazon virtuous cycle](/images/amazon-maturity-model.png)
 
 _i had to work so could not focus much_
 
@@ -377,10 +377,10 @@ No "devOps" team - everyone has to adopt it.
 #### The Case for Value Stream Architecture
 
 Competition is not across the board. It can be at specific value stream. Case point - 
-![Unbundling of banks](http://thefinancialbrand.com/wp-content/uploads/2015/04/Unbundling-of-a-bank-V2.png)
+![Unbundling of banks](https://thefinancialbrand.com/wp-content/uploads/2015/04/Unbundling-of-a-bank-V2.png)
 
 DevOps is big and there are a lot of startups
-![DevOps startups](http://gptpartners.com/wp-content/uploads/2017/08/GrowthPoint-DevOps-Startup-Landscape-v10.jpg)
+![DevOps startups](https://gptpartners.com/wp-content/uploads/2017/08/GrowthPoint-DevOps-Startup-Landscape-v10.jpg)
 
 DevOps / Lean tries to take the analogy of assembly line. Although accurate to some extent, it does not capture the complexities of software developement:
 - Car assembly lines can stay stable for about a year. Software keeps changing.
