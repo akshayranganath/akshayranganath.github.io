@@ -20,9 +20,16 @@ title: Blog
     {% endif %}
 
     <article>
+      {% if post.description }
       {{ post.description }}
+      {% else %}
+      {{ post.excerpt }}
+      {% endif %}
 
+      {% if post.image %}
       <img src="{{ post.image }}" style="width=33%">
+      {% endif %}
+
     </article>
     <div class="post-more">
       {% endif %}
