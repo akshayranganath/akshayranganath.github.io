@@ -16,7 +16,7 @@ twitter:
 description: Blogs about Web Performance, SEO and web technology.
 tagline: Musings from a Tech Entrepreneur
 
-paginate: 5
+paginate: 8
 paginate_path: '/blog/page:num'
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
