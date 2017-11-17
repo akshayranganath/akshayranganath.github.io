@@ -21,9 +21,11 @@ title: Blog
 
     <article>
       {% if post.description }
-        {{ post.description }}
+        {% post.description %}
+      {% else %}
+        {% post.excerpt %}
       {% endif %}
-        
+
 
 
         <img src="{{ post.image }}" style="width:33%;">
