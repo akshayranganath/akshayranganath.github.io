@@ -224,3 +224,15 @@ In the context of DevOps, blameless postmortems are a form of learning organizat
  
 
 ## Beyond DevOps
+
+DevOps as a term was coined to primarily show that two teams that typically don't collaborate can actually work together. Once organizations have started to see the benefits, DevOps movement is now growing into partnership with other organizations as well. For example, here are a few of the common movements:
+
+* __DevSecOps__: The purpose and intent of _DevSecOps_ is to build on the mindset that _"everyone is responsible for security"_ with the goal of safely distributing security decisions at speed and scale to those who hold the highest level of context without sacrificing the safety required. (Source: [DevSecOps blog post](http://www.devsecops.org/blog/2015/2/15/what-is-devsecops))
+* __RuggedDevOps__: Rugged DevOps brings the lean thinking and manufacturing work of W. Edwards Deming that DevOps espouses to "ruggedizing" software. In the context of security, this means re-examining the supply chain of software you use to build your products on top of and working to build in security instead of trying to tack it on at the end in a last-ditch security review. (Source: [Want rugged DevOps? Team up your release and security engineers](https://techbeacon.com/want-rugged-devops-team-your-release-security-engineers))
+* DevOps with auditing and legal teams: This is of interest to regulated industries like banking. The idea is that the auditing functionality that can be automated is built into the pipeline. Audit trails and logging are implemented as a frame-work so that the necessary processes and artifacts for audits are baked in.
+
+So the idea of cross-functional teams is growing and the DevOps movement will evolve to encompass more teams as organizations see more success through a rapid innovation cycle that this movement can offer.
+
+This is my idea of giving back to community on the stuff I learnt about DevOps this year. Hope you find it useful!
+
+ 
