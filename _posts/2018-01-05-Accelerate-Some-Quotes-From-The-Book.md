@@ -6,7 +6,7 @@ description: Accelerate by Nicole Forgsen and Jez Humble is the book that explai
 image: https://itrevolution.com/wp-content/uploads/2017/09/Accelerate_3D-300x300.jpg
 ---
 
-[Accelrate - Building & Scaling High Performing Technology Organizations](https://itrevolution.com/book/accelerate/) is a book by [Nicole Forgsen](https://twitter.com/nicolefv) and []Jez Humble](https://twitter.com/jezhumble). It takes on the journey behind the [State of DevOps](https://puppet.com/resources/whitepaper/state-of-devops-report) reports. 
+[Accelrate - Building & Scaling High Performing Technology Organizations](https://itrevolution.com/book/accelerate/) is a book by [Nicole Forgsen](https://twitter.com/nicolefv) and [Jez Humble](https://twitter.com/jezhumble). It takes on the journey behind the [State of DevOps](https://puppet.com/resources/whitepaper/state-of-devops-report) reports. 
 
 ![Accelerate book cover](https://itrevolution.com/wp-content/uploads/2017/09/Accelerate_3D-300x300.jpg)
 
