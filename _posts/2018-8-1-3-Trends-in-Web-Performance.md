@@ -39,6 +39,7 @@ For more information about RAIL, please watch this video about _[RAIL in real wo
 How fast your site _appears_ to load is as important as it really loads. The problem with perceived performance is that there was no way to measure it. It's something of a conundrum like this:
 
 ![PR Perception cartoon](http://forwardthinkingpt.com/wp-content/uploads/2014/09/24cartoon.jpg)
+<cite>Source:<a href="https://www.cartoonstock.com/directory/p/public_perception.asp">https://www.cartoonstock.com/directory/p/public_perception.asp</a>
 
 We have had a lot of measurements like Time to first byte, DOM loaded, onLoad and a host of other measurements. These metrics have been immensely helpful in the evolution of the web performance industry. However, they were designed on the events that could be measured by browsers. However, they failed to answer some basic questions like these:
 
