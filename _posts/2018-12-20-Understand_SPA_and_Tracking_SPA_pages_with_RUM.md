@@ -6,6 +6,10 @@ description: Understand the history API that powers Single Page Application (SPA
 image: /images/mobile-phone.jpg
 ---
 
+## tl;dr;
+SPA relies on HTML 5 History API. Using mPulse's SPA settings, we can track the soft-navigation. Soft-navigation is when the URL changes on the browser but, it doesn't actually re-load the entire page. 
+
+
 I was trying to understand the working of Single Page Applications and came across the article [Using the HTML5 History API](https://css-tricks.com/using-the-html5-history-api/) by [CSS-Tricks](https://css-tricks.com/). In this excellent article, they explain the concept of the HTML5 history API. Normally, when you navigate from one URL to another, the browser re-loads the whole page. However, you may want to change certain parts of the page and not re-load the entire page. This could be accomplished by using AJAX requests. However, if you just use AJAX, the URL of the page remains same. So if you need to share this specific view, there is no way to do so.. That is where the History API comes into picture..
 
 ![mobile](/images/mobile-phone.jpg)
