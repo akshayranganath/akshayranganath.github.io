@@ -1,3 +1,11 @@
+---
+layout: post
+title: Using Python Pandas for Log Analysis
+comment: true
+description: In this short tutorial, I would like to walk through the use of Python Pandas to analyze a CSV log file for offload analysis.
+image: /images/binary-2910663_1280.jpg
+---
+
 In this short tutorial, I would like to walk through the use of [Python Pandas](https://pandas.pydata.org/) to analyze a CSV log file for offload analysis. This is a typical use case that I face as at [Akamai](https://www.akamai.com/). 
 
 ![binary numbers](/images/binary-2910663_1280.jpg)
