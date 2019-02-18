@@ -2,7 +2,7 @@
 layout: post
 title: Using Python Pandas for Log Analysis
 comment: true
-description: In this short tutorial, I would like to walk through the use of Python Pandas to analyze a CSV log file for offload analysis.
+description: In this short tutorial I would like to walk through the use of Python Pandas to analyze a CSV log file for offload analysis.
 image: /images/binary-2910663_1280.jpg
 ---
 
