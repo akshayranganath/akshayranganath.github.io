@@ -88,10 +88,10 @@ Using the 3 things, it would be possible to say reduce the quality of an image o
 
 Frequently, when a website has a lot of code being executed, it can result in a bad user experience. This manifests itself with 4 common symptoms:
 
-1. Delayed "time to Interactive: Main thread of the browser is blocked and this causes a delay in getting the page to an interactive state.
-2. High/variable input latency: Actions like clicks or mouse movements are delayed
-3. High/variable event handling latency: Even handlers experience a delay before the call-back events are fired
-4. Janky animations and scrolling: Responsiveness is slow causing jerks or jumps in scrolls or animations.
+1. _Delayed "time to Interactive_: Main thread of the browser is blocked and this causes a delay in getting the page to an interactive state.
+2. _High/variable input latency_: Actions like clicks or mouse movements are delayed
+3. _High/variable event handling latency_: Even handlers experience a delay before the call-back events are fired
+4. _Janky animations and scrolling_: Responsiveness is slow causing jerks or jumps in scrolls or animations.
 
 To identify such delays, the _Long Tasks API_ was proposed. A _Long Task_ is basically any script execution over 50 ms that cause one of the above problems.
 
