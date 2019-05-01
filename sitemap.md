@@ -14,6 +14,10 @@ description: Collated list of my blogs on topics related to DevOps core concepts
 - [Integraring Akamai with Varnish - The Varnish Connector training notes](https://akshayranganath.github.io/Akamai-Varnish-Connector-Training/)
 - [Creating virtual environments with for Python](https://akshayranganath.github.io/How-to-create-dev-environment-for-python/)
 - [JSON Pretty Printer for command line](https://akshayranganath.github.io/pretty-print-json-with-command-line/)
+- [OCSP Validation with OpenSSL](https://akshayranganath.github.io/OCSP-Validation-With-Openssl/)
+- [Using python pandas for log analysis]()
+- [Python stats from Jenkins job output](https://akshayranganath.github.io/Python-Stats-From-Jenkins-Job-Output/)
+
 
 
 ## DevOps Core Concepts
@@ -23,6 +27,7 @@ description: Collated list of my blogs on topics related to DevOps core concepts
 - [AWS Summit SFO - Keynote &amp; Day 2 notes](https://akshayranganath.github.io/AWSSummit-SFO-Day2-Keynote-Notes/)
 - [Markdown for notes](https://akshayranganath.github.io/Markdown-for-notes/)
 - [Quotes from DevOps Handbook](https://akshayranganath.github.io/quotes-from-devops-handbook/)
+- [Notes from DevOps Enterprise Summit, 2017](https://akshayranganath.github.io/Notes-From-Enterprise-DevOps-Summit-San-Francisco/)
 
 
 ## Webperformance &amp Search Engine Optimization
@@ -38,3 +43,6 @@ description: Collated list of my blogs on topics related to DevOps core concepts
 - [Wordpress vs Github pages - Performance compared](https://akshayranganath.github.io/Wordpress-vs-Github-Pages/)
 - [5 DIY Tools for SEO Analysis](https://akshayranganath.github.io/5-Free-Tools-For-DIY-SEO-Analysis/)
 - [Synthetic testing with Jenkins and Wordpress](https://akshayranganath.github.io/Synthetic-Testing-With-WPT-and-Jenkins/)
+- [3 Reasons why AMP &amp; CDNs can work together](https://akshayranganath.github.io/3-Reasons-Why-AMP-And-CDN-Can-Work-Together/)
+- [3 Trends in Web Performance](https://akshayranganath.github.io/3-Trends-in-Web-Performance/)
+- [Quick Primer on SPA and SPA tracking with RUM](https://akshayranganath.github.io/Understand_SPA_and_Tracking_SPA_pages_with_RUM/)
