@@ -163,3 +163,5 @@ If the header is present, the RUM solution can capture the timing information pr
 >More details: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Timing-Allow-Origin
 
 ## Conclusion
+
+We've walked through the underlying APIs that power the Real User Monitoring (RUM) solutions. There is work being done to instrument the measurement on SPA frame-works and to measure the time to load certain elements like the [element timing](https://phabricator.wikimedia.org/phame/post/view/157/evaluating_element_timing_for_images/). 
