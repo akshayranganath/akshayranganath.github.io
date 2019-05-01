@@ -68,7 +68,7 @@ Note that support for this API is limited and not all browsers will report these
 
 >Spec: [https://www.w3.org/TR/paint-timing/](https://www.w3.org/TR/paint-timing/)
 
-![wet paint](/images/wet-paint.jpg | height="320px")
+![wet paint](/images/wet-paint.jpg | height=320)
 
 ## Network Information API
 
@@ -82,7 +82,7 @@ Using the 3 things, it would be possible to say reduce the quality of an image o
 
 >Spec: [https://developer.mozilla.org/en-US/docs/Web/API/Network_Information_API](https://developer.mozilla.org/en-US/docs/Web/API/Network_Information_API)
 
-![wifi](/images/wifi.png | height="320px")
+![wifi](/images/wifi.png | height=320)
 
 ## Long Tasks API
 
