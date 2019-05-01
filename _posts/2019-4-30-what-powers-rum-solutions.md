@@ -100,7 +100,8 @@ To identify such delays, the _Long Tasks API_ was proposed. A _Long Task_ is bas
 
 >Spec: [https://w3c.github.io/longtasks/](https://w3c.github.io/longtasks/)
 
-![long task](https://developers.google.com/web/fundamentals/performance/images/perf-metrics-long-tasks.png)
+![long task](/images/perf-metrics-long-tasks.png)
+Source: [https://developers.google.com/web/fundamentals/performance/images/perf-metrics-long-tasks.png](https://developers.google.com/web/fundamentals/performance/images/perf-metrics-long-tasks.png)
 
 ## Server Timing API
 
