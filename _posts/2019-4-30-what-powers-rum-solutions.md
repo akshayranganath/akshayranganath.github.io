@@ -54,8 +54,9 @@ With the User Timing API, the spec provides a high precision timestamp (also cal
 
 ## Paint Timing API
 
-<img src="/images/wet-paint.jpg" height="180px" style="{float:right;}">
 Paint Timing API basically defines 2 different metrics - First Paint and First Contentful Paint. Here's how the spec describes the 2 events:
+<img src="/images/wet-paint.jpg" height="180px" style="{float:right;}">
+
 
 >_First Paint_ entry contains a DOMHighResTimeStamp reporting the time when the browser first rendered after navigation.
 
@@ -72,8 +73,8 @@ Note that support for this API is limited and not all browsers will report these
 
 ## Network Information API
 
-<img src="/images/wifi.png" height="180px" style="{float:right;}">
 One of the questions a lot of website operators receive is to accurately detect the current connectivity condition for a device and to tailor the response based on it. There are a lot of static IP to connection type mapping solutions but, none of them are as reliable as trying to get the information directly from the browser. With this idea in mind, the _Network Information API_ was released. On Chrome, it provides 3 pieces of information:
+<img src="/images/wifi.png" height="180px" style="{float:right;}">
 
 * _effectiveType_: 3g, 4g, etc
 * _downlink_: Download bandwidth as seen on the device
