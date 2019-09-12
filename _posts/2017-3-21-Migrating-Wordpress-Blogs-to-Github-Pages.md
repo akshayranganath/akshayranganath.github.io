@@ -6,7 +6,7 @@ comment: true
 ---
 Over last 3 weeks, I learnt how to create and fix issues on the [github pages](https://pages.github.com/). I wanted to share the steps involved in migrating [my wordpress blog](https://akshayrangananth.wordpress.com/) to a github blog post. 
 
-![Banner of word blog](/images/blog_banner.jpg)
+![Banner of word blog](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/Banner%2520of%2520word%2520blog.jpg)
 
 ## Why give up Wordpress blog?
 I have been using Wordpress blogs for some time now. Wordpress blogs are free, easy to use and very easy to administer. However, the free edition of Wordpress does have these issues:
@@ -36,7 +36,7 @@ Apart from the fact that it is free, I love GitHub pages for the following facto
 * Potential to [CNAME to any hostname](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/) that I want.
 
 ### Migraton steps
-![Migration of birds](/images/migration.jpg)
+![Migration of birds](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/Migration%2520of%2520birds.jpg)
 
 The migration process is quite simple for me:
 

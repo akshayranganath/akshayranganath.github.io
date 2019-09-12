@@ -131,7 +131,7 @@ The most important part is the __Cert Status: good__ line. This indicates that e
 ## Bonus: Dissecting OCSP request
 I was curious to see on what actually happens during the OCSP request and ran a wireshark trace. When we make the OCSP request, this is submitted as a HTTP POST. In this case, the headers looked like this:
 
-![wireshark trace](/images/ocsp_wireshark.png)
+![wireshark trace](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/wireshark%2520trace.png)
 
 ```bash
 POST / HTTP/1.0

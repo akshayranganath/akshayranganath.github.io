@@ -7,7 +7,7 @@ description: Basic SEO analysis for technical folks can sound difficult. There a
 
 SEO Analysis can appear to be quite difficult, especially if you are from a technical background and don't have a lot of knowledge of marketing techniques. However, there are many aspects of SEO that ultimately boils down to a technical health check of your website. In this blog post, I want to cover 5 free tools & methods to get you started with some basic SEO health check.
 
-![health check](/images/health-check.jpg)
+![health check](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/health%2520check.jpg)
 
 ## 1. Search Engine Check
 As a first step, the first thing to check is find out if your site is even being indexed by search engines and if so, which are the pages it considers as most relevant. On google, this involves using the __*site:*__ keyword.

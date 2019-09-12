@@ -6,7 +6,7 @@ description: When migrating to a full HTTPS site, Content-Security-Policy and Up
 ---
 Migrating to a full HTTPS site is hard. Using <b>"Content-Security-Policy: upgrade-insecure-requests"</b> can reduce the "mixed-content" errors for embedded objects. Finally, use <strong>Strict-Transport-Security</strong> header to secure the domain its sub-domains.
 
-![CSP logo](/images/csp.jpg)
+![CSP logo](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/CSP%2520logo.jpg)
 
 ## HTTPS Migration - The Challenge
 In the recent past, there has been a lot of push to move websites to HTTPS. Google has been dangling the carrot of a better ranking by making [HTTPS as a ranking factor](https://webmasters.googleblog.com/2014/08/https-as-ranking-signal.html" target="_blank).
@@ -32,7 +32,7 @@ However, not all requests are upgraded. We learnt this the hard way during a mig
 ### Gotcha# 1: Browser support
 First off, not all browsers support CSP. As per [caniuse.com](http://caniuse.com/#search=upgrade), Firefox, Chrome and Opera are the browsers that support this directive. IE, Edge and Safari currently do not support it.
 
-![Can I use: CSP](/images/can_I_use_csp.png)
+![Can I use: CSP](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/Can%2520I%2520use%253A%2520CSP.png)
 
 ### Gotcha# 2: Exceptions
 Although the W3C document mentions that navigational links are upgraded to https, both Chrome and Firefox have different interpretation
@@ -48,7 +48,7 @@ So Chrome will not upgrade links to HTTPS.
 ## Gotcha# 3: Third Parties
 Third party content is not upgraded. Since browsers don't know if those domains support HTTPS, they don't upgrade. In the current versions, such content is silently blocked. You can find these blocked content by opening the developer tools in Firefox/Chrome and navigating to the console window. It would looks like this example:
 
-![Active mixed content errors](/images/active-mixed-content-errors.png)
+![Active mixed content errors](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/Active%2520mixed%2520content%2520errors.png)
 
 ## What's next?
 By using the CSP header, most of the embedded object errors can be removed. CSP supports [reporting](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP#Enabling_reporting) as well. By enabling this, you as the content publisher can get the set of URLs being blocked/warned by browsers and fix in the source code.

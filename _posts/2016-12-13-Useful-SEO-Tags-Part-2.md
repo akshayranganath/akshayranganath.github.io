@@ -51,7 +51,7 @@ Let's start by looking at the top 25 meta-tags being used. I have published the 
 | data-ue-u |  7 |
 | prefix |  3 |
 
-![meta tag distribution](/images/seo_meta_tag_distribution.png)
+![meta tag distribution](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/meta%2520tag%2520distribution.png)
 
 This is a simplified check since some use of the meta tag is by a combination of values. For example, the meta-description would look like this:
 

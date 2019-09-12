@@ -8,7 +8,7 @@ tag: [json,pretty-print]
 ---
 Pretty printing JSON is a very common operation. In this post, I show how to build the code and make the script an executable as a first-class command.
 
-![Command Prompt](/images/command_prompt.png)
+![Command Prompt](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/Command%2520Prompt.png)
 
 ## Building Pretty Print program
 In python, pretty-printing is very straight forward. It only needs the use of the built-in library __json__ and using the __dumps__ method. Given any data, the following code can format and sort the keys of JSON and print it to console.

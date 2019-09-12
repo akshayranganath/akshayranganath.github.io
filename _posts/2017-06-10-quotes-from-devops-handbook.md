@@ -9,7 +9,7 @@ tags: [devops, book, gene kim, jez humble, devops processes]
 
 __[The DevOps Handbook]((https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)): How to create world-class agility, reliability and security in technology organizations__ is the follow-on book to __[The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509/ref=pd_lpo_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=6Q7CNB17CF6AAX0DWSKT): A Novel about IT, DevOps, and Helping Your Business Win__. I had collected my favorite [quotes from the Phoenix project](https://akshayranganath.github.io/quotes-from-book-the-phoenix-project/) earlier. I finally managed to get the DevOps handbook and here's my collection of favorite thoughts from the book.
 
-![DevOps Handbook cover photo](/images/DevOpsHandbook.png)
+![DevOps Handbook cover photo](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/DevOps%2520Handbook%2520cover%2520photo.png)
 
 ## DevOps Myths
 
@@ -43,7 +43,7 @@ _Why is this important?_
 
 _There is a discussion of *dark releases* and *feature flags*. Here's a very well written description by [Martin Fowler](https://twitter.com/martinfowler):_ [Feature toggles](https://martinfowler.com/articles/feature-toggles.html)
 
-![feature toggles overview](/images/feature_toggles.png)
+![feature toggles overview](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/feature%2520toggles%2520overview.png)
 
 ### Where is DevOps impact seen?
 This list is based on work done for [Puppet Labs - State of DevOps report](https://puppet.com/resources/whitepaper/2016-state-of-devops-report).
@@ -100,7 +100,7 @@ Taken from the blog by [Gene Kim](https://twitter.com/RealGeneKim) titled [The T
 
 - *First Way*: The First Way requires the fast and smooth flow of work from Development to Operations, to deliver value to customers quickly. We optimize for this global goal instead of local goals, such as Development feature completion rates, test find/fix rations, or Ops availably measures.
 
-![first way](/images/first_way.png)
+![first way](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/first%2520way.png)
 
 >Stop starting. Start finishing. - David J. Anderson.
 
@@ -138,7 +138,7 @@ The goal of fast flow is to make any kind of waste and hardships - anything that
 
 ### Second way - Principles of Feedback
 
-![second way](/images/second_way.png)
+![second way](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/second%2520way.png)
 
 .. Second way describes the principles that enable the fast and constant feedback from right to left at all stages of value stream.
 
@@ -157,7 +157,7 @@ Preventing the introduction of new work enables continuous integration and deplo
 
 ### Third way - Continual learning and Experimentation
 
-![third way](/images/third_way.png)
+![third way](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/third%2520way.png)
 
 .. the Third Way focuses on creating a culture of continual learning and experimentation. These are the principles that enable constant creation of individual knowledge, which is then turned into team and organizational knowledge.
 

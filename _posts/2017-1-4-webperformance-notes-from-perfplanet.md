@@ -6,7 +6,7 @@ comment: true
 
 Every year, in the month of December, [calendar.perfplanet.com](http://calendar.perfplanet.com) invites the experts from Web Performance to contribute their ideas as one blog post a day. It has some very insightful articles and hints at the upcoming technologies.
 
-![PerfPlanet logo](/images/perfplanet_logo.png)
+![PerfPlanet logo](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/PerfPlanet%2520logo.png)
 
 I went through the articles and made some notes and thought of sharing it for myself and for anyone who is harried for time.
 

@@ -9,7 +9,7 @@ tags: [devops, conferences, san francisco]
 
 I was privileged to be sponsored by Akamai to attend the Enterprise DevOps Summit in San Francisco. Here are the notes from the sessions I attended. 
 
-![DOES 2017 SFO](/images/DOES2017SFO.png)
+![DOES 2017 SFO](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/DOES%25202017%2520SFO.png)
 
 All the resources for the conferences were already shared. Here are the links:
 
@@ -140,7 +140,7 @@ Build chaos engineering tools as a foundational service. Every application has t
 ### DevOps Handboook Experiments in Accelerating Delivery
 
 Lessons implemented from the DevOps hand book:
-![DevOps Handbook lessons](/images/devops-handbook-lessons.png)
+![DevOps Handbook lessons](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/DevOps%2520Handbook%2520lessons.png)
 
 Instead of "presenting" to management, rely on "Show and Tell". It provides better frasp to management.
 
@@ -199,7 +199,7 @@ Opensource tools: [CapitalOne](https://github.com/capitalone/)
 
 #### The Making of Amazon Prime Now
 
-![amazon virtuous cycle](/images/amazon-maturity-model.png)
+![amazon virtuous cycle](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/amazon%2520virtuous%2520cycle.png)
 
 _i had to work so could not focus much_
 
@@ -326,7 +326,7 @@ Action item: Download and share the [stellar report](http://stella.report/).
 
 > incidents of yesterday inform and the architecture and rule of tomorrow.
 
-![incidents as investment](/images/allspaw-incidents.png)
+![incidents as investment](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/incidents%2520as%2520investment.png)
 
 Check out [adaptivecapatictylabs.com](https://adaptivecapatictylabs.com/)
 
@@ -350,7 +350,7 @@ _This follows John Allspaw's talk. When trying to find the root cause, analyze w
 
 Understand how things go right to figure out processes on when things go wrong.
 
-![Dekeer - focus on what's right](/images/dekker-focus-on-right.png)
+![Dekeer - focus on what's right](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/Dekeer%2520-%2520focus%2520on%2520what%2527s%2520right.png)
 
 #### Fear does not exist in the dojo - a devops journey with a competitive twist
 
@@ -366,7 +366,7 @@ Note to self: Can our consulting work-shop be modeled on this?
 
 Internal DevOpsDays - a very good way to engage, encourage and learn.
 
-![Internal devops conference](/images/devops-internal-conference.png)
+![Internal devops conference](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/Internal%2520devops%2520conference.png)
 Gamification of DevOps and get teams excited.
 
 
@@ -374,7 +374,7 @@ Gamification of DevOps and get teams excited.
 
 No "devOps" team - everyone has to adopt it. 
 
-![nike transformation](/images/nike-transformation.png)
+![nike transformation](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/nike%2520transformation.png)
 
 ### Breakouts
 
@@ -477,7 +477,7 @@ Data is still in silos.
 Read up on [12 factor app](https://12factor.net/)
 
 Cloud Native architecture for data.
-![cloud native architecture](/images//cloud-native-architecture.png)
+![cloud native architecture](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/cloud%2520native%2520architecture.png)
 
 
 #### The Yin and Yang of Speed and Control

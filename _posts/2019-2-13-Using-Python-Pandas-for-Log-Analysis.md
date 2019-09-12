@@ -8,7 +8,7 @@ image: /images/binary-2910663_1280.jpg
 
 In this short tutorial, I would like to walk through the use of [Python Pandas](https://pandas.pydata.org/) to analyze a CSV log file for offload analysis. This is a typical use case that I face as at [Akamai](https://www.akamai.com/). 
 
-![binary numbers](/images/binary-2910663_1280.jpg)
+![binary numbers](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/binary%2520numbers.jpg)
 
 ## Background
 

@@ -8,7 +8,7 @@ image: /images/hourglass-2910951_640.jpg
 
 Real User Monitoring (RUM) is the ability to measure the performance of your website / web application as seen by your end users. Some of the measurements are well-supported, some are browser specific and a few standards allow observability by letting you decide the measurement parameters. In the plethora of tools, it is hard to understand the differences. With this post, I would like to provide you a firm foundation on the minimum supported provided by the RUM solution for some solid measurements.
 
-![hourglass measurement](/images/hourglass-2910951_640.jpg)
+![hourglass measurement](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/hourglass%2520measurement.jpg)
 
 ## Navigation Timing API
 
@@ -100,7 +100,7 @@ To identify such delays, the _Long Tasks API_ was proposed. A _Long Task_ is bas
 
 >Spec: [https://w3c.github.io/longtasks/](https://w3c.github.io/longtasks/)
 
-![long task](/images/perf-metrics-long-tasks.png)
+![long task](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/long%2520task.png)
 Source: [https://developers.google.com/web/fundamentals/performance/images/perf-metrics-long-tasks.png](https://developers.google.com/web/fundamentals/performance/images/perf-metrics-long-tasks.png)
 
 ## Server Timing API
@@ -155,11 +155,11 @@ Timing-Allow-Origin: https://www.customer.com
 If the header is present, the RUM solution can capture the timing information provided through Resource Timing API. If this is not available, it will just report the entire time from start of request to end of download as one simple period. If you were using the Akamai's mPulse solution, here's how the addition of the header will change the report.
 
 #### Without TAO
-![waterfall without resource timing](/images/waterfall_without_resource_time.png)
+![waterfall without resource timing](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/waterfall%2520without%2520resource%2520timing.png)
 
 #### With TAO / Same origin
 
-![waterfall with resource timing](/images/waterfall_with_resource_time.png)
+![waterfall with resource timing](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/waterfall%2520with%2520resource%2520timing.png)
 
 >More details: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Timing-Allow-Origin
 

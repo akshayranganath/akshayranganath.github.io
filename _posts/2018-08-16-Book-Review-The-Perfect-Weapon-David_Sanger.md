@@ -16,7 +16,7 @@ After reading this line from the cover of the book, I was hooked!
 
 So I managed to get one of the first editions of the book from the local library and read it cover-to-cover. It starts off from the story on how the author broke the story about Iran's centrifuges spinning of control and the hand of US in this effort. It then dwelt on the story of North Korea's missles simply falling off the sky for no apparent reason and some informed speculations about the cause. Pulling in from an eclectic set of sources the author guides us through the recent wave of cyber attacks, it's impact and the problems of retaliation. You see, the world of "cyber" is a whole new realm and the laws of warfare are not clear.
 
-![Hacker](/images/hacker-perfect-weapon.jpg)
+![Hacker](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/Hacker.jpg)
 
 Apart from the astounding stories of hacks by US, China, Russia and Iran, the book is worth for the pertinent questions it raises. Traditional wars has a set of loosely followed rules like the [Geneva convention](https://en.wikipedia.org/wiki/Geneva_Conventions), concepts of aid workers not being harmed and clearly displaying affiliation. Even during the Cold War, chilly concepts like [Mutually Assured Destruction](https://en.wikipedia.org/wiki/Mutual_assured_destruction) existed. Due to this, there were policies around how the cold war actors would escalate the war and what would be off-limits. However, the world of cyber warfare has no such rules.
 

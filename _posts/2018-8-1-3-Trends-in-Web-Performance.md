@@ -13,7 +13,7 @@ Website performance is always an ongoing effort and an elusive target. In the ea
 - Tooling: Set of tools like [CrUX](https://developers.google.com/web/tools/chrome-user-experience-report/), [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/), [LightHouse](https://developers.google.com/web/tools/lighthouse/) and RUM solutions like [mPulse](https://www.akamai.com/us/en/products/web-performance/mpulse-real-user-monitoring.jsp)
 
 So let's dig in!
-![Speed](/images/speed-2018.jpg)
+![Speed](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/Speed.jpg)
 
 ## RAIL Framework
 RAIL is a framework that is being publicized by Google. According to the [Google developer page](https://developers.google.com/web/fundamentals/performance/rail) it is

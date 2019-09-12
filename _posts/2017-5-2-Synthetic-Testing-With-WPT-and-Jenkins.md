@@ -39,7 +39,7 @@ execAndWait	document.getElementsByTagName('a')[4].click();
 ```
 
 The waterfall is broken into 2 steps.
-![wpt waterfall](/images/wpt_combined_steps.png)
+![wpt waterfall](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/wpt%2520waterfall.png)
 
 
 ### Step 2: Convert scripted test to ReST API

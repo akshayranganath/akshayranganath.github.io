@@ -48,7 +48,7 @@ Let's see how the 3 ways work and the basis for these concepts.
 
 ## The First Way
 This is the way of describing the flow of work from left to right, ie. from idea to delivery of working software code. At its heart, it just means that if we remove any blockers, we are able to deliver faster.  
-![First way](/images/first_way.png)
+![First way](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/first%2520way.png)
 
 The First Way requires the fast and smooth flow of work from Development to Operations, to deliver value to customers quickly. We optimize for this global goal instead of local goals, such as Development feature completion rates, test find/fix rations, or Ops availably measures. (_Source: DevOps handbook_)
 
@@ -177,13 +177,13 @@ The Second way is closely tied to first way in terms of the underlying influence
 The Second way also requires cross-functional teams and interaction. Operations team could be part of project planning meetings and provide their (non-functional) requirements that is tracked and tested as part of the release process. This ensures a more robust product.
 
   
-![Second Way](/images/second_way.png)
+![Second Way](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/second%2520way.png)
 
 ## The Third Way
 
 The Third Way focuses on creating a culture of continual learning and experimentation.(_Source: DevOps handbook_) 
 
-![The Third Way](/images/third_way.png)
+![The Third Way](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/The%2520Third%2520Way.png)
  
 The Third Way is influenced by the concepts of Learning Organization, Kaizen, Improvement Kata, blameless postmortems and a lot of ideas. Let us explore a few of them.
 
