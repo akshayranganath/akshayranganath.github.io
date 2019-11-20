@@ -14,6 +14,9 @@ image: https://res.cloudinary.com/akshayranganath/image/fetch/w_300,h_100,c_fill
 
 I have been publishing my blog on Github pages for quite some time now. I really like the approach and the super optimal HTML that is produced. However, when I run performance audits like [Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/), I would get warnings about large images and for not using newer formats like `.webp`. There was no easy way to embed the different format of images without directly embedding `<img>` tags.
 
+![Page speed insights report](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/psi_report.png)
+
+
 I knew that Cloudinary would support the browser-specific format images. However, there was no direct way to migrate all the images. There was no easy way to search/replace the reference to the image as well. So I decided to build this functionality using simple python code. Here's how to do it. It's quite simple - we just need _Algorithms_ :-)
 
 ![Algorithms](https://imgs.xkcd.com/comics/here_to_help_2x.png)
@@ -99,4 +102,6 @@ The last step is to open each blog and find & replace the local image reference 
 
 ### Save and publish
 
-That's it. You can now commit the code and push it to Github. That should be create the updated website and images should be performant!
+That's it. You can now commit the code and push it to Github. That should be create the updated website and images should be performant! Here's the Page Speed report after the change :-)
+
+![page speed report - after](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/psi_report_after.png)
