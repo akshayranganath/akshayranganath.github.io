@@ -8,6 +8,7 @@ image: https://res.cloudinary.com/akshayranganath/image/fetch/w_2048,h_300,c_fil
 
 >tl;dr: Instead of hosting images for your blog on Github account, consider using the free tier of Cloudinary. It saves on usage at Github and allows you to getnerate some cool transformation and better format of images at the same time. Download the source code from [here](https://gist.github.com/akshayranganath/c387b3d011f6da096dbf82bac3a9039d).
 
+![change banner](https://res.cloudinary.com/akshayranganath/image/fetch/w_2048,h_300,c_fill,g_auto/f_auto,q_auto/https://cdn.pixabay.com/photo/2017/10/04/23/42/dandelion-2817950_1280.jpg)
 
 ## Current issue
 
