@@ -7,7 +7,7 @@ description: The Phoenix Project book is a good introduction to the approach of 
 
 Over last 2 weeks, I read the book **The Phoenix Project: A Novel about IT, devops and helping business win**. It was an immensely readable book that explains the need, the role and concepts of DevOps but as a novel. It is a thriller of a story and a wonderful way to get introduced to the concept of DevOps. I'd highly recommend this book.
 
-![Phoneix project book cover](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/Phoneix%2520project%2520book%2520cover.jpg)
+![Phoneix project book cover](https://res.cloudinary.com/akshayranganath-dflt/image/upload/f_auto,q_auto/blog/Phoneix%2520project%2520book%2520cover.jpg)
 
 I took some notes and here are some of my favorite quotes from the book:
 

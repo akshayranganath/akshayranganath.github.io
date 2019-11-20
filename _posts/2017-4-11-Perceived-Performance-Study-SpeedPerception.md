@@ -8,7 +8,7 @@ Recently, a [new paper](https://arxiv.org/abs/1704.01220) was released about [pe
 
 Here's my notes and thoughts about the paper.
 
-![open book](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/open%2520book.jpg)
+![open book](https://res.cloudinary.com/akshayranganath-dflt/image/upload/f_auto,q_auto/blog/open%2520book.jpg)
 
 ## Perceived Performance
 

@@ -9,7 +9,7 @@ tags: [devops, automation, automated unit test, logging]
 
 When moving into an agile / DevOps model of code production, one of the core concepts is building in enough monitoring and telemetry. To enable this, most programming languages come with bundled libraries for logging. There is log4J in Java and [logging](https://docs.python.org/3/library/logging.html) library in python. In this (short) post, I walk through a use case of how it helped.
 
-![satellite telemetry](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/satellite%2520telemetry.jpg)
+![satellite telemetry](https://res.cloudinary.com/akshayranganath-dflt/image/upload/f_auto,q_auto/blog/satellite%2520telemetry.jpg)
 
 ## Nikon RAW Images
 I am trying to be a better digital photographer and the first step was to enable shooting in RAW mode. Since I am still new, I shoot in a combined mode. My camera produces a raw _(.NEF)_ and a jpeg _(.jpg)_ image for every shot. When I open the images, it's easy to view the photos and I delete the obviously bad ones from within the tool. So this has a challenge of deleted .JPG files but orphaned .NEF files.

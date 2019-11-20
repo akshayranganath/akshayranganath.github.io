@@ -6,7 +6,7 @@ description: Learn why Markdown is a good for taking notes during trainings and 
 ---
 
 Over the past few months, I have realized that Markdown is a very good way to take notes, especially if the end goal is to quickly format and convert it to a blog post as well. 
-![i love markdown](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/i%2520love%2520markdown.png)
+![i love markdown](https://res.cloudinary.com/akshayranganath-dflt/image/upload/f_auto,q_auto/blog/i%2520love%2520markdown.png)
 
 ## What is Markdown?
 [Markdown](https://daringfireball.net/projects/markdown/) is a syntax that was introduced by John Gruber as an easy way to convert plain-text to (X)HTML. Among other this is the default format used for publishing [GitHub pages](https://pages.github.com/). So all the blog posts on this website is written using Markdown.

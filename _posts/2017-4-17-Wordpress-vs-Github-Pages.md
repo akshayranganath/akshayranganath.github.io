@@ -38,10 +38,10 @@ With the test, here's the results I get. The numbers are from the [WPT compariso
 | _Reduction_ | _-3%_ | _57%_ | _67%_ | _59%_ | _56%_ | _46%_ | _48%_ | _45%_ | 
 
 Across the board, I see a huge reduction. SpeedIndex reduced by almost 60% indicating above the fold content was available within a second. The dramatic improvement is better visualized in this visual progress image.
-![github vs wordpress - visual progress](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/github%2520vs%2520wordpress%2520-%2520visual%2520progress.png)
+![github vs wordpress - visual progress](https://res.cloudinary.com/akshayranganath-dflt/image/upload/f_auto,q_auto/blog/github%2520vs%2520wordpress%2520-%2520visual%2520progress.png)
 
 Here's a graphic on the reduction in each performance metric.
-![github vs wordpress - timing metrics](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/github%2520vs%2520wordpress%2520-%2520timing%2520metrics.png)
+![github vs wordpress - timing metrics](https://res.cloudinary.com/akshayranganath-dflt/image/upload/f_auto,q_auto/blog/github%2520vs%2520wordpress%2520-%2520timing%2520metrics.png)
 
 Finally, here's the side-by-side video of the websites loading the content.
 <video width="90%" controls>
@@ -67,10 +67,10 @@ Here's some the primary reasons for Wordpress scoring so low.
 And the reason Ghithub pages lost 2 points is that Fastly CDN that hosts the GitHub page hasn't enabled HTTP/2. Once this is done, the score could be a clean 100!
 
 ### YellowLab result for Wordpress.com site
-![Wordpress.com yellow lab report](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/Wordpress.com%2520yellow%2520lab%2520report.png)
+![Wordpress.com yellow lab report](https://res.cloudinary.com/akshayranganath-dflt/image/upload/f_auto,q_auto/blog/Wordpress.com%2520yellow%2520lab%2520report.png)
 
 ### YellowLab result for Github pages
-![Githubpages yellow lab report](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/Githubpages%2520yellow%2520lab%2520report.png)
+![Githubpages yellow lab report](https://res.cloudinary.com/akshayranganath-dflt/image/upload/f_auto,q_auto/blog/Githubpages%2520yellow%2520lab%2520report.png)
 
 ## Github Pages FTW!
 Based on the numbers, Githubpages shaved off more almost half the bytes resulting in a much more peformant website. Wordpress did add a lot of scripts that were not necessary for rendering and I had no control over its use. With Github pages, I do have 2 external scripts in the form of Google Analytics and Disqus. Since I know the scripts, I can easily control. If at some point say Disqus misbehaves, I can very easily remove it when building the page and performance will improve. I had no such freedom on Wordpress blog.

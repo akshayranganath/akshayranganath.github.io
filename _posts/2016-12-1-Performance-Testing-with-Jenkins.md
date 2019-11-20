@@ -46,7 +46,7 @@ I set the script to run every 10 minutes. Here’s what this looks like:
 
 For the build script, I just set up the test to run seige for 10s with a concurrency of 1. The test executes against a single URL.
 
-![Jenkins - Siege Script](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/Jenkins%2520-%2520Siege%2520Script.png)
+![Jenkins - Siege Script](https://res.cloudinary.com/akshayranganath-dflt/image/upload/f_auto,q_auto/blog/Jenkins%2520-%2520Siege%2520Script.png)
 
 #### Sample Output
 

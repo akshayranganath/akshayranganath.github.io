@@ -12,7 +12,7 @@ SPA relies on HTML 5 History API. Using mPulse's SPA settings, we can track the 
 
 I was trying to understand the working of Single Page Applications and came across the article [Using the HTML5 History API](https://css-tricks.com/using-the-html5-history-api/) by [CSS-Tricks](https://css-tricks.com/). In this excellent article, they explain the concept of the HTML5 history API. Normally, when you navigate from one URL to another, the browser re-loads the whole page. However, you may want to change certain parts of the page and not re-load the entire page. This could be accomplished by using AJAX requests. However, if you just use AJAX, the URL of the page remains same. So if you need to share this specific view, there is no way to do so.. That is where the History API comes into picture..
 
-![mobile](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/mobile.jpg)
+![mobile](https://res.cloudinary.com/akshayranganath-dflt/image/upload/f_auto,q_auto/blog/mobile.jpg)
 
 ## Understanding the History API
 
@@ -47,15 +47,15 @@ In effect, when the user first lands at the home page, it is a regular navigatio
 
 When I setup the tests, the median page load time shows up as 15s based on 8 views. This included both SPA (SPA-Soft) and non-SPA (SPA-Hard) timing information.
 
-![all beacons](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/all%2520beacons.png)
+![all beacons](https://res.cloudinary.com/akshayranganath-dflt/image/upload/f_auto,q_auto/blog/all%2520beacons.png)
 
 When I look at the performance of hard navigation, the page load time from 4 views now jumps to 17.4s.
 
-![spa hard beacons](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/spa%2520hard%2520beacons.png)
+![spa hard beacons](https://res.cloudinary.com/akshayranganath-dflt/image/upload/f_auto,q_auto/blog/spa%2520hard%2520beacons.png)
 
 If I now filter to just the soft navigations, the page load time drops to 129 ms from 4 views.
 
-![spa soft](https://res.cloudinary.com/akshayranganath-dflt/image/upload/blog/spa%2520soft.png)
+![spa soft](https://res.cloudinary.com/akshayranganath-dflt/image/upload/f_auto,q_auto/blog/spa%2520soft.png)
 
 If we never had the soft navigation beacons, we may have mis-interpreted the site performance as over 17s. However, this represents the initial view that includes the time to load SPA framework. However, the pages speed up dramatically once the framework is ready. Without the information on soft navigation calls, you may mis-interpret the engagement on your website. A user in this case could load the home page and access 4 other sub-pages. Without SPA tracking, your RUM analytics may show a user just accessed 1 page and bounced. This could corrupt your bounce rate and conversion measurements.
 
