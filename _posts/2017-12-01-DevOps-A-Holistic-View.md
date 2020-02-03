@@ -23,7 +23,7 @@ So let's break this down a bit:
 * Tools are not the reason for DevOps - they only enable in the DevOps culture
 
 
-![DevOps Balanced Scorecard](https://i2.wp.com/devops.com/wp-content/uploads/2016/02/DevOps-Strategy-Map-Draft-v4-020316.gif?resize=2250%2C3000)
+![DevOps Balanced Scorecard](https://res.cloudinary.com/akshayranganath/image/fetch/f_auto,q_auto/https://i2.wp.com/devops.com/wp-content/uploads/2016/02/DevOps-Strategy-Map-Draft-v4-020316.gif)
 ## Breaking down DevOps
 
 DevOps as a practice has evolved from various fields. According to the [The DevOps Handbook](https://www.amazon.com/dp/B01M9ASFQ3/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), it is based on:
