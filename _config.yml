@@ -13,7 +13,7 @@ twitter:
   username: rakshay
 
 # Short bio or description (displayed in the header)
-description: Blogs about Web Performance, SEO and web technology.
+description: Blogs about Image Optimization, Web Performance, SEO and web technology.
 tagline: Musings from a Tech Entrepreneur
 
 paginate: 8
@@ -38,7 +38,7 @@ footer-links:
   instagram:
   linkedin: akshayranganath
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: rss # just type anything here for a working RSS icon
   twitter: rakshay
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
@@ -83,7 +83,7 @@ kramdown:
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  style: :expanded # You might prefer to minify using :compressed
+  style: :compressed #:expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
 gems:
