@@ -45,7 +45,7 @@ Core Web Vitals is composed of three metrics and guidance on the performance val
 <li><a href="https://web.dev/lcp/">Largest Contentful Paint (LCP)</a>: measures loading performance. To provide a good user experience, LCP should occur within 2.5 seconds of when the page first starts loading.</li>
 <li><a href="https://web.dev/fid/">First Input Delay (FID)</a>: measures interactivity. To provide a good user experience, pages should have a FID of less than 100 milliseconds.</li>
 <li><a href="https://web.dev/cls/">Cumulative Layout Shift (CLS)</a>: measures visual stability. To provide a good user experience, pages should maintain a CLS of less than 0.1.</li>
-</ol>
+</ul>
 </blockquote>
 
 The 3 metrics measure dimensions of web usability such as load time, interactivity, and the stability of content as it loads.([Source](https://webmasters.googleblog.com/2020/05/evaluating-page-experience.html)) Here's the distribution of the performance, as per [Google](https://web.dev/vitals/).
