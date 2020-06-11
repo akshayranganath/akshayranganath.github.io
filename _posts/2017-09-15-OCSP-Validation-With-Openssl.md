@@ -3,7 +3,7 @@ layout: post
 title: OCSP Validation with OpenSSL
 comment: true
 description: OCSP Stapling is becoming pervelant across browsers for validating certificates. Here I show how to run this validation manually with OpenSSL.
-image: /images/tls-validation.png
+image: https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/tls-validation.png
 tags: [ocsp, tls, openssl, security]
 ---
 I had been working on understanding and troubleshooting an OCSP implementation and learnt a few things and thought I could share them on the blog.
@@ -131,7 +131,7 @@ The most important part is the __Cert Status: good__ line. This indicates that e
 ## Bonus: Dissecting OCSP request
 I was curious to see on what actually happens during the OCSP request and ran a wireshark trace. When we make the OCSP request, this is submitted as a HTTP POST. In this case, the headers looked like this:
 
-![wireshark trace](https://res.cloudinary.com/akshayranganath-dflt/image/upload/f_auto,q_auto/blog/wireshark%2520trace.png)
+![wireshark trace](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/ocsp_wireshark.png)
 
 ```bash
 POST / HTTP/1.0

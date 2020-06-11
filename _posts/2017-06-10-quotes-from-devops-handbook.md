@@ -157,7 +157,7 @@ Preventing the introduction of new work enables continuous integration and deplo
 
 ### Third way - Continual learning and Experimentation
 
-![third way](https://res.cloudinary.com/akshayranganath-dflt/image/upload/f_auto,q_auto/blog/third%2520way.png)
+![third way](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/third_way.png)
 
 .. the Third Way focuses on creating a culture of continual learning and experimentation. These are the principles that enable constant creation of individual knowledge, which is then turned into team and organizational knowledge.
 

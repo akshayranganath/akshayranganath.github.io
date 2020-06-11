@@ -3,7 +3,7 @@ layout: post
 title: Notes from Enterprise DevOps Summit 2017 - San Francisco
 comment: true
 description: I was privileged to be sponsored by Akamai to attend the Enterprise DevOps Summit in San Francisco. Here are the notes from the sessions I attended.
-image: /images/DOES2017SFO.png
+image: https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/DOES2017SFO.png
 tags: [devops, conferences, san francisco]
 ---
 
@@ -56,12 +56,12 @@ During an outage, 10 UI changes were released in 3 days. Even the CEO made state
 [@stevemayner](https://twitter.com/stevemayner)
 
 - Columbia Sportswear - Family owned business. 
-- DevOps movement was implemented without a CXX sposor / support. 
+- DevOps movement was implemented without a CXX sponsor / support. 
 - DevOps born out of the need to stay relevant and to "do the right thing"
 
 Challenge: Microsoft shop with vendor lock-in. Very UI driven and lack of automation.
 
-> You are either building a learning organzation or losing to someone who is. - _Andrey Clay Shaffer_
+> You are either building a learning organization or losing to someone who is. - _Andrey Clay Shaffer_
 
 _Be -> Know -> Do_ model of leadership
 
@@ -106,7 +106,7 @@ This is very important in transformation so that mistakes aren't repeated.
 ### What Does it Mean to Lead IT?
 **[Mark Schwartz](https://twitter.com/schwartz_cio?lang=en)**
 
-Historically, IT department was an "add-on". Business went on fine w/o IT. Sterotypes created for IT:
+Historically, IT department was an "add-on". Business went on fine w/o IT. Streotypes created for IT:
 - uninterested in business
 - don't care about timelines
 - can't even speak in English (as in can't speak in terms understood by others)
@@ -140,13 +140,13 @@ Build chaos engineering tools as a foundational service. Every application has t
 ### DevOps Handboook Experiments in Accelerating Delivery
 
 Lessons implemented from the DevOps hand book:
-![DevOps Handbook lessons](https://res.cloudinary.com/akshayranganath-dflt/image/upload/f_auto,q_auto/blog/DevOps%2520Handbook%2520lessons.png)
+![DevOps Handbook lessons](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/DevOps%2520Handbook%2520lessons.png)
 
-Instead of "presenting" to management, rely on "Show and Tell". It provides better frasp to management.
+Instead of "presenting" to management, rely on "Show and Tell". It provides better grasp to management.
 
 One of main benefits of DevOps - automation testing reduced the lead time. 
 
-### Architecting Your App And Your Pipeline for Continuous Delivey - 10 DOs for Successful DevOps
+### Architecting Your App And Your Pipeline for Continuous Delivery - 10 DOs for Successful DevOps
 [@anders_wallgren](https://twitter.com/anders_wallgren)
 
 One of the best predictors of high performing organizations - "how much do they fear deployments"?
@@ -199,7 +199,7 @@ Opensource tools: [CapitalOne](https://github.com/capitalone/)
 
 #### The Making of Amazon Prime Now
 
-![amazon virtuous cycle](https://res.cloudinary.com/akshayranganath-dflt/image/upload/f_auto,q_auto/blog/amazon%2520virtuous%2520cycle.png)
+![amazon virtuous cycle](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/amazon-maturity-model.png)
 
 _i had to work so could not focus much_
 
@@ -226,7 +226,7 @@ Reference to book - [What Got You Here Won’t Get You There](https://www.amazon
 
 ### Breakouts
 
-#### Intel's Journey to Build Quality In: How QA and Test Automation Drive DevOps Tranformation
+#### Intel's Journey to Build Quality In: How QA and Test Automation Drive DevOps Transformation
 
 Initial model _push and pray_. 85% of code was not covered.
 
@@ -295,6 +295,7 @@ _Approach for security_:
 - Pen Test and take action items and fix the bugs.
 
 **Closing tips**:
+
 1. Break silos between security and devops teams
 2. Practice often: War games, incident response
 3. Security should be "built-in". It should be part of the product design and part of the build pipeline. Security team needs to understand the business objectives.
@@ -326,7 +327,7 @@ Action item: Download and share the [stellar report](http://stella.report/).
 
 > incidents of yesterday inform and the architecture and rule of tomorrow.
 
-![incidents as investment](https://res.cloudinary.com/akshayranganath-dflt/image/upload/f_auto,q_auto/blog/incidents%2520as%2520investment.png)
+![incidents as investment](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/allspaw-incidents.png)
 
 Check out [adaptivecapatictylabs.com](https://adaptivecapatictylabs.com/)
 
@@ -350,7 +351,7 @@ _This follows John Allspaw's talk. When trying to find the root cause, analyze w
 
 Understand how things go right to figure out processes on when things go wrong.
 
-![Dekeer - focus on what's right](https://res.cloudinary.com/akshayranganath-dflt/image/upload/f_auto,q_auto/blog/Dekeer%2520-%2520focus%2520on%2520what%2527s%2520right.png)
+![Dekeer - focus on what's right](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/dekker-focus-on-right.png)
 
 #### Fear does not exist in the dojo - a devops journey with a competitive twist
 
@@ -366,7 +367,7 @@ Note to self: Can our consulting work-shop be modeled on this?
 
 Internal DevOpsDays - a very good way to engage, encourage and learn.
 
-![Internal devops conference](https://res.cloudinary.com/akshayranganath-dflt/image/upload/f_auto,q_auto/blog/Internal%2520devops%2520conference.png)
+![Internal devops conference](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/devops-internal-conference.png)
 Gamification of DevOps and get teams excited.
 
 
@@ -374,17 +375,17 @@ Gamification of DevOps and get teams excited.
 
 No "devOps" team - everyone has to adopt it. 
 
-![nike transformation](https://res.cloudinary.com/akshayranganath-dflt/image/upload/f_auto,q_auto/blog/nike%2520transformation.png)
+![nike transformation](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/nike-transformation.png)
 
 ### Breakouts
 
 #### The Case for Value Stream Architecture
 
 Competition is not across the board. It can be at specific value stream. Case point - 
-![Unbundling of banks](https://thefinancialbrand.com/wp-content/uploads/2015/04/Unbundling-of-a-bank-V2.png)
+![Unbundling of banks](https://res.cloudinary.com/akshayranganath/image/fetch/f_auto,q_auto/https://thefinancialbrand.com/wp-content/uploads/2015/04/Unbundling-of-a-bank-V2.png)
 
 DevOps is big and there are a lot of startups
-![DevOps startups](https://gptpartners.com/wp-content/uploads/2017/08/GrowthPoint-DevOps-Startup-Landscape-v10.jpg)
+![DevOps startups](https://res.cloudinary.com/akshayranganath/image/fetch/f_auto,q_auto/https://image.slidesharecdn.com/devopsandprogrammaticinfrastructure-160919103700/95/devops-and-programmatic-infrastructure-37-638.jpg?cb=1475855439)
 
 DevOps / Lean tries to take the analogy of assembly line. Although accurate to some extent, it does not capture the complexities of software developement:
 - Car assembly lines can stay stable for about a year. Software keeps changing.
@@ -395,7 +396,7 @@ DevOps / Lean tries to take the analogy of assembly line. Although accurate to s
 Waterfall and very narrowly focused DevOps movement is trying to force linearity where linearity doesn't really exist.
 
 Sample work-flow at Nationwide:
-![CI visibility at Nationwide](https://image.slidesharecdn.com/16decibmenlightenmentseriescompressed-161219154436/95/how-nationwide-and-tasktop-achieved-continuous-visibility-across-the-devops-lifecycle-7-638.jpg?cb=1482162468)
+![CI visibility at Nationwide](https://res.cloudinary.com/akshayranganath/image/fetch/f_auto,q_auto/https://image.slidesharecdn.com/16decibmenlightenmentseriescompressed-161219154436/95/how-nationwide-and-tasktop-achieved-continuous-visibility-across-the-devops-lifecycle-7-638.jpg?cb=1482162468)
 
 Download _Value stream architecture_ eBook
 
@@ -460,7 +461,7 @@ Most important learning from Toyota Production System - Andon Chord ==> recogniz
 - DevOps is about building community of users who work on devOps. Mentor others.
 - Share stores of failures and near misses.. _Success comes from experience and experience comes from failures_.
 - You are all experts and you have moral responsibility to share it with the community.
-- Identify yourself as one who practices DevOps instead of identifying as someonw working for a particular role in a company
+- Identify yourself as one who practices DevOps instead of identifying as someone working for a particular role in a company
 - Share stories of uncertainty
 
 
@@ -477,7 +478,7 @@ Data is still in silos.
 Read up on [12 factor app](https://12factor.net/)
 
 Cloud Native architecture for data.
-![cloud native architecture](https://res.cloudinary.com/akshayranganath-dflt/image/upload/f_auto,q_auto/blog/cloud%2520native%2520architecture.png)
+![cloud native architecture](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/cloud-native-architecture.png)
 
 
 #### The Yin and Yang of Speed and Control
@@ -512,4 +513,4 @@ Every requirement should follow a Hypothesis Drive Development by [@barryoreilly
 3. Focus is shifting from plain "deployment frequency" to being ready for "on-demand" deployments.
 4. Security, esp security of code and the pipeline is gaining attention.
 5. Maturity in-terms of expanding the DevOps to mean more teams like audit, marketing, finance and legal teams
-6. Data is the hardest problem to move to cloud based architecture. This is going be to an ongoing item for investivation.
+6. Data is the hardest problem to move to cloud based architecture. This is going be to an ongoing item for investigation.
