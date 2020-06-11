@@ -3,11 +3,12 @@ layout: post
 title: Fix mixed content issue with Content Security Policy report
 comment: true
 description: Mixed content can cause browser warnings. Finding such pages can be automated by using Content-Security-Polciy reports and I show how to do this.
+image: https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/needle.jpg
 ---
 
 One of the biggest challenges of migrating a website from HTTP to HTTPS is the issue of mixed-content warning. I had written on [how content-security-policy (CSP) can help in this HTTPS migration process](https://akshayranganath.github.io/csp-to-avoid-mixed-content/). However, one of the more fundamental problem is finding pages that have a mixed content issue.
 
-![needle in haystack](https://res.cloudinary.com/akshayranganath-dflt/image/upload/f_auto,q_auto/blog/needle%2520in%2520haystack.jpg)
+![needle in haystack](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/needle.jpg)
 
 ## What is the challenge?
 When a webmaster wants to move a website from HTTP to HTTPS, the typical process is:

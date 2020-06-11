@@ -3,7 +3,7 @@ layout: post
 title: 3 Trends in Web Performance
 comment: true
 description: Web Performance landscape has evolved with focus on perceived performance, RAIL model, focus on mobile website speed and better tooling. The blog explains new metrics and relates them to measurement tools.
-image: /images/speed-2018.jpg
+image: https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/speed-2018.jpg
 ---
 
 Website performance is always an ongoing effort and an elusive target. In the early days, pageLoad time was the gold standard of web performance monitoring. However, websites have evolved to be a lot more dynamic, Javascript heavy and filled with rich images and 3rd party content. We need better metrics, a better model and better tooling to measure and monitor the performance. In this blog post, I explain the evolution 3 different trends that is shaping the industry:
@@ -13,7 +13,7 @@ Website performance is always an ongoing effort and an elusive target. In the ea
 - Tooling: Set of tools like [CrUX](https://developers.google.com/web/tools/chrome-user-experience-report/), [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/), [LightHouse](https://developers.google.com/web/tools/lighthouse/) and RUM solutions like [mPulse](https://www.akamai.com/us/en/products/web-performance/mpulse-real-user-monitoring.jsp)
 
 So let's dig in!
-![Speed](https://res.cloudinary.com/akshayranganath-dflt/image/upload/f_auto,q_auto/blog/Speed.jpg)
+![Speed](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/speed-2018.jpg)
 
 ## RAIL Framework
 RAIL is a framework that is being publicized by Google. According to the [Google developer page](https://developers.google.com/web/fundamentals/performance/rail) it is

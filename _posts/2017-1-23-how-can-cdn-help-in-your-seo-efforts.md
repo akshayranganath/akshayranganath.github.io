@@ -6,10 +6,10 @@ comment: true
 
 CDN can help in more than just improving site-speed for SEO. It can aid in better targeting, mobile friendliness, domain authority and more. Read about where CDNs are of use for your SEO efforts.
 
-![standing on shoulders](https://res.cloudinary.com/akshayranganath-dflt/image/upload/f_auto,q_auto/blog/standing%2520on%2520shoulders.jpg)
+![standing on shoulders](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/standing_on_shoulders.jpg)
 
 ## Background
-This blog is a follow up for my earlier post on [What metrics matter for SEO?](https://akshayrangananth.wordpress.com/2017/01/18/what-metrics-matter-for-seo/). In this post, I'd like to explore how a CDN can aid in different aspects of SEO.
+This blog is a follow up for my earlier post on [What metrics matter for SEO?](https://akshayranganath.github.io/what-metrics-matter-for-seo). In this post, I'd like to explore how a CDN can aid in different aspects of SEO.
 
 But, before we dig in, let's me quickly re-iterate the value proposition of using a CDN.
 ## Why use a CDN at all?

@@ -9,7 +9,7 @@ tags: [devops, conferences, san francisco]
 
 I was privileged to be sponsored by Akamai to attend the Enterprise DevOps Summit in San Francisco. Here are the notes from the sessions I attended. 
 
-![DOES 2017 SFO](https://res.cloudinary.com/akshayranganath-dflt/image/upload/f_auto,q_auto/blog/DOES%25202017%2520SFO.png)
+![DOES 2017 SFO](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/DOES2017SFO.png)
 
 All the resources for the conferences were already shared. Here are the links:
 

@@ -3,10 +3,11 @@ layout: post
 title: Better notes with Markdown and SublimeText!
 comment: true
 description: Learn why Markdown is a good for taking notes during trainings and meetings and plugins for Sublime Text2+Markdown integration. It's very good for converting to blog posts with Github pages as well.
+image: https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/markdown.png
 ---
 
 Over the past few months, I have realized that Markdown is a very good way to take notes, especially if the end goal is to quickly format and convert it to a blog post as well. 
-![i love markdown](https://res.cloudinary.com/akshayranganath-dflt/image/upload/f_auto,q_auto/blog/i%2520love%2520markdown.png)
+![i love markdown](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/markdown.png)
 
 ## What is Markdown?
 [Markdown](https://daringfireball.net/projects/markdown/) is a syntax that was introduced by John Gruber as an easy way to convert plain-text to (X)HTML. Among other this is the default format used for publishing [GitHub pages](https://pages.github.com/). So all the blog posts on this website is written using Markdown.
@@ -14,15 +15,15 @@ Over the past few months, I have realized that Markdown is a very good way to ta
 As I started to use this format and got a hang of it, I realized that it is a very useful format for taking notes as well. It is this habit that lead me to easily publish my blog posts on the AWS Summit [here](https://akshayranganath.github.io/AWSSummit-SFO-Day1-Notes/) and [here](https://akshayranganath.github.io/AWSSummit-SFO-Day2-Keynote-Notes/).
 
 ## Markdown for taking notes
-When attending meetings or training, we invariably take notes. In most cases, it is as some plain-text file or a word document. Typically, I don't like Word document since there is time spent on getting the right formating. Plain-text is a bit boring to read since it is so plain-in-text!
+When attending meetings or training, we invariably take notes. In most cases, it is as some plain-text file or a word document. Typically, I don't like Word document since there is time spent on getting the right formatting. Plain-text is a bit boring to read since it is so plain-in-text!
 
-Enter Markdown! I can now take notes in simple plain text and just add the formating within in. In most cases, I need to use the following formating tools:
+Enter Markdown! I can now take notes in simple plain text and just add the formatting within in. In most cases, I need to use the following formating tools:
 
 * Headings
 * Images
 * Links
 * Occasionally - tables
-* Code formating and unformatted text
+* Code formatting and unformatted text
 
 Once you use Markdown for a few months, the syntax just becomes a second habit. While learning, one of the best resource I found was Adam Pritchard's [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 

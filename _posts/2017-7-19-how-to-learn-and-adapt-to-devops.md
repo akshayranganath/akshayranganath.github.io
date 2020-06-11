@@ -3,7 +3,7 @@ layout: post
 title: How to learn &amp; adapt DevOps? 
 comment: true
 description: Moving from traditional development models to DevOps is a significant transformation. I share my experience on this journey and the resources I used.
-image: /images/cocoon.jpg
+image: https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/cocoon.jpg
 tags: [devops, automation, automated unit test, git, git hooks, webhooks, transformation]
 redirect_from:
   - /how-to-learn-and-adopt-to-devops/
@@ -11,7 +11,7 @@ redirect_from:
 
 DevOps is the latest buzzword but, it is also a philosophy that has a potential to change the way organizations build product and services. Being in a professional services role associated with CDN, I was far removed from the actual development teams and had lost touch with my coding background. Over the last 6-8 months, I have been working on to learn about the concepts of this new methodology and felt that there are may be people out there embarking on a similar journey. If you are one of them, hope my approach can give some ideas. Of course, I am still learning - so if you have any thoughts, please let me know!
 
-![transformation / metamorphosis](https://res.cloudinary.com/akshayranganath-dflt/image/upload/f_auto,q_auto/blog/transformation%2520/%2520metamorphosis.jpg)
+![transformation / metamorphosis](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/cocoon.jpg)
 
 ## tl;dr;
 If you want to quickly get an idea on the journey, here's my path to DevOps:
@@ -33,7 +33,7 @@ Basically here's the mapping:
 
 ## In the beginning..
 
-![sunrise - beginning](https://res.cloudinary.com/akshayranganath-dflt/image/upload/f_auto,q_auto/blog/sunrise%2520-%2520beginning.jpg)
+![sunrise - beginning](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/sunrise.jpg)
 
 Before starting on the DevOps journey, let me outline my experience. I used to be a Java/J2EE developer and my last project in this avatar was building a solution over the [liferay](https://www.liferay.com/) portal server. We had a team of 20 and the process was pure waterfall/iterative. I had no background in the world of agile and never attended the scrum sessions, nor understood the user stories. It was like I had missed out on a whole era of software programming.
 
@@ -55,7 +55,7 @@ After reading these 2 books, I realized that there were so many things that I wa
 
 ## Getting involved..
 
-![hands on ](https://res.cloudinary.com/akshayranganath-dflt/image/upload/f_auto,q_auto/blog/hands%2520on.jpg)
+![hands on ](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/handson.jpg)
 
 The next step was to get a more in-depth view and learn the **how** of devops. Actually, this step gaining more understanding of the _what_ and _why_ as well. For this purpose, I would highly recommend the book **[The DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002/ref=pd_lpo_sbs_14_t_0/140-1510501-0325548?_encoding=UTF8&psc=1&refRID=J9PM2SX07X936SY6DHJ9)**. It explains in a very clear manner on how organizations can approach the devops transformation. The authors cover various aspects from culture, the tooling and the process necessary to make this transformation. I have published a [collection of quotes from DevOps handbook](https://akshayranganath.github.io/quotes-from-devops-handbook/) as well.
 
@@ -75,7 +75,7 @@ To build a more hands-on experience, I decided to actually build some software a
 
 ## Standing on shoulder of giants..
 
-![standing on shoulders](https://res.cloudinary.com/akshayranganath-dflt/image/upload/f_auto,q_auto/blog/standing%2520on%2520shoulders.jpg)
+![standing on shoulders](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/standing_on_shoulders.jpg)
 
 My learning effort was based on the amazing work being done in this field by so many authors, writes, bloggers and practitioners. I wanted call out a few of them that you could follow as well:
 

@@ -3,12 +3,12 @@ layout: post
 title: Acceleate - Quotes from the Book
 comment: true
 description: Accelerate by Nicole Forgsen and Jez Humble is the book that explains the science behind the State of DevOps reports. It's an amazing read and I highly recommend it for anyone trying to start out or fine-tuning their DevOps journey.  
-image: https://itrevolution.com/wp-content/uploads/2017/09/Accelerate_3D-300x300.jpg
+image: https://res.cloudinary.com/akshayranganath/image/fetch/f_auto,q_auto/https://itrevolution.com/wp-content/uploads/2017/09/Accelerate_3D-300x300.jpg
 ---
 
 [Accelrate - Building & Scaling High Performing Technology Organizations](https://itrevolution.com/book/accelerate/) is a book by [Nicole Forgsen](https://twitter.com/nicolefv) and [Jez Humble](https://twitter.com/jezhumble). It takes on the journey behind the [State of DevOps](https://puppet.com/resources/whitepaper/state-of-devops-report) reports. 
 
-![Accelerate book cover](https://itrevolution.com/wp-content/uploads/2017/09/Accelerate_3D-300x300.jpg)
+![Accelerate book cover](https://res.cloudinary.com/akshayranganath/image/fetch/f_auto,q_auto/https://itrevolution.com/wp-content/uploads/2017/09/Accelerate_3D-300x300.jpg)
 
 I had received an early edition at the DOES-San Francisco and managed to read it over the holidays. It is a very well written book that explains the trends and the patterns seen in DevOps for past 3-5 years. I feel that it is very useful for organizations and practitioners who are helping their teams navigate the DevOps transformation. It can help set better goals and hint at the kind of organizational structure and reporting mechanisms needed to achieve the promises of DevOps.
 

@@ -6,7 +6,7 @@ comment: true
 
 *Google is very nuanced in the way it handles the Site speed. It appears to rely on some combination of TTFB coupled with rendering metric like Time to first paint / start render or DomInteractive. However, it is very hard to find the exact metric. So focus on delivering the best performance to user and Google will automatically rank you well!*
 
-![measurement](https://res.cloudinary.com/akshayranganath-dflt/image/upload/f_auto,q_auto/blog/measurement.jpg)
+![measurement](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/measurement.jpg)
 
 ## Background
 Before giving away the answer on which metric matters, let's first study the published studies around this topic.
@@ -30,7 +30,7 @@ Although I highly value the studies done by each of the above authors, there are
 <blockquote>Do these websites rank highly because they have better back-end infrastructure than other sites? Or do they need better back-end infrastructure to handle the load of ALREADY being ranked higher?</blockquote>
 In other words, all of the studies have an issue where it's hard to go ignore this:
 
-![Correlation is not causation](https://res.cloudinary.com/akshayranganath-dflt/image/upload/f_auto,q_auto/blog/Correlation%2520is%2520not%2520causation.jpg)
+![Correlation is not causation](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/correlation_not_causation.jpg)
 
 (Digressing: If you want to read up on more serious issues related to <i>correlation is not causation</i> issue, head [over here](http://www.skepticalraptor.com/skepticalraptorblog.php/correlation-does-not-imply-causation-except-when-it-does/)).
 
