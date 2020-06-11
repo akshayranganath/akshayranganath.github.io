@@ -53,7 +53,7 @@ I have uploaded the raw data here: [https://gist.github.com/akshayranganath/9e9
 
 Here's the distribution again: 
 
-![SEO Link Distribution](https://res.cloudinary.com/akshayranganath-dflt/image/upload/f_auto,q_auto/blog/SEO%2520Link%2520Distribution.png)
+![SEO Link Distribution](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/seo_link_distribution.png)
 
 When I looked at the &lt;link&gt; tags, I wasn't sure on the usage and had to do a bit of read-up. Here's a summary of some of the tags:
 

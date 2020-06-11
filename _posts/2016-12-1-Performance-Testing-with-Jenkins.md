@@ -39,14 +39,14 @@ I did not use a master / slave setup in this test. So the load test was running 
 
 I set the script to run every 10 minutes. Here’s what this looks like:
 
-![Jenkins - scheduled build setup](/images/jenkins_scheduling_build)
+![Jenkins - scheduled build setup](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog//jenkins_scheduling_build.png)
  
 
 ### Build Script
 
 For the build script, I just set up the test to run seige for 10s with a concurrency of 1. The test executes against a single URL.
 
-![Jenkins - Siege Script](https://res.cloudinary.com/akshayranganath-dflt/image/upload/f_auto,q_auto/blog/Jenkins%2520-%2520Siege%2520Script.png)
+![Jenkins - Siege Script](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/jenkins_siege_script.png)
 
 #### Sample Output
 
