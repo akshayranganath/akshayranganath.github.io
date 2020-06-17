@@ -30,6 +30,7 @@ However, he came across and followed some of the more obscure ones like:
 <li>Do not wear clothes of mixed fibers.</li>
 <li>Do not shave your beard</li>
 <li>Stone adulterers</li>
+</ul>
 </blockquote>
 
 The book follows the author's journey over 365 days (and a few more..) and chronicles the daily struggles the he undergoes to stick true to words of Bible. About 3-quarter of the year is spent on living the tenets of the Old Testament and last quarter on the New Testament. Filled with a lot of episodes that will bring out a chuckle, the author does pose questions that makes you stop and reflect on your life, relationships and struggles.
@@ -53,3 +54,11 @@ Like the author, I am not a deeply religious person. However, I do consider myse
 * Later developments like the _Bhakti movement_ talks about a personal God and self-discovered path to salvation rather than a prescriptive approach. This is very similar to the approach of the _New Testament_ as it focuses on teachings and de-emphasizes the rituals.
 
 Overall, I felt this a great fun to read and time well spent!
+
+### Some References
+
+* [TheVeda.org](https://theveda.org.in/)
+* [BhagavadGita.org](http://bhagavadgita.org.in/)
+* [Upanishad.org](https://upanishads.org.in/)
+
+I do follow [Sampadananda Mishra](https://twitter.com/Sampadananda) for some excellent tweets on learning Sanskrit and quick bites about Hinduism.
