@@ -6,6 +6,9 @@ description: OCSP Stapling is becoming pervelant across browsers for validating 
 image: https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/tls-validation.png
 tags: [ocsp, tls, openssl, security]
 ---
+
+>Edit June 19,2020: Added details to support OCSP request to servers that don't support HTTP 1.0. 
+
 I had been working on understanding and troubleshooting an OCSP implementation and learnt a few things and thought I could share them on the blog.
 
 ## What is OCSP?
@@ -127,6 +130,34 @@ OCSP Response Data:
 ```
 
 The most important part is the __Cert Status: good__ line. This indicates that everything is kosher and the client can trust the certificate. The other part of interest is the details __Next Update__. This indicates the OCSP stapling response can be cached until the time so that we don't overload the OCSP responder.
+
+### Handling newer OCSP validators
+
+Many new OCPS validation endpoints like `ocsp2.globalsign.com` don't support HTTP 1.0 requests. OCSP by default uses HTTP 1.0 which does not mandate the `Host` header. When this happens you may see a `400` error like this:
+
+```
+OCSP Request Data:
+    Version: 1 (0x0)
+    Requestor List:
+        Certificate ID:
+          Hash Algorithm: sha1
+          Issuer Name Hash: 12EADF46CC0880387360B65A691601CC0CB5E9E2
+          Issuer Key Hash: A92B87E1CE24473B1BBFCF853702559D0D9458E6
+          Serial Number: 5625521AFA513B6D970FFAC1
+    Request Extensions:
+        OCSP Nonce:
+            0410C43AA490D8782F80C2D0751C417B6486
+Error querying OCSP responder
+4732960364:error:27FFF072:OCSP routines:CRYPTO_internal:server response error:/AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/libressl/libressl-47.120.1/libressl-2.8/crypto/ocsp/ocsp_ht.c:251:Code=400,Reason=Bad Request
+```
+
+To fix this mismatch, we will need to add the Host header. This can be achieved by adding the option `-header` followed by the header information.
+
+Here's an example command:
+
+  openssl ocsp -issuer chain.pem -cert certificate.pem -text -url http://ocsp2.globalsign.com/cloudsslsha2g3 -header "HOST" "ocsp2.globalsign.com"
+
+Thanks to [Jim Carter's explanation](http://www.jfcarter.net/~jimc/documents/bugfix/21-openssl-ocsp.html) for explaining this issue.
 
 ## Bonus: Dissecting OCSP request
 I was curious to see on what actually happens during the OCSP request and ran a wireshark trace. When we make the OCSP request, this is submitted as a HTTP POST. In this case, the headers looked like this:
