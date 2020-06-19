@@ -155,7 +155,9 @@ To fix this mismatch, we will need to add the Host header. This can be achieved 
 
 Here's an example command:
 
-  openssl ocsp -issuer chain.pem -cert certificate.pem -text -url http://ocsp2.globalsign.com/cloudsslsha2g3 -header "HOST" "ocsp2.globalsign.com"
+```
+openssl ocsp -issuer chain.pem -cert certificate.pem -text -url http://ocsp2.globalsign.com/cloudsslsha2g3 -header "HOST" "ocsp2.globalsign.com"
+```
 
 Thanks to [Jim Carter's explanation](http://www.jfcarter.net/~jimc/documents/bugfix/21-openssl-ocsp.html) for explaining this issue.
 
