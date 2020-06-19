@@ -159,7 +159,7 @@ Here's an example command:
 openssl ocsp -issuer chain.pem -cert certificate.pem -text -url http://ocsp2.globalsign.com/cloudsslsha2g3 -header "HOST" "ocsp2.globalsign.com"
 ```
 
-Thanks to [Jim Carter's explanation](http://www.jfcarter.net/~jimc/documents/bugfix/21-openssl-ocsp.html) for explaining this issue.
+Thanks to [Jim Carter's explanation](http://www.jfcarter.net/~jimc/documents/bugfix/21-openssl-ocsp.html) for helping identify and fix the issue.
 
 ## Bonus: Dissecting OCSP request
 I was curious to see on what actually happens during the OCSP request and ran a wireshark trace. When we make the OCSP request, this is submitted as a HTTP POST. In this case, the headers looked like this:
