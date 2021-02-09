@@ -63,7 +63,7 @@ Google appears to have coordinated and done a great job at releasing tools for m
 
 Apart from the tools mentioned, I am happy to see that my favorite tool, WebPageTest has the Core Web Vitals already incorporated. When you run a test, you should see the Web Vitals highlighted like this.
 
-![webpagetest sample test report](https://akshayranganath-res.cloudinary.com/image/upload/v1591141065/wpt_core_web_vitals.png)
+![webpagetest sample test report](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/wpt_core_web_vitals.png)
 
 Google has published [details on various tools and helpful scripts](https://web.dev/vitals-measurement-getting-started/) for RUM solutions as well. SpeedCurve has [already announced](https://speedcurve.com/blog/web-vitals-user-experience/) they are supporting it.
 
