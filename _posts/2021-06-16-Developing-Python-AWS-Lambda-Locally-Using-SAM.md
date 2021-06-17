@@ -3,11 +3,11 @@ layout: post
 title: Developing Python Lambda Script Locally using SAM
 comment: true
 description: In this article, we will develop a Python based lambda function, test it locally and deploy it to AWS using Serverless architecture Model (SAM)
-image: https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/pexels-negative-space-169573.jpg
+image: https://akshayranganath-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto,w_350,/blog/pexels-negative-space-169573.jpg
 tags: coding
 ---
 
-![hero image](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/pexels-negative-space-169573.jpg)
+![hero image](https://akshayranganath-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto,w_1024/blog/pexels-negative-space-169573.jpg)
 
 While developing Lambda function for AWS, I have found that the process a bit cumbersome. This was until I discovered the power of [Serverless Architecture Model (SAM)](https://aws.amazon.com/serverless/sam/). Using this functionality, the process of creating, testing and deploying a local Lambda function is very efficient. However, I found the documentation is all over the place and I had to make a lot of mistakes before getting it to work. So I thought of sharing the steps so that it may help others.
 
@@ -19,7 +19,7 @@ I use Visual Studio and the article [_Create and Test Python AWS Lambda Function
 
 ### Step 2: High Level Design
 
-![design](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/pexels-jeshootscom-834892.jpg)
+![design](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_1024/blog/pexels-jeshootscom-834892.jpg)
 
 In my use-case, I wanted to use a service from Cloudinary to retrieve a list of assets. Once I had it, I wanted to go over the response to sort the assets and then return a modified object. The end goal was to feed this data to a product gallery widget. Let us see the work-flow in detail.
 
