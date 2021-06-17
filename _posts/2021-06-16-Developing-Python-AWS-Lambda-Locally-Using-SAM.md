@@ -3,7 +3,7 @@ layout: post
 title: Developing Python Lambda Script Locally using SAM
 comment: true
 description: In this article, we will develop a Python based lambda function, test it locally and deploy it to AWS using Serverless architecture Model (SAM)
-image: https://akshayranganath-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto,w_350,/blog/pexels-negative-space-169573.jpg
+image: https://akshayranganath-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto,w_350/blog/pexels-negative-space-169573.jpg
 tags: coding
 ---
 
