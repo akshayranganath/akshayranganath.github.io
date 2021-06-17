@@ -7,6 +7,8 @@ image: https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blo
 tags: coding
 ---
 
+![hero image](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/pexels-negative-space-169573.jpg)
+
 While developing Lambda function for AWS, I have found that the process a bit cumbersome. This was until I discovered the power of [Serverless Architecture Model (SAM)](https://aws.amazon.com/serverless/sam/). Using this functionality, the process of creating, testing and deploying a local Lambda function is very efficient. However, I found the documentation is all over the place and I had to make a lot of mistakes before getting it to work. So I thought of sharing the steps so that it may help others.
 
 ### Step 1: Hello World
