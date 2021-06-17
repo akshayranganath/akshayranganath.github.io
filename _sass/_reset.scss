@@ -3,6 +3,13 @@
 /* MEYER RESET */
 /***************/
 
+.container {
+    margin: 0 auto;
+    max-width: 1080px;
+    padding: 0 10px;
+    width: 100%;
+}
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, 
 a, abbr, acronym, address, big, cite, code,
