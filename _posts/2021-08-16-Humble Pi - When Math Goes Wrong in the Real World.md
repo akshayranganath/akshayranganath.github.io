@@ -2,7 +2,7 @@
 layout: post
 title: Humble Pi - When Math Goes Wrong in Real World
 comment: true
-description: Level up your Linux terminal skills - try out these commands.
+description: Short review of a really interesting and funny book about the primacy of Math and consequences when we forget the mathematical underpinnings.
 image: https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_250,h_250/blog/41KANd0ca3L._SX331_BO1%2C204%2C203%2C200_.jpg
 tags: math, education
 ---
