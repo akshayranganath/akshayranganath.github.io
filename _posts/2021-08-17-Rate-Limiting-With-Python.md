@@ -2,12 +2,13 @@
 layout: post
 title: Rate Limiting with Python
 comment: true
-description: Short article on how to handle Rate Limited APIs or methods using Python
+description: Short article on how to handle Rate Limited APIs or methods using Python while executing in a multi-threaded environment.
 image: https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,g_auto,w_350,h_350,c_crop/blog/speed-3394370_1280.jpg
 tags: coding
 ---
 
-![man zooming on a scotter](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,g_auto,w_500,h_350,c_crop/blog/speed-3394370_1280.jpg)
+![man zooming on a scotter](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,g_auto,w_600,h_400,c_crop/blog/speed-3394370_1280.jpg)
+
 [Source](https://cdn.pixabay.com/photo/2018/05/12/19/16/speed-3394370_1280.jpg)
 
 As programmers, we come across a variety of APIs that have some restrictions. Rate Limiting is one such constraint that is implemented to ensure that the system offering the service can actually accept and process the requests. According to *Wikipedia*, [Rate Limiting](https://en.wikipedia.org/wiki/Rate_limiting) is a feature of computer networks which is used to 
