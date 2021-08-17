@@ -18,7 +18,7 @@ Whenever rate limits are enforced, the limit are generally documented. For examp
 * 60 calls / minute
 * 1,000,000 calls / month
 
-![pricing](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_550/blog/weather-rate-limits.png)
+![pricing](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_550,e_unsharp_mask/blog/weather-rate-limits.png)
 
 At 60 calls/minute, we could end up consuming the monthly quota in about 11.5 days. So the actual rate limit to remain within the monthly quota would be 1,000,000/ (30 days * 24 hours/day * 60 minutes/day)  = 23 calls / minute. The question is how do you ensure that your code remain within this rate limit? Moreover, if you have multi-threaded program, you would need to ensure that the rate limit applies across the threads and the counter for request is thread-safe. Let's take a look at this example. If you'd like to explore API rate limiting in details, please refer to [this blog post](https://nordicapis.com/everything-you-need-to-know-about-api-rate-limiting/).
 
