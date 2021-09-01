@@ -2,7 +2,7 @@
 layout: post
 title: Getting Started with Python and DynamoDB
 comment: true
-description: Quick resource to help you start using DynamDB programmatically through Python.
+description: Quick resource to help you start using DynamoDB programmatically through Python.
 image: https://akshayranganath-res.cloudinary.com/image/upload/w_350,h_350,f_auto,q_auto/blog/pexels-photo-169573.jpg
 tags: coding
 ---
