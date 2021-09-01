@@ -79,14 +79,12 @@ Finally, I had to update the database.
 
 ```python
 import boto3
-def update_db(public_id, processed=False, detected=False, text=None, error=None):
+def update_db(public_id, text = None): # removed other fields not relevant to blog post
     try:
         table.put_item(Item={
-            'publicId': public_id,
-            'processed': processed,
-            'detected': detected,
-            'text': text,
-            'error': error
+            'publicId': public_id,            
+            'text': text
+            # ..  other fields not relevant for this blog.. #
         })
 ```
 
