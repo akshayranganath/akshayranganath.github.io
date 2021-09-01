@@ -77,7 +77,7 @@ cat ocr.json| jq '.info.ocr.adv_ocr.data[0].textAnnotations[0].description'
 
 Finally, I had to update the database.
 
-```
+```python
 import boto3
 def update_db(public_id, processed=False, detected=False, text=None, error=None):
     try:
