@@ -90,4 +90,22 @@ def update_db(public_id, text = None): # removed other fields not relevant to bl
 
 With this code, I was able to extract the OCR text and push it to a DynamoDB. Once this process completes, I plan to run some queries and extract the data as a CSV for long term storage.
 
+### Gotchas
+
+While working with the use-case, I ran into a few issues and I thought of documenting them.
+
+* Size restrictions: AWS imposes size limits on the primary key and composite keys. The limits are 1024 and 2048 bytes respectively. ([Source](https://stackoverflow.com/questions/38557528/is-there-a-size-limit-on-partition-part-of-a-composite-primary-key-in-aws-dynamo)) If you don't consider this, inserts to database fill fail with the following error. Unfortunately, you can't change the keys once the table has been created. 
+
+```
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: Aggregated size of all range keys has exceeded the size limit of 1024 bytes
+```
+
+* Concurrency restrictions: You are constrained by the read and write capacity that is provisioned with the database. If you set it to be too low, you will see as below. To fix it, you will need to start increasing the write (or read) capacity for your database.
+
+```
+An error occurred (ProvisionedThroughputExceededException) when calling the PutItem operation (reached max retries: 9): The level of configured provisioned throughput for the table was exceeded. Consider increasing your provisioning level with the UpdateTable API.
+```
+
+* Working with Index: I thought using an index would be fun. So I created one for the table. However, I kept getting the error `Cannot read from backfilling global secondary index`. According to [StackOverflow](https://stackoverflow.com/questions/59322281/com-amazonaws-services-dynamodbv2-model-amazondynamodbexception-cannot-read-fro), the error is supposed to go away within a few minutes. However, I saw this error even after 1 day after the last update to my database. So I simply ignored the index.
+
 Hope you find this useful and try to take DynamoDB for a spin yourself!
