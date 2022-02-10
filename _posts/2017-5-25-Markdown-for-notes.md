@@ -3,11 +3,11 @@ layout: post
 title: Better notes with Markdown and SublimeText!
 comment: true
 description: Learn why Markdown is a good for taking notes during trainings and meetings and plugins for Sublime Text2+Markdown integration. It's very good for converting to blog posts with Github pages as well.
-image: https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/markdown.png
+image: https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/markdown.png
 ---
 
 Over the past few months, I have realized that Markdown is a very good way to take notes, especially if the end goal is to quickly format and convert it to a blog post as well. 
-![i love markdown](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/markdown.png)
+![i love markdown](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/markdown.png)
 
 ## What is Markdown?
 [Markdown](https://daringfireball.net/projects/markdown/) is a syntax that was introduced by John Gruber as an easy way to convert plain-text to (X)HTML. Among other this is the default format used for publishing [GitHub pages](https://pages.github.com/). So all the blog posts on this website is written using Markdown.

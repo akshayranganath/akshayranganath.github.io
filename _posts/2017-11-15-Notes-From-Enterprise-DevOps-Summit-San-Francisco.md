@@ -3,13 +3,13 @@ layout: post
 title: Notes from Enterprise DevOps Summit 2017 - San Francisco
 comment: true
 description: I was privileged to be sponsored by Akamai to attend the Enterprise DevOps Summit in San Francisco. Here are the notes from the sessions I attended.
-image: https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/DOES2017SFO.png
+image: https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/DOES2017SFO.png
 tags: [devops, conferences, san francisco]
 ---
 
 I was privileged to be sponsored by Akamai to attend the Enterprise DevOps Summit in San Francisco. Here are the notes from the sessions I attended. 
 
-![DOES 2017 SFO](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/DOES2017SFO.png)
+![DOES 2017 SFO](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/DOES2017SFO.png)
 
 All the resources for the conferences were already shared. Here are the links:
 
@@ -140,7 +140,7 @@ Build chaos engineering tools as a foundational service. Every application has t
 ### DevOps Handboook Experiments in Accelerating Delivery
 
 Lessons implemented from the DevOps hand book:
-![DevOps Handbook lessons](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/DevOps%2520Handbook%2520lessons.png)
+![DevOps Handbook lessons](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/DevOps%2520Handbook%2520lessons.png)
 
 Instead of "presenting" to management, rely on "Show and Tell". It provides better grasp to management.
 
@@ -199,7 +199,7 @@ Opensource tools: [CapitalOne](https://github.com/capitalone/)
 
 #### The Making of Amazon Prime Now
 
-![amazon virtuous cycle](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/amazon-maturity-model.png)
+![amazon virtuous cycle](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/amazon-maturity-model.png)
 
 _i had to work so could not focus much_
 
@@ -327,7 +327,7 @@ Action item: Download and share the [stellar report](http://stella.report/).
 
 > incidents of yesterday inform and the architecture and rule of tomorrow.
 
-![incidents as investment](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/allspaw-incidents.png)
+![incidents as investment](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/allspaw-incidents.png)
 
 Check out [adaptivecapatictylabs.com](https://adaptivecapatictylabs.com/)
 
@@ -351,7 +351,7 @@ _This follows John Allspaw's talk. When trying to find the root cause, analyze w
 
 Understand how things go right to figure out processes on when things go wrong.
 
-![Dekeer - focus on what's right](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/dekker-focus-on-right.png)
+![Dekeer - focus on what's right](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/dekker-focus-on-right.png)
 
 #### Fear does not exist in the dojo - a devops journey with a competitive twist
 
@@ -367,7 +367,7 @@ Note to self: Can our consulting work-shop be modeled on this?
 
 Internal DevOpsDays - a very good way to engage, encourage and learn.
 
-![Internal devops conference](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/devops-internal-conference.png)
+![Internal devops conference](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/devops-internal-conference.png)
 Gamification of DevOps and get teams excited.
 
 
@@ -375,17 +375,17 @@ Gamification of DevOps and get teams excited.
 
 No "devOps" team - everyone has to adopt it. 
 
-![nike transformation](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/nike-transformation.png)
+![nike transformation](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/nike-transformation.png)
 
 ### Breakouts
 
 #### The Case for Value Stream Architecture
 
 Competition is not across the board. It can be at specific value stream. Case point - 
-![Unbundling of banks](https://res.cloudinary.com/akshayranganath/image/fetch/f_auto,q_auto/https://thefinancialbrand.com/wp-content/uploads/2015/04/Unbundling-of-a-bank-V2.png)
+![Unbundling of banks](https://akshayranganath-res.cloudinary.com/image/fetch/f_auto,q_auto/https://thefinancialbrand.com/wp-content/uploads/2015/04/Unbundling-of-a-bank-V2.png)
 
 DevOps is big and there are a lot of startups
-![DevOps startups](https://res.cloudinary.com/akshayranganath/image/fetch/f_auto,q_auto/https://image.slidesharecdn.com/devopsandprogrammaticinfrastructure-160919103700/95/devops-and-programmatic-infrastructure-37-638.jpg?cb=1475855439)
+![DevOps startups](https://akshayranganath-res.cloudinary.com/image/fetch/f_auto,q_auto/https://image.slidesharecdn.com/devopsandprogrammaticinfrastructure-160919103700/95/devops-and-programmatic-infrastructure-37-638.jpg?cb=1475855439)
 
 DevOps / Lean tries to take the analogy of assembly line. Although accurate to some extent, it does not capture the complexities of software developement:
 - Car assembly lines can stay stable for about a year. Software keeps changing.
@@ -396,7 +396,7 @@ DevOps / Lean tries to take the analogy of assembly line. Although accurate to s
 Waterfall and very narrowly focused DevOps movement is trying to force linearity where linearity doesn't really exist.
 
 Sample work-flow at Nationwide:
-![CI visibility at Nationwide](https://res.cloudinary.com/akshayranganath/image/fetch/f_auto,q_auto/https://image.slidesharecdn.com/16decibmenlightenmentseriescompressed-161219154436/95/how-nationwide-and-tasktop-achieved-continuous-visibility-across-the-devops-lifecycle-7-638.jpg?cb=1482162468)
+![CI visibility at Nationwide](https://akshayranganath-res.cloudinary.com/image/fetch/f_auto,q_auto/https://image.slidesharecdn.com/16decibmenlightenmentseriescompressed-161219154436/95/how-nationwide-and-tasktop-achieved-continuous-visibility-across-the-devops-lifecycle-7-638.jpg?cb=1482162468)
 
 Download _Value stream architecture_ eBook
 
@@ -478,7 +478,7 @@ Data is still in silos.
 Read up on [12 factor app](https://12factor.net/)
 
 Cloud Native architecture for data.
-![cloud native architecture](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/cloud-native-architecture.png)
+![cloud native architecture](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/cloud-native-architecture.png)
 
 
 #### The Yin and Yang of Speed and Control

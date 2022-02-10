@@ -3,7 +3,7 @@ layout: post
 title: 3 Reasons Why AMP And CDN Can work together
 comment: true
 description: Google's Accelerated Mobile Pages (AMP) and Content Delivery Networks (CDN) are complimentary. In this post I'd like to show that the two can co-exist.
-image: https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/fist-pump.jpg
+image: https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/fist-pump.jpg
 tags: [amp, cdn]
 ---
 Google's Accelerated Mobile Pages (AMP) and Content Delivery Networks (CDN) are complimentary. In this post I'd like to show that the two can co-exist.
@@ -28,13 +28,13 @@ If your page implements the AMP HTML, passes the validation by AMP JS, then you 
 
 An immediate question that comes to mind is: _Do we remove CDN since we now have AMP and save some money?_ Well, the answer is you will still need a CDN and here are 3 reasons for it.
 
-![team work](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/fist-pump.jpg)
+![team work](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/fist-pump.jpg)
 
 ## Reason 1: AMP pages still need to be hosted
 
 AMP pages are discovered like regular pages by Google. So you need to have a webpage that is hosted on the internet. Here's a the work-flow that Google uses to discover and cache an AMP page. For details and an example, refer to the [case study](#case-study) below.
 
-![How is AMP Page Discovered?](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/how-is-amp-page-discovered.png)
+![How is AMP Page Discovered?](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/how-is-amp-page-discovered.png)
  
 Google detects that an AMP version exists by looking for the ```&lt;link rel="amphtml"``` tag. Content publishers will potentially need to create 2 versions of a page and host it at origin. Since these are pages that can be cached, serving them over CDN will ensure better performance and a good offload at the origin data center.
 

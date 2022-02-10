@@ -3,12 +3,12 @@ layout: post
 title: Pretty Print JSON &#38; Move it to Command Line
 comment: true
 description: Pretty printing JSON is a common operation. I show how to get this done and set it as a command.
-image: https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/command_prompt.png
+image: https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/command_prompt.png
 tag: [json,pretty-print]
 ---
 Pretty printing JSON is a very common operation. In this post, I show how to build the code and make the script an executable as a first-class command.
 
-![Command Prompt](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/command_prompt.png)
+![Command Prompt](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/command_prompt.png)
 
 ## Building Pretty Print program
 In python, pretty-printing is very straight forward. It only needs the use of the built-in library __json__ and using the __dumps__ method. Given any data, the following code can format and sort the keys of JSON and print it to console.

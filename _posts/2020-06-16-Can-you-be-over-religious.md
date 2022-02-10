@@ -3,13 +3,13 @@ layout: post
 title: Can you be over-religious?
 comment: true
 description: Is it possible for a person to become over-religious? My thoughts from the excellent yet hilarious book, the Year of Living Biblically.
-image: https://res.cloudinary.com/akshayranganath/image/fetch/h_350,q_auto,f_auto/https://ajjacobs.com/wp-content/uploads/2013/10/img-book-biblically.png
+image: https://akshayranganath-res.cloudinary.com/image/fetch/h_350,q_auto,f_auto/https://ajjacobs.com/wp-content/uploads/2013/10/img-book-biblically.png
 tags: book-review
 ---
 
 This post is quite different than the normal ones in that it is a bit philosophical and yet not too cumbersome. The post is about my thoughts and ruminations resulting from the hilarious yet thought-provoking book, [The Year of Living Biblically: One Man's Humble Quest to Follow the Bible as Literally as Possible](https://ajjacobs.com/books/the-year-of-living-biblically/).
 
-![the year of living biblically cover](https://res.cloudinary.com/akshayranganath/image/fetch/h_350,q_auto,f_auto/https://ajjacobs.com/wp-content/uploads/2013/10/img-book-biblically.png)
+![the year of living biblically cover](https://akshayranganath-res.cloudinary.com/image/fetch/h_350,q_auto,f_auto/https://ajjacobs.com/wp-content/uploads/2013/10/img-book-biblically.png)
 
 ## About the book
 

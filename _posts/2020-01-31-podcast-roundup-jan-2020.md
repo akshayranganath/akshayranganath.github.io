@@ -3,7 +3,7 @@ layout: post
 title: Podcast roundup Jan 2020
 comment: true
 description: Here is my summary from various podcasts for the month of January 2020
-image: https://res.cloudinary.com/akshayranganath/image/fetch/f_auto,q_auto,w_600/https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/playlists/playlist_399/podcast_lover_1200x627.jpg
+image: https://akshayranganath-res.cloudinary.com/image/fetch/f_auto,q_auto,w_600/https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/playlists/playlist_399/podcast_lover_1200x627.jpg
 ---
 
 ## Bruce Schneier: How insecure, unregulated tech is endangering the world

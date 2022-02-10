@@ -3,12 +3,12 @@ layout: post
 title: Handling a Git Pull request with merge conflict
 comment: true
 description: Merging a git pull request with conflicts is not straight-forward for the first time. Here&#39;s how to do it.
-image: https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/pull_request.png
+image: https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/pull_request.png
 ---
 
 When working with Git, the relatively complex tasks are issuing a pull request and then merging with conflicts. Due to the prevalence of UIs, pull requests are now quite simple. However, merge requests that have a conflict are a little bit more hard to handle. Here's how I get this done.
 
-![pull request](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/pull_request.png)
+![pull request](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/pull_request.png)
 
 In this example, let's work with 2 branches:
 

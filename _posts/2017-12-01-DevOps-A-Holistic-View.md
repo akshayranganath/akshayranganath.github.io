@@ -3,7 +3,7 @@ layout: post
 title: DevOps - A Holistic View
 comment: true
 description: DevOps is influenced by many ideas like Lean, ToC, Agile and ITIL. In this post, I point out the exact practices adopted from these methods. 
-image: https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/collaboration.jpg
+image: https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/collaboration.jpg
 tags: [devops, lean, agile, theory of constraints, ITIL]
 ---
 
@@ -23,7 +23,7 @@ So let's break this down a bit:
 * Tools are not the reason for DevOps - they only enable in the DevOps culture
 
 
-![DevOps Balanced Scorecard](https://res.cloudinary.com/akshayranganath/image/fetch/f_auto,q_auto/https://i2.wp.com/devops.com/wp-content/uploads/2016/02/DevOps-Strategy-Map-Draft-v4-020316.gif)
+![DevOps Balanced Scorecard](https://akshayranganath-res.cloudinary.com/image/fetch/f_auto,q_auto/https://i2.wp.com/devops.com/wp-content/uploads/2016/02/DevOps-Strategy-Map-Draft-v4-020316.gif)
 ## Breaking down DevOps
 
 DevOps as a practice has evolved from various fields. According to the [The DevOps Handbook](https://www.amazon.com/dp/B01M9ASFQ3/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), it is based on:
@@ -48,7 +48,7 @@ Let's see how the 3 ways work and the basis for these concepts.
 
 ## The First Way
 This is the way of describing the flow of work from left to right, ie. from idea to delivery of working software code. At its heart, it just means that if we remove any blockers, we are able to deliver faster.  
-![First way](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/first_way.png)
+![First way](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/first_way.png)
 
 The First Way requires the fast and smooth flow of work from Development to Operations, to deliver value to customers quickly. We optimize for this global goal instead of local goals, such as Development feature completion rates, test find/fix rations, or Ops availably measures. (_Source: DevOps handbook_)
 
@@ -60,7 +60,7 @@ Let's first start with the definition of Agile.
 
 >Agile software development refers to a group of software development methodologies based on iterative development, where requirements and solutions evolve through collaboration between self-organizing cross-functional teams. (Source: [WHAT IS AGILE? WHAT IS SCRUM?](https://www.cprime.com/resources/what-is-agile-what-is-scrum/))
 
-![Agile model](https://res.cloudinary.com/akshayranganath/image/fetch/f_auto,q_auto/http://cdn.ttgtmedia.com/rms/onlineImages/software_quality-agile_software_dev_cycle_desktop.jpg)
+![Agile model](https://akshayranganath-res.cloudinary.com/image/fetch/f_auto,q_auto/http://cdn.ttgtmedia.com/rms/onlineImages/software_quality-agile_software_dev_cycle_desktop.jpg)
 
 The core ideas are:
 * self-organizing teams
@@ -81,7 +81,7 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/Lean_manufacturing)
 
 >Lean manufacturing or lean production, often simply "lean", is a systematic method for waste minimization ("Muda") within a manufacturing system without sacrificing productivity. Lean also takes into account waste created through overburden ("Muri") and waste created through unevenness in work loads ("Mura"). Working from the perspective of the client who consumes a product or service, "value" is any action or process that a customer would be willing to pay for.
 
-![Muda-Mura-Muri](https://res.cloudinary.com/akshayranganath/image/fetch/f_auto,q_auto/https://www.tipsparaempresas.com/wp-content/uploads/2011/02/muda-mura-muri.jpg)
+![Muda-Mura-Muri](https://akshayranganath-res.cloudinary.com/image/fetch/f_auto,q_auto/https://www.tipsparaempresas.com/wp-content/uploads/2011/02/muda-mura-muri.jpg)
 
 Lean basically originated from the [Toyota Production System (TPS)](http://www.toyota-global.com/company/vision_philosophy/toyota_production_system/)
 
@@ -98,7 +98,7 @@ From DevOps perspective, the concept of "flow", "value streams"  "bottlenecks" a
 * As value is specified, value streams are identified, wasted steps are removed, and flow and pull are introduced, begin the process again and continue it until a state of perfection is reached in which perfect value is created with no waste.
 _Source:[PRINCIPLES OF LEAN](https://www.lean.org/WhatsLean/Principles.cfm)_
 
-![Principles of lean](https://res.cloudinary.com/akshayranganath/image/fetch/f_auto,q_auto/https://www.lean.org/images/5stepslean.gif)
+![Principles of lean](https://akshayranganath-res.cloudinary.com/image/fetch/f_auto,q_auto/https://www.lean.org/images/5stepslean.gif)
 
 #### Kanban
 One of the core tenets of the _First Way_ is to make the work visible. To achieve this, Kanban boards are used. 
@@ -107,7 +107,7 @@ One of the core tenets of the _First Way_ is to make the work visible. To achiev
 
 When a Kanban board is used it is very clear on the tasks being queued up, in progress and completed. The end goal is to reduce idle time and eliminate waste. 
 
-![Kanban board](https://res.cloudinary.com/akshayranganath/image/fetch/f_auto,q_auto/https://mktgcdn.leankit.com/uploads/images/general/_xLarge/kanban-board-e60650d1-1.jpg)
+![Kanban board](https://akshayranganath-res.cloudinary.com/image/fetch/f_auto,q_auto/https://mktgcdn.leankit.com/uploads/images/general/_xLarge/kanban-board-e60650d1-1.jpg)
   
 ### IT Service Management (ITSM)
 
@@ -121,7 +121,7 @@ ITSM is similar to DevOps in the sense that it spans the entire life-cycle and d
 
 Here's some of the common ITSM processes.
 
-![ITSM processes](https://res.cloudinary.com/akshayranganath/image/fetch/f_auto,q_auto/https://image.slidesharecdn.com/introductiontotheitsmprogramatyale-whyarewedoingthisaugust2011-131219111634-phpapp02/95/introduction-to-the-itsm-program-at-yale-why-are-we-doing-this-august-2011-4-638.jpg?cb=1387451836)
+![ITSM processes](https://akshayranganath-res.cloudinary.com/image/fetch/f_auto,q_auto/https://image.slidesharecdn.com/introductiontotheitsmprogramatyale-whyarewedoingthisaugust2011-131219111634-phpapp02/95/introduction-to-the-itsm-program-at-yale-why-are-we-doing-this-august-2011-4-638.jpg?cb=1387451836)
 
 The next component that acts as an enabler for the _First Way_ is CI/CD.   
 
@@ -160,7 +160,7 @@ As per [Electric-Cloud's wiki page](http://electric-cloud.com/wiki/display/relea
 
 So it takes the Continuous Delivery to a new level by actually pushing the code out to production. In both _Delivery_ and _Deployment_ code is tested in production like environments. The difference is that in _Delivery_, new change is not deployed until requested (a manual [circuit-breaker](https://www.martinfowler.com/bliki/CircuitBreaker.html)) vs _Deployment_ where the code is automatically promoted to production. 
 
-![Continuous Delivery vs Continuous Deployment](https://res.cloudinary.com/akshayranganath/image/fetch/f_auto,q_auto/https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/differnce-1.png)   
+![Continuous Delivery vs Continuous Deployment](https://akshayranganath-res.cloudinary.com/image/fetch/f_auto,q_auto/https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/differnce-1.png)   
 
 Puppet Labs has a blog about [continuous deliver vs continuous deployment](https://puppet.com/blog/continuous-delivery-vs-continuous-deployment-what-s-diff)  
 
@@ -177,13 +177,13 @@ The Second way is closely tied to first way in terms of the underlying influence
 The Second way also requires cross-functional teams and interaction. Operations team could be part of project planning meetings and provide their (non-functional) requirements that is tracked and tested as part of the release process. This ensures a more robust product.
 
   
-![Second Way](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/second_way.png)
+![Second Way](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/second_way.png)
 
 ## The Third Way
 
 The Third Way focuses on creating a culture of continual learning and experimentation.(_Source: DevOps handbook_) 
 
-![The Third Way](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/third_way.png)
+![The Third Way](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/third_way.png)
  
 The Third Way is influenced by the concepts of Learning Organization, Kaizen, Improvement Kata, blameless postmortems and a lot of ideas. Let us explore a few of them.
 
@@ -195,7 +195,7 @@ The concept of a Learning Organization / Organizational Learning is quite old. I
 
 Peter Senge explained the different aspects of a learning organization using [5 aspects](http://www.thechangeforum.com/Learning_Disciplines.htm).
 
-![5 disciplines of learning organization](https://res.cloudinary.com/akshayranganath/image/fetch/f_auto,q_auto/https://www.solsweden.org/sol/wp-content/uploads/2017/04/the-five-disciplines-senger.jpeg)
+![5 disciplines of learning organization](https://akshayranganath-res.cloudinary.com/image/fetch/f_auto,q_auto/https://www.solsweden.org/sol/wp-content/uploads/2017/04/the-five-disciplines-senger.jpeg)
 
 In the context of DevOps, it means that the Value Stream of an organization is continuously adopting to the needs of the customer and changing based on the experiences, the failures and potential optimizations.
 
@@ -205,12 +205,12 @@ In the context of DevOps, it means that the Value Stream of an organization is c
 In a DevOps organization, improvement is being necessary all the time. Improvements happen in the process, tooling, requirement gathering and so on. When an organization wants to embark on the DevOps transformation, they typically use the concept of Improvement kata to target one aspect of the organization and then transform it by using the 4 step process.
 
 Improvement Kata is a _Lean_ tool. The idea is to improvements have to be made in a scientific and measurable manner so that the business value is optimized. 
-![improvement kata](https://res.cloudinary.com/akshayranganath/image/fetch/f_auto,q_auto/https://www.lean.org/images/IK%20Sticks.jpg) 
+![improvement kata](https://akshayranganath-res.cloudinary.com/image/fetch/f_auto,q_auto/https://www.lean.org/images/IK%20Sticks.jpg) 
 
 
 The behavior exhibited by an organization practising these aspects is the concept of __Hypothesis Driven Developement__. In such a model, every requirement is actually considered as a hypothesis that may or may not be proven to be true. If it is not true, the team analyzes and moves on. If not, the team analyzes for the success and builds further hypothesis to make it more successful.
 
-![Hypothesis driven development](https://res.cloudinary.com/akshayranganath/image/fetch/f_auto,q_auto/https://insights-images.thoughtworks.com/HDD_StoryCard_10a9a864fa5f5db4bbaea5bb39dddf60.jpg)
+![Hypothesis driven development](https://akshayranganath-res.cloudinary.com/image/fetch/f_auto,q_auto/https://insights-images.thoughtworks.com/HDD_StoryCard_10a9a864fa5f5db4bbaea5bb39dddf60.jpg)
 
 To hear more about this concept, watch this excellend video from _DevOps Summit 2017 SFO_ about the [The Yin and Yang of Speed and Control ](https://www.youtube.com/watch?v=-Rq-fuiKNCU)
 

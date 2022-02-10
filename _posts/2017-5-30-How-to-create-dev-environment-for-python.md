@@ -3,12 +3,12 @@ layout: post
 title: DevOps &#58; Building a Python virtual environment
 comment: true
 description: When embarking on a devOps journey, getting a consistent development environment is the key. In this post, I show how to setup a virtual environment and install the correct libraries necessary for a project.
-image: https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/nut-2051596_640.jpg
+image: https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/nut-2051596_640.jpg
 ---
 
 When embarking on a devOps journey, getting a consistent development environment is the key. In this post, I show how to setup a virtual environment and install the correct libraries necessary for a project.
 
-![nut ball and bearing](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/nut-2051596_640.jpg)
+![nut ball and bearing](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/nut-2051596_640.jpg)
 
 ## Virtual Environments: VirtualEnv
 
@@ -86,7 +86,7 @@ urllib3==1.21.1
 
 This fill will need to be checked in to your project code. At any time, if any other developer installs a new library, it will have to be added to this requirements.txt file. That way once other developers pull the update from the source code repository, they will be made aware of the new dependencies.
 
-![cog wheels](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/cog-wheels-2125169_640.jpg)
+![cog wheels](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/cog-wheels-2125169_640.jpg)
 
 ## Developer Install
 

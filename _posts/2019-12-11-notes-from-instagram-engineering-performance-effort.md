@@ -3,13 +3,13 @@ layout: post
 title: Notes from Making Instagram Fast articles
 comment: true
 description: Instagram Engineering published 4 part blog on web performance optimization. Here is my notes from these articles.
-image: https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/lmpszilmigl2dkkmbure
+image: https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/lmpszilmigl2dkkmbure
 ---
 
 ## &tl;dr;
 > [Instagram Engineering](https://instagram-engineering.com/) published a series of 4-part blog series on how they improved the performance on their website. Here's my notes from these articles for a quick overview.
 
-![child racing on a go-kart](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/lmpszilmigl2dkkmbure)
+![child racing on a go-kart](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/lmpszilmigl2dkkmbure)
 
 
 ## Part 1

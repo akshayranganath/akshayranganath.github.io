@@ -3,18 +3,18 @@ layout: post
 title: How to move images in Github pages to Cloudinary? 
 comment: true
 description: Use Cloudinary to host images from your post to get relevant image format and right quality of image based on your device
-image: https://res.cloudinary.com/akshayranganath/image/fetch/w_300,h_100,c_fill,g_auto/f_auto,q_auto/https://cdn.pixabay.com/photo/2017/10/04/23/42/dandelion-2817950_1280.jpg
+image: https://akshayranganath-res.cloudinary.com/image/fetch/w_300,h_100,c_fill,g_auto/f_auto,q_auto/https://cdn.pixabay.com/photo/2017/10/04/23/42/dandelion-2817950_1280.jpg
 ---
 
 >tl;dr: Instead of hosting images for your blog on Github account, consider using the free tier of Cloudinary. It saves on usage at Github and allows you to generate some cool transformation and better format of images at the same time. Download the source code from [here](https://gist.github.com/akshayranganath/c387b3d011f6da096dbf82bac3a9039d).
 
-![change banner](https://res.cloudinary.com/akshayranganath/image/fetch/w_2048,h_400,c_fill,g_auto/f_auto,q_auto/https://cdn.pixabay.com/photo/2017/10/04/23/42/dandelion-2817950_1280.jpg)
+![change banner](https://akshayranganath-res.cloudinary.com/image/fetch/w_2048,h_400,c_fill,g_auto/f_auto,q_auto/https://cdn.pixabay.com/photo/2017/10/04/23/42/dandelion-2817950_1280.jpg)
 
 ## Current issue
 
 I have been publishing my blog on Github pages for quite some time now. I really like the approach and the super optimal HTML that is produced. However, when I run performance audits like [Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/), I would get warnings about large images and for not using newer formats like `.webp`. There was no easy way to embed the different format of images without directly embedding `<img>` tags.
 
-![Page speed insights report](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/psi_report.png)
+![Page speed insights report](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/psi_report.png)
 
 
 I knew that Cloudinary would support the browser-specific format images. However, there was no direct way to migrate all the images. There was no easy way to search/replace the reference to the image as well. So I decided to build this functionality using simple python code. Here's how to do it. It's quite simple - we just need _Algorithms_ :-)
@@ -79,10 +79,10 @@ In this code, I am stating that:
 * `folder=blog` will ensure that the root for all my images will be a folder named `blog`.
 
 The response URL will be of this format. The response JSON has a field called `secure_url` and it is this field we use to get back the uploaded URL.
-[https://res.cloudinary.com/akshayranganath/image/upload/v1568243786/blog/nut%2520ball%2520and%2520bearing.jpg](https://res.cloudinary.com/akshayranganath/image/upload/v1568243786/blog/nut%2520ball%2520and%2520bearing.jpg)
+[https://akshayranganath-res.cloudinary.com/image/upload/v1568243786/blog/nut%2520ball%2520and%2520bearing.jpg](https://akshayranganath-res.cloudinary.com/image/upload/v1568243786/blog/nut%2520ball%2520and%2520bearing.jpg)
 
 When publishing, I don't want to use the `v1568243786` bit. It represents the specific version of image variant. If we over-write it, the version may change. However, simply referencing it as this URL will work as well:
-[https://res.cloudinary.com/akshayranganath/image/upload/blog/nut%2520ball%2520and%2520bearing.jpg](https://res.cloudinary.com/akshayranganath/image/upload/blog/nut%2520ball%2520and%2520bearing.jpg)
+[https://akshayranganath-res.cloudinary.com/image/upload/blog/nut%2520ball%2520and%2520bearing.jpg](https://akshayranganath-res.cloudinary.com/image/upload/blog/nut%2520ball%2520and%2520bearing.jpg)
 
 So I run this cleanup and store the new URL.
 
@@ -94,7 +94,7 @@ For this simple migration, I am adding 2 transformations:
 * [`q_auto`](https://cloudinary.com/documentation/image_transformation_reference#quality_parameter): This will set the best quality based on the image details.
 
 The combination wold translate to a transformation string of `f_quto,q_auto`. The resulting URL would now look as this:
-[https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/nut%2520ball%2520and%2520bearing.jpg](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/nut%2520ball%2520and%2520bearing.jpg)
+[https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/nut%2520ball%2520and%2520bearing.jpg](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/nut%2520ball%2520and%2520bearing.jpg)
 
 ### Find & Replace
 
@@ -104,4 +104,4 @@ The last step is to open each blog and find & replace the local image reference 
 
 That's it. You can now commit the code and push it to Github. That should be create the updated website and images should be performant! Here's the Page Speed report after the change :-)
 
-![page speed report - after](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/psi_report_after.png)
+![page speed report - after](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/psi_report_after.png)

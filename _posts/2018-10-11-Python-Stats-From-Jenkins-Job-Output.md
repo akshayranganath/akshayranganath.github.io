@@ -3,12 +3,12 @@ layout: post
 title: Python Stats from Jenkins Job Output
 comment: true
 description: Jenkins jobs could contain some script output that is archived. Using python statistics, I show how you could extract and create summarized results.
-image: https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/math.jpg
+image: https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/math.jpg
 ---
 
 When working with Jenkins, you may be running some jobs that provides some kind of metric. For example, on a website, you may be monitoring the page load time at every hour, the median / 90th percentile CPU load time, etc. If you are running this as a Jenkins job, the output may be stored as a flat file, JSON or some such format. Typically, this is dumped into the `archive` folder. In this blog post, I show how to extract the data and get some meaningful metrics.
 
-![Math](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/math.jpg)
+![Math](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/math.jpg)
 
 ## Initial Setup
 In this case study, I am using a website performance information. Specifically, I am pulling down the median `page load time` for this blog. The data is pulled down at every hour and stored in a flat file called `summary.json`. The format of the JSON file is as follows:

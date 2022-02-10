@@ -3,7 +3,7 @@ layout: post
 title: Book Review on "The Perfect Weapon By David Sanger"
 comment: true
 description: David Sanger's book, the Perfect Weapon raising some thorny issues on cyber warfare along with an great narration of some incredible hacks that went on from Stuxnet to the audacious DNC hacks.
-image: https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/hacker-perfect-weapon.jpg
+image: https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/hacker-perfect-weapon.jpg
 ---
 
 I recently completed the book _The Perfect Weapon: War, Sabotage, and Fear in the Cyber Age_. I first heard about it on an NPR show, [All Things Considered](https://www.npr.org/2018/06/14/620103358/the-perfect-weapon-tells-the-story-of-growing-cyber-war-that-the-u-s-is-fighting). The author was being interviewed about the book. He described the audacious hacks of US-Israeli intelligence in the Stuxnet and moved on to more imminent threats and the issues of cyber security.
@@ -16,7 +16,7 @@ After reading this line from the cover of the book, I was hooked!
 
 So I managed to get one of the first editions of the book from the local library and read it cover-to-cover. It starts off from the story on how the author broke the story about Iran's centrifuges spinning of control and the hand of US in this effort. It then dwelt on the story of North Korea's missles simply falling off the sky for no apparent reason and some informed speculations about the cause. Pulling in from an eclectic set of sources the author guides us through the recent wave of cyber attacks, it's impact and the problems of retaliation. You see, the world of "cyber" is a whole new realm and the laws of warfare are not clear.
 
-![Hacker](https://res.cloudinary.com/akshayranganath/image/upload/f_auto,q_auto/blog/hacker-perfect-weapon.jpg)
+![Hacker](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/hacker-perfect-weapon.jpg)
 
 Apart from the astounding stories of hacks by US, China, Russia and Iran, the book is worth for the pertinent questions it raises. Traditional wars has a set of loosely followed rules like the [Geneva convention](https://en.wikipedia.org/wiki/Geneva_Conventions), concepts of aid workers not being harmed and clearly displaying affiliation. Even during the Cold War, chilly concepts like [Mutually Assured Destruction](https://en.wikipedia.org/wiki/Mutual_assured_destruction) existed. Due to this, there were policies around how the cold war actors would escalate the war and what would be off-limits. However, the world of cyber warfare has no such rules.
 

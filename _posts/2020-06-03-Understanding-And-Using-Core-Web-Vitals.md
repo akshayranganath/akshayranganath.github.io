@@ -3,12 +3,12 @@ layout: post
 title: Understanding and using Core Web Vitals
 comment: true
 description: Core Web Vitals was announced recently for measuring performance. Learn about the use, performance and SEO impact and tools available to measure the metrics defined as part of this change. 
-image: https://res.cloudinary.com/akshayranganath/image/fetch/w_600,f_auto,q_auto/https://addyosmani.com/assets/images/core-web-vitals-addy.png
+image: https://akshayranganath-res.cloudinary.com/image/fetch/w_600,f_auto,q_auto/https://addyosmani.com/assets/images/core-web-vitals-addy.png
 ---
 
 Recently, Google announced [Web Vitals - Essential metrics for a healthy site](https://web.dev/vitals/) and my initial metrics was a bored yaaawn. Yet another initiative and yet another set of performance metrics. My cynicism was similar to this Dilbert situation.
 
-![dilbert key metric cartoon](https://res.cloudinary.com/akshayranganath/image/fetch/f_auto,q_auto/https://assets.amuniversal.com/096f45406cc901301d50001dd8b71c47)
+![dilbert key metric cartoon](https://akshayranganath-res.cloudinary.com/image/fetch/f_auto,q_auto/https://assets.amuniversal.com/096f45406cc901301d50001dd8b71c47)
 (Source: [https://dilbert.com/strip/2007-05-16](https://dilbert.com/strip/2007-05-16))
 
 However, after I started reading about it a bit, if felt like there was something to it and it is an interesting effort. So here's the summary of my understanding.
@@ -58,7 +58,7 @@ If you want to dig into the details on reason for using these 3 vitals and the s
 
 Google appears to have coordinated and done a great job at releasing tools for measuring Core Web Vitals. These metrics are currently supported on a variety of platform and tools. Here's a report on the [availability of tools](https://web.dev/vitals-tools/)
 
-![core web vitals availability](https://res.cloudinary.com/akshayranganath/image/fetch/f_auto,q_auto/https://webdev.imgix.net/vitals-tools/Vitals-Tools1.png)
+![core web vitals availability](https://akshayranganath-res.cloudinary.com/image/fetch/f_auto,q_auto/https://webdev.imgix.net/vitals-tools/Vitals-Tools1.png)
 (Source: [https://webdev.imgix.net/vitals-tools/Vitals-Tools1.png](https://webdev.imgix.net/vitals-tools/Vitals-Tools1.png))
 
 Apart from the tools mentioned, I am happy to see that my favorite tool, WebPageTest has the Core Web Vitals already incorporated. When you run a test, you should see the Web Vitals highlighted like this.
