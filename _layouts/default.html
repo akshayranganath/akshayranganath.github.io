@@ -45,20 +45,7 @@
           {% include svg-icons.html %}
         </footer>
       </div>
-    </div>
-    {% if page.url == "/index.html" or page.url == "/" or page.url == "/about/index.html" or page.url=="/about/" %}
-    <script type="text/javascript">
-      if('serviceWorker' in navigator) {
-        navigator.serviceWorker.register('/sw_worker.js', { scope: '/' })
-          .then(function(registration) {
-                console.log('Service Worker Registered');
-          });
-        navigator.serviceWorker.ready.then(function(registration) {
-           console.log('Service Worker Ready');
-        });
-      }
-    </script>  
-    {% endif %}    
+    </div>       
     {% include analytics.html %}
   </body>
 </html>
