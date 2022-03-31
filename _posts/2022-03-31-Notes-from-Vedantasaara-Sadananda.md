@@ -4,7 +4,7 @@ layout: post
 title: Notes from Vedanta-sara by Sadananda
 comment: true
 description: Vedanta-sara is an introductory text to Advaita philosophy. I note down the highlights from the book in this article.
-image: https://akshayranganath-res.cloudinary.com/image/upload/h_350,w_350,f_auto,q_auto,/blog/51a9XCBoPjL._SX330_BO1%2C204%2C203%2C200_.jpg
+image: https://akshayranganath-res.cloudinary.com/image/upload/h_350,w_350,f_auto,q_auto/blog/51a9XCBoPjL._SX330_BO1%2C204%2C203%2C200_.jpg
 tags: संस्क्रुतम्, vedanta
 
 ---
