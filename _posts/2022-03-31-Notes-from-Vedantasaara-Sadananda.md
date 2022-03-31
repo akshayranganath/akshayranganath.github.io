@@ -1,0 +1,79 @@
+---
+
+layout: post
+title: Notes from Vedanta-sara by Sadananda
+comment: true
+description: Vedanta-sara is an introductory text to Advaita philosophy. I note down the highlights from the book in this article.
+image: https://akshayranganath-res.cloudinary.com/image/upload/h_350,w_350,f_auto,q_auto,/blog/51a9XCBoPjL._SX330_BO1%2C204%2C203%2C200_.jpg
+tags: संस्क्रुतम्, vedanta
+
+---
+
+## Why this book?
+
+During the Covid crisis, I took up a habit of walking regularly as an exercise. Apart from helping may stay fit, it offered me about an hour of uninterrupted time. During this period, I started listening to the talks of [Swami Sarvapriyananda](https://www.vedantany.org/resident-swamis/). I started by listening to his introductory talks like ["Who am I?"](https://www.youtube.com/watch?v=eGKFTUuJppU), based the teachings of [Mandukya Upanishad](https://www.swami-krishnananda.org/mand/Mandukya_Upanishad.pdf). After listening to a series of his lectures, I started to listen to the [Bhagwad Gita series](https://soundcloud.com/vedantany/sets/bhagavad-gita-swami). While doing so, I realized that my foundations in _Vedanta_ were a bit weak and I needed a firm footing.
+
+While researching about it, I came across a [lecture series on _Vedanta-sara_](https://www.youtube.com/watch?v=h6FbNFjDJqk&list=PLDqahtm2vA70ccqIRFR_lipqKvxrHBRRw). Alternatively, you listen to the lectures on [Spotify](https://open.spotify.com/show/5IrDmqXhiGwwyQcIUjRhtB?si=1d1f232185bf40fb&nd=1) as well.
+
+The lectures are based on an introductory book on _Vedanta_. Written by _Sadananda_ in the 15th century, [this book](https://en.wikipedia.org/wiki/Vedantasara_(of_Sadananda) is considered as an introductory text into the philosophy of _Advaita Vedanta_. 
+
+![Vedanta-sara by Sadaananda](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/51a9XCBoPjL._SX330_BO1%2C204%2C203%2C200_.jpg)
+> Book image from [Amazon](https://images-na.ssl-images-amazon.com/images/I/51a9XCBoPjL._SX330_BO1,204,203,200_.jpg)
+
+In this article, I wanted to note down the main highlights as a reference for myself and for anyone who is pursuing the same. 
+
+If you'd like to purchase the book, the book is available on [Amazon](https://www.amazon.com/Vedanta-sara-Sadananda-Yogindra/dp/8175051108/ref=sr_1_1?keywords=vedantasara+of+sadananda+by+nikhilananda+swami&qid=1648751909&sprefix=vedantasara+%2Caps%2C129&sr=8-1). Generally, the Advaita teachers appear to recommend these 3 books as introductory material:
+
+* Vedanta-sara of Sadananda by Sadananda Yogindra
+* Drg-Drsya-Viveka: An Inquiry Into the Nature of the Seer and the Seen by Shankara
+* Aparokshanubhuti: Or Self-Realization of Sri Sankaracharya by Shankara
+
+Generally, there is a bundled deal - so do take a look and get them together.
+
+## Notes from the book
+
+### Chapter 1: Preliminaries
+
+> वेदान्तो नामोपनिषत्प्रमाणं .. (para 3)
+
+Vedanta is the evidence of the Upanishads..
+Vedanta - literally means the concluding of the philosophical portion of the Vedas
+
+#### Journey of a Vedantin (pp 20-21)
+
+* Performance of the daily obligatory rites leads >> acquisition of virtue; 
+* Acquisition of virtue >> destruction of sin
+* Destruction of sin >> purification of mind
+* Purification of mind >> comprehension of संसार (Samsaara) / relative existence
+* Comprehension of संसार >> leads to वैराग्य/renunciation
+* वैराग्य >> Desire for liberation
+* Desire for liberation >> search for its means
+* Search >> practice of योगा (Yoga)
+* योगा >> habitual tendency of the mind to settle in the Self
+* Habit >> realized knowledge of passages like तत् त्वम् असि (Thou art That) 
+* Knowledge >> destruction of ignorance & establishment in one's own Self
+
+About वैराग्य (dispassion)
+> A thing that has an origin cannot be permanent. Therefore dispassion should be practiced for _all_ things, even for the highest that man may attain - the position of _Brahma_, which is also as impermanent as any earthy object.
+
+#### 6 Treasures of Mind
+
+1. शम - control of the mind
+2. दम - restraining the external organs (ie 5 sense organs & 5 organs of action)
+3. उपरति - function of mind that keeps the restrained organs from going back to the objects of the senses
+4. तितिक्षा - endurance / forbearance
+5. समाधाना - constant concentration of the mind
+6. श्रद्धा - faith (also working faith). 
+
+श्रद्धा does not mean blind faith. It is like saying, have faith in a text book until you have learnt the subject. This kind of faith.
+
+With the 6 treasure arises मुमुक्षत्वं, i.e., a strong desire for liberation.
+
+#### Characteristics of a good गुरु (Guru)
+
+* अकामहतत्वं - desirelessness
+* अवृजिनत्वं - sinlessness
+
+
+
+https://open.spotify.com/show/5IrDmqXhiGwwyQcIUjRhtB?si=1d1f232185bf40fb&nd=1 
