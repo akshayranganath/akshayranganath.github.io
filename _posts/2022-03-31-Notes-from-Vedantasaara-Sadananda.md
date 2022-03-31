@@ -75,5 +75,21 @@ With the 6 treasure arises मुमुक्षत्वं, i.e., a strong des
 * अवृजिनत्वं - sinlessness
 
 
+### Chapter 2: Superimposition (अध्यारोप)
 
-https://open.spotify.com/show/5IrDmqXhiGwwyQcIUjRhtB?si=1d1f232185bf40fb&nd=1 
+> अध्यारोप (Adhyaropa) is the superimposition of the unreal on the real, like the false perception of a snake in a rope which is not a snake.
+
+Main argument from Advaitins:
+> Brahman alone is real, and ignorance and the entire material phenomenon of the world which are its products are only superimposition upon Brahman.
+
+अवस्तु means an indescribable state i.e. which is other than existence and non-existence. अज्ञान (Agyaan) / ignorance is different from reality and unreality, as neuter is different from masculine and feminine.
+
+> This ignorance is to be one or many according to the mode of observing it either collectively or individually. (para 35)
+The collective ignorance is superior to the individual ignorance because the former is associated with Brahman and latter with जीव (Jiva).
+
+#### Who is God?
+In the traditional sense, ब्रह्मन् (Brahman) + अज्ञान (Agyaan) / माया (Maya) is called as सगुण ब्रह्मन्  (Saguna Brahman) or ईश्वर (Ishvara). This entity is the highest manifestation of the ब्रह्मन् (Brahman) in the phenomenon universe and hence refers to the "God".
+
+
+
+
