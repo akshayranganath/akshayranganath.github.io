@@ -90,6 +90,15 @@ The collective ignorance is superior to the individual ignorance because the for
 #### Who is God?
 In the traditional sense, ब्रह्मन् (Brahman) + अज्ञान (Agyaan) / माया (Maya) is called as सगुण ब्रह्मन्  (Saguna Brahman) or ईश्वर (Ishvara). This entity is the highest manifestation of the ब्रह्मन् (Brahman) in the phenomenon universe and hence refers to the "God".
 
+ब्रह्मन् (Brahman) is indivisible. माया (Maya) can be divided infinitely. e.g.: Sun reflected in one large lake or infinite drops of water is still ignorance. The only real thing is the sun. (from lecture)
+
+![water reflection](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,c_fill,w_800,h_400/blog/lake-gc6e8e83dc_1920.jpg)
 
 
 
+| Aggregate Aspect                      | Name                        | Individual Aspect                          | Name               | Characteristic | Kosha                  |  State (Mandukya) |
+|---------------------------------------|-----------------------------|--------------------------------------------|--------------------|----------------|------------------------|------------------|
+|                                       | Brahman                     |                                            | Jiva (जीव)         | Other terms    |  -                     |    तुरिया           |
+| Brahman + Maya                        | Ishavara                    | Limited self + Maya                        | Praagna (प्राज्ञा) | Causal Body    | आनन्दमय कोश            |    प्राज्ञा         |
+| Brahman + Maya + Mind                 | Hiranyagarbha (हिरण्यगर्भा) | Limited self + Maya + Mind                 |                    | Subtle Body    | विज्ञानमय + मनोमय कोश  |    तॆजस             |
+| Brahman + Maya + Mind + Physical Body | Virat (विराट्)              | Limited self + Maya + Mind + Physical Body | Vishwa (विश्व)     | Gross Body     | प्राणमय + अन्नमय कोश   |    विश्व            |
