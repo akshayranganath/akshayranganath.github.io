@@ -32,6 +32,17 @@ Generally, there is a bundled deal - so do take a look and get them together.
 
 ## Notes from the book
 
+### Definition of the cosmic and individual being
+
+| Aggregate Aspect                      | Name                        | Individual Aspect                          | Name               | Characteristic | Kosha                  |  State (Mandukya) |
+|---------------------------------------|-----------------------------|--------------------------------------------|--------------------|----------------|------------------------|------------------|
+|                                       | Brahman                     |                                            | Jiva (जीव)         | Other terms    |  -                     |    तुरीय           |
+| Brahman + Maya                        | Ishavara                    | Limited self + Maya                        | Praagna (प्राज्ञा) | Causal Body    | आनन्दमय कोश            |    प्राज्ञा         |
+| Brahman + Maya + Mind                 | Hiranyagarbha (हिरण्यगर्भ) | Limited self + Maya + Mind                 |                    | Subtle Body    | विज्ञानमय + मनोमय कोश  |    तॆजस             |
+| Brahman + Maya + Mind + Physical Body | Virat (विराट्)              | Limited self + Maya + Mind + Physical Body | Vishwa (विश्व)     | Gross Body     | प्राणमय + अन्नमय कोश   |    विश्व            |
+
+This is a summary of all the various breakdown of the core concepts. 
+
 ### Chapter 1: Preliminaries
 
 > वेदान्तो नामोपनिषत्प्रमाणं .. (para 3)
@@ -94,11 +105,46 @@ In the traditional sense, ब्रह्मन् (Brahman) + अज्ञा�
 
 ![water reflection](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,c_fill,w_800,h_400/blog/lake-gc6e8e83dc_1920.jpg)
 
+>The individual ignorance, associated with it (ब्रह्मन्) is also known as the causal body on account of its being the cause of egoism, etc. and as the blissful sheath because it is full of bliss and covers like a sheath;.. knows as dreamless sleep since into it everything is dissolved.. p47
+
+In the waking state, the _Jiva_ is cognizant of the gross objects. In the deam state, the gross objects are dissolved into the subtle, and he is aware only of the subtle. In dreamless sleep, the gorss as well as the subtle objects are absorbed into the Ultimate Cause. Therefore, the state of dremless sleep has been described as the state of ultimate absorption or dissolution (प्रलय). p48
+
+Individual _Jiva's_ dreamless sleep is called _sushuptih (सुषुप्ति:)_ while the dreamless sleep of the One is called _pralaya (प्रलय  )_. 
+
+#### Mahavakyaa of Advaita Vedanta
+
+* तत् त्वम् असि - "Thou art that"
+* अयम् आत्मा ब्रह्म - "This self is Brahman"
+* प्रज्ञानं ब्रह्म - "Consciousness is Brahman"
+* अहं ब्रह्मास्मि - "I am Brahman"
+
+#### आवरण विक्षेप (Projection/Concealment)
+
+Maya / Ignorance has 2 powers:
+* power of concealment (आवरण)
+* power of projection (विक्षेप)
+
+Just as a small cloud can obstruct the view of the sun over many miles, ignorance can conceal the true Self which is unlimited and not subject to transmigration. 
+> The Self covered by this (concealing power of ignorace) may become subject to _Samsaara (संसार)_ (relative existence) characterised by one's feeling sa the agent (i.e. the doer), the experiencing subject, happy, miserable, etc., just as a rope may become a snake due to the concealing power of one's own ignorance.
+
+>The power of projection creates all frm the subtle bodies to the cosmos.
+
+Ignorance endowed with these twin powers of concealment and projection is the cause which transforms, as it were, the Pure Self, immutable, unattached and indivisible, into the _Jiva_ and the world. As ignorace regarding teh rope gives rise to the illution of the snake, similarly ignorace regarding the Self, by its power of projection, brings before our mind the illusion of the phenomenol universe.
+
+_Material vs Efficient cause_
+* Efficient cause: Potter making his pot (ie creator and created are seperate)
+* Material cause: Milk turning into curd (creator transforms into created)
+
+Is _Brahman_ the material or efficient cause of the Universe?
+
+* Brahman is not the efficient cause. _Having projected it, he entered it" (Tait. Up.)
+* Brahman is not the material cause. If it were, the cause and effect would be same and hence unreal.
+* Brahman+Maya from His Consciousness aspect is the efficient or instrumental cause. 
+* Brahman when looked upon his _Upadhi_ aspect is the material cause of the Universe.
+
+Therefore, a new idea विवर्ता (Vivarta) is introduced. Law of _Vivarta_ means the the transformation of the caue into effect without the former losing its own character i.e., the wholevisible universe is a mere illusionary appearance - while Brahman is the only real entity. For example, a spider is the efficient and material cause of the spider web.
+
+Law of _Vivara_ is different from law of _परिणाम_ (evolution) which admits real change to the cause.
 
 
-| Aggregate Aspect                      | Name                        | Individual Aspect                          | Name               | Characteristic | Kosha                  |  State (Mandukya) |
-|---------------------------------------|-----------------------------|--------------------------------------------|--------------------|----------------|------------------------|------------------|
-|                                       | Brahman                     |                                            | Jiva (जीव)         | Other terms    |  -                     |    तुरिया           |
-| Brahman + Maya                        | Ishavara                    | Limited self + Maya                        | Praagna (प्राज्ञा) | Causal Body    | आनन्दमय कोश            |    प्राज्ञा         |
-| Brahman + Maya + Mind                 | Hiranyagarbha (हिरण्यगर्भा) | Limited self + Maya + Mind                 |                    | Subtle Body    | विज्ञानमय + मनोमय कोश  |    तॆजस             |
-| Brahman + Maya + Mind + Physical Body | Virat (विराट्)              | Limited self + Maya + Mind + Physical Body | Vishwa (विश्व)     | Gross Body     | प्राणमय + अन्नमय कोश   |    विश्व            |
+#### Evolution of 5 elements
