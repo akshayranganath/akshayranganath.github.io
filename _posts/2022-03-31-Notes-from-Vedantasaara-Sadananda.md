@@ -148,3 +148,23 @@ Law of _Vivara_ is different from law of _परिणाम_ (evolution) which 
 
 
 #### Evolution of 5 elements
+
+```mermaid
+graph LR
+A[Pure Consciousness] --> D(Aakaasha / Ether)
+B(Maya's projecting power) --> D
+C(Darkness / tamas) -->  D
+D --> E(Air)
+E --> F(Fire)
+F --> G(Water)
+G --> H(Earth)
+```
+
+#### General structure of Vedantic Progress
+
+| Difficulty | Problem | Solution | Method |
+|------------|---------|----------|--------|
+| Hardest| अज्ञान (Ignorance)| ज्ञान (Knowledge) | ज्ञान योग (Path of knowldge)|
+| Medium | विक्षेप (unfocused mind)| Focused Mind | उपासना (*Meditation)|
+| Easier | चित्त मल (Impurity of mind) | चित्त शुद्धि (Purification of mind) | कर्म योग  (Path of action) |
+
