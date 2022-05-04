@@ -34,12 +34,12 @@ Generally, there is a bundled deal - so do take a look and get them together.
 
 ### Definition of the cosmic and individual being
 
-| Aggregate Aspect                      | Name                        | Individual Aspect                          | Name               | Characteristic | Kosha                  |  State (Mandukya) |
+| Aggregate Aspect | Name | Individual Aspect | Name | Characteristic | Kosha  |  State (Mandukya) |
 |---------------------------------------|-----------------------------|--------------------------------------------|--------------------|----------------|------------------------|------------------|
 |                                       | Brahman                     |                                            | Jiva (जीव)         | Other terms    |  -                     |    तुरीय           |
-| Brahman + Maya                        | Ishavara                    | Limited self + Maya                        | Praagna (प्राज्ञा) | Causal Body    | आनन्दमय कोश            |    प्राज्ञा         |
-| Brahman + Maya + Mind                 | Hiranyagarbha (हिरण्यगर्भ) | Limited self + Maya + Mind                 |                    | Subtle Body    | विज्ञानमय + मनोमय कोश  |    तॆजस             |
-| Brahman + Maya + Mind + Physical Body | Virat (विराट्)              | Limited self + Maya + Mind + Physical Body | Vishwa (विश्व)     | Gross Body     | प्राणमय + अन्नमय कोश   |    विश्व            |
+| Brahman + Maya                        | Ishavara                    | Limited self + Maya                        | Praagna (प्राज्ञा) | Causal Body    | आनन्दमय कोश            |    प्राज्ञा (deep sleep)        |
+| Brahman + Maya + Mind                 | Hiranyagarbha (हिरण्यगर्भ) / सूत्रात्मा / प्राण | Limited self + Maya + Mind                 |     Taijasa/Full of light (तॆजस)               | Subtle Body (सूक्ष्म शरीर)    | विज्ञानमय + मनोमय + प्राणमय कोश  |    तॆजस  (dreaming)           |
+| Brahman + Maya + Mind + Physical Body | Virat (विराट्) / वैश्वनर             | Limited self + Maya + Mind + Physical Body | Vishwa (विश्व)     | Gross Body     | प्राणमय + अन्नमय कोश   |    विश्व  (waking)          |
 
 This is a summary of all the various breakdown of the core concepts. 
 
@@ -149,16 +149,68 @@ Law of _Vivara_ is different from law of _परिणाम_ (evolution) which 
 
 #### Evolution of 5 elements
 
-```mermaid
-graph LR
-A[Pure Consciousness] --> D(Aakaasha / Ether)
-B(Maya's projecting power) --> D
-C(Darkness / tamas) -->  D
-D --> E(Air)
-E --> F(Fire)
-F --> G(Water)
-G --> H(Earth)
-```
+![5 elements](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_650,e_sharpen/blog/vedantasara-5-elements.png)
+(para 57)
+
+These are called as सूक्ष्म भूतानि (i.e., pure elements). The same elements when compounded in specific proportions become the स्थूल भूतानि (i.e., gross elements).
+
+### Nature of Subtle Bodies
+
+At this point, we're talking about the internal organs, brain and mind.
+
+लिङ्ग शरीर have 17 parts:
+
+* Intellect & Mind (बुद्धि and मनस्)
+* 5 organs of perception / ज्ञानेन्द्रियाणि (ears, skin, eyes, tongue and nose)
+* 5 organs of action / कर्मेन्द्रियाणि (speech, hands, feet, organs of evacuation and generation).
+* 5 vital forces / प्राण are प्राण, अपान, व्यान, उदान, समान
+
+_Subtle Body_ 
+
+The intellect & mind are split into 4 parts. All are considered as अन्तःकरण (i.e., modification of internal instrument)
+* बुद्धि (Intellect) is that modification of internal instrument that _determines_.
+* चित्त (mind stuff / memory) is the modification of internal instrument that remembers. Considered part of बुद्धि.
+* मनस् is that modification internal instrument that _considers pros and cons_ (संकल्प विकल्प).
+* अहङ्कार (ego) is the modification of internal instrument that appropriates to itself (makes it _mine_). Considered part of मनस्
+
+| Inner Instrument | Organs | Sheath | Main feature | 
+| --------------- | ------ | ------ |
+| बुद्धि | 5 Organs of perception | विज्ञानमय कोश ==> जीव which transmigrates | सत्त्व | 
+| मनस् | 5 Organs of perception | मनोमय कोश | सत्त्व | 
+| - | 5 Organs of action + 5 vital forces | प्राणमय कोश | रजस
+
+
+### Evolution of Universe
+
+From the 5 pure elements, using the concept of पन्चिकरणम् (mixing in 5ths), the 5 compounded elements are produced. These 5 compounded _gross_ elements are also _Aakaasha_ (ie ether), air, fire, water and earth.
+
+Each element manifests the following:
+
+| Element | Sense | Sense | Sense | Sense | Sense | 
+| -- | -- | -- | -- | -- | -- | 
+| Ether | Sound | 
+| Air | Sound | Touch |
+| Fire | Sound | Touch | Form | 
+| Water | Sound | Touch | Form | Taste | 
+| Earth | Sound | Touch | Form | Taste | Smell |
+
+From the 5 compounded elements, the following worlds (लोक) have evolved:
+* 7 higher worlds / planes: भूवर स्वर महर जन तप सत्यं
+* 7 nether worlds: अतल वितल सुतल रसातल महातल पाताल
+* The world (ie earth)
+* 4 kind of gross bodies along with food and drink appropriate for them. 
+
+4 kinds of gors bodies or organisms are those born of
+
+1. womb (humans, higher animals)
+2. egg (birds, reptiles)
+3. moisture (lice, mosquitos)
+4. soil (trees, plants)
+
+
+
+
+
 
 #### General structure of Vedantic Progress
 
