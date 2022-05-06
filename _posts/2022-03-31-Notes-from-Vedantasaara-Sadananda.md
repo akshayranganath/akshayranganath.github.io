@@ -43,6 +43,15 @@ Generally, there is a bundled deal - so do take a look and get them together.
 
 This is a summary of all the various breakdown of the core concepts. 
 
+#### General structure of Vedantic Progress
+
+| Difficulty | Problem | Solution | Method |
+|------------|---------|----------|--------|
+| Hardest| अज्ञान (Ignorance)| ज्ञान (Knowledge) | ज्ञान योग (Path of knowldge)|
+| Medium | विक्षेप (unfocused mind)| Focused Mind | उपासना (*Meditation)|
+| Easier | चित्त मल (Impurity of mind) | चित्त शुद्धि (Purification of mind) | कर्म योग  (Path of action) |
+
+
 ### Chapter 1: Preliminaries
 
 > वेदान्तो नामोपनिषत्प्रमाणं .. (para 3)
@@ -200,23 +209,55 @@ From the 5 compounded elements, the following worlds (लोक) have evolved:
 * The world (ie earth)
 * 4 kind of gross bodies along with food and drink appropriate for them. 
 
-4 kinds of gors bodies or organisms are those born of
+4 kinds of gross bodies or organisms are those born of
 
 1. womb (humans, higher animals)
 2. egg (birds, reptiles)
 3. moisture (lice, mosquitos)
 4. soil (trees, plants)
 
+Aggregate of all gross bodies is called _वैश्वनर_/_विराट्_. Individual is called _विश्व_. The gross body is also called अन्नमय कोश. 
+
+The organs of action and perception and mind are controlled by a corresponding god.
+
+* 5 organs of perception - दिक् वायु सूर्य वरुण अश्विन 
+* 5 organs of action - अग्नि इन्द्र विष्णु यम प्रजापति 
+* 4 inner organs - चन्द्र (conscious mind),  विष्णु (subconscious mind), ब्रह्म (intellect) शिव (ego)
+
+## Overview of Philosophical Schools
+
+In olden India, any debate or argument has to have 3 parts:
+
+* श्रुति - evidence from scripture
+* युक्ति - reasoning / inference
+* अनुभूति - experience / direct perception
 
 
+चारवाका (Chaaravaaka) / Materialists were atheists who believe in the physical body or physical world and do not believe in the existence of any higher order being.
+
+| Philosophy | Evidence | 
+| ---------- | -------- |
+| Deluded Layman | Children are the self |
+| चारवाका (Materialists) - level 1 | Physical body is the self |
+| चारवाका (Materialists) - level 2 | Sense organs are the self |
+| चारवाका (Materialists) - level 3 | प्राणा / life forces are the self |
+| चारवाका (Materialists) - level 4 | मनस्  / mind is the self |
+| योगाचारा / हिनायना Teraavada Buddhists | "self" is a stream of consciousness. Followed in Sri Lanka, Thailand | 
+| Mimaamsaka न्याय / वैशेषिक (तार्किक / प्रभाकर ) | Ignorance is the self | 
+| Mimaamsaka Bhatta's School | Consciousness associated with ignorance is the self | 
+| शून्यवादि (माध्यमिक शून्यवाद) Maadhyamika Shoonyavada / Nihilistic School of Buddhism | Self is identified with void. Followed in Tibet. | 
+| अद्वैत Advaita | True self is the Brahman |
+
+* योगाचार (Yogachaara) Buddhism was based on the original teachings of Buddha.
+* माध्यमिक शून्यवाद (Nihilistic school) is based on extrapolation of Buddha's teachings. नागार्जुन (Nagarjuna) was the titan who formulated the philosophical foundation for this school.
+* कुमारिल भट्ट (Kumarila Bhatta) laid foundation of [Bhatta](https://www.mimamsa.org/authors/kumarila_bhatta.html) school of philosophy. He systematically argued against the Buddhist traditions and laid the foundation for शंकर (Shankara) and other Hindu teachers.
+* प्रभाकर Prabhaakara Bhatta was the student of Kumarila Bhatta. However, he argued against his teacher and hence his school is called Guru and his school is called [गुरुवाद](https://www.mimamsa.org/authors/prabhakara_mishra.html).
 
 
+The hardest challenge to Advaita historically has been from the Shoonyavaada.
 
-#### General structure of Vedantic Progress
+  >As the Self is too subltle for ordinary understanding, the passages in question gradually train the mind to dwell on finer and finer aspects of the Self. This is called the अरुन्धती न्याय (Arundhati Nyaaya). One wishing to locate the tiny star called _Arundhati_ is first directed to look at bigger and brighter stars. Gradually he comes to the right star. Similarly those scriptual passages gradually help one on to the Reality.
 
-| Difficulty | Problem | Solution | Method |
-|------------|---------|----------|--------|
-| Hardest| अज्ञान (Ignorance)| ज्ञान (Knowledge) | ज्ञान योग (Path of knowldge)|
-| Medium | विक्षेप (unfocused mind)| Focused Mind | उपासना (*Meditation)|
-| Easier | चित्त मल (Impurity of mind) | चित्त शुद्धि (Purification of mind) | कर्म योग  (Path of action) |
+  ## अपवाद / De-Superimposition
 
+  
