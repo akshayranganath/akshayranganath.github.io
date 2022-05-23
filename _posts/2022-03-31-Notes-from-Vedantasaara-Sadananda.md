@@ -260,4 +260,55 @@ The hardest challenge to Advaita historically has been from the Shoonyavaada.
 
   ## अपवाद / De-Superimposition
 
-  
+  >As a snake falsely perceived in a rope is ultimately found out to be nothing but the rope: similarly the world of unreal things, beginning with ignorance, superimposed upon he Reality, is realized, at the end, to be nothing but the Brahman.This is known as de-superimpostion (_Apavada_). p101
+
+  ![mirage](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_650/blog/thumbnail-mirage.jpg)
+
+In other words, Brahman through illusion appears as the phenomenal world. The breaking up of this illusion - which consists only of name and form - and the consequent discovery of Brahman, which is the underlying reality, is called _apavada_. 
+
+_विवर्ता_ / _Vivarta_ means an apparent modification or illusion which is caused by ignorance. _विकारा_ / _Vikaara_ on the other hand is actual transformation like milk to curd.
+
+As a snake is a विवर्ता of a rope, so is the world the विवर्ता of Brahman and the illusion is removed by Knowledge.
+
+Advaita believes the world is a _विवर्ता_ of the Brahman. _विषिठद्वैत_ / _Qualified monoism_ believes the world to be a _विकारा_ of the Brahman.
+
+### तत्त्वमसि
+
+#### Defining तत् / Tat
+
+In the sentence, _तत्त्वमसि_, the word तत् has 3 meanings:
+
+* वाच्य / primary meaning = विराट्
+* लक्ष्य / secondary or implied = हिरण्यगर्भ
+* व्यक्त / suggested = ईश्वर
+
+In Sanskrit Grammar, there are 3 kinds of sentences:
+
+* सामानाधिकरण्य / Saamaanaadhikaranya: similarity, i.e. 2 words have the same substratum
+* विशेषण विशेष्य भाव / Visheshana-visheshyabhaava: adjectival relationship i.e. words qualify each other
+* लक्ष्य लक्षण भाव / Lakshya-lakshana bhaava: implied meaning, i.e. 2 words that imply something
+
+| Relationship | सोऽयं देवदत्तः | तत्त्वमसि |
+| ------------ | -------- | ------ |
+| सामानाधिकरण्य | "This" and "that" is associated with Devadutta in the past and present. Yet, both refer to the same person. | "That" is Consciousness characterized by remoteness while "Thou" is Consciousness characterized by immediacy. Yet, both refer to the same thing.|
+| विशेषण विशेष्य भाव |  "This" and "that" are about present and past implying a contradiction and yet, they qualify each other. | Similarly, "That" and "Thou" are contradictory and yet qualify each other. |
+| लक्ष्य लक्षण भाव | "This" and "That" by elimination of contraction positions of past and present, stand in relation of implier and implied with Devadutta who is common to both. | "That" and "Thou" by elimination of remoteness and immediacy etc. stand in relation of implier and implied with Consciousness which is common to both. | 
+
+3 kinds of लक्ष्य लक्षण भाव:
+
+* _Jahallakshana_ where the direct meaning is discarded in favor of the implied meaning. e.g.:  गङ्गायां घोषः, i.e. "The village of the cowherds is in the Ganga". Here the direct meaning "in the Ganga" is discarded in favor of "on the Ganga".
+
+* _Ajahallakshana_ where the direct meaning is not fully discarded but hints at the real meaning. शोणः धावति, i.e., the "red color is running". We get the meaning as a red colored horse is running.
+
+* _Jahadajahakkshana_ where one part of the direct meaning of a sentence is given up and another part is retained. e.g. In the sentence "This is that Devadutta", the associations regarding time and place is discarded but the person called Devadutta is accepted. Similarly in तत्त्वमसि, the contradictory factors of remoteness and immediacy, omniscience and partial knowledge associated with "That" and "Thou" are discarded and Pure Consciousness which is common in both is accepted.
+
+#### चित्तवृत्ति / फलवृत्ति 
+
+चित्तवृत्ति (Chitta Vrutti) is the focussing of the mind. It is like using a torch to shine light on a specific object in a dark room.
+
+फलवृत्ति (Phalavutti) is the understanding / perception or recognition of an object in the mind.
+
+In the spiritual journey, we need चित्तवृत्ति. For example, moonlight is reflected sunlight. At night, it helps illuminate and we "see". During the solar eclipse, the moon reflects back the sun light. We don't really need this light - the sun is self illumined. So, we need to focus our mind but, not necessarily aim for "recognition" of Brahman as there is no "knowledge of Brahman" as Brahman is all knowledge. 
+
+## Steps to Self-Realization
+
