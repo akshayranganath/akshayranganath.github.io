@@ -312,3 +312,40 @@ In the spiritual journey, we need चित्तवृत्ति. For example
 
 ## Steps to Self-Realization
 
+In the 10th man story (दशमस्त्वामसि), 
+
+* The 10th man was always present. This is the _direct knowledge_. However, the person wasn't "aware" of it.
+* Somebody came and pointed out and the person realized, "Oh! I am the 10th man" This is the _indirect knowledge_.
+
+4 fold path to self-realization: 
+
+श्रवण > मनन > निधिद्यासन leading to निर्विकल्प समाधि 
+
+* श्रवण (shravaNa) means reading, hearing and actually understanding
+* मनन (manana) / reasoning means fitting things, understanding and "getting it"
+* निधिद्यासन (nidhidhyaasana) staying with the thought of _Brahman_, ie _Vedic meditation_.
+
+Algorithm to judge good work - qualities of a good article, essay or any good written work the beginning, the conclusion, repetition, originality, result, eulogy and demonstration.
+
+Example of "good" work is _Chandogya Upanishad_.
+
+## The Steps to Self-Realization
+
+8 fold path to निर्विकल्प समाधि (Nirvikalpa Samadhi):
+
+* यम (Yama) consists of non-injury, truthfulness, non-stealing, continence and non-acceptance of gifts.
+* नियम (Niyama) cleanliness, austerity, study including self-study
+* आसन (Aasana)
+* प्राणायाम (Praanayaama) control of vital forces
+* प्रत्याहार withdrawing sense organs from their respective objects
+* धारण (Dhaarana) concentration / fixing of mind on Brahman
+* ध्यान (Dhyaana) / meditation. When mind wanders, gently bring it back to focus.
+* समाधि (Samadhi) Savikalpa samaadhi leading to nirvikalpa samaadhi.
+
+_4 Obstacles to निर्विकल्प समाधि_
+
+* लय /  torpidity: lapsing into sleep
+* विक्षेप / distraction: unable to focus on Brahman
+* कषाय: / attachment: lurking desire for wordly things
+* रसावाद / enjoyment: Tasting the bliss of सविकल्प समाधि and not wanting to progress any further.
+
