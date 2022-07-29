@@ -54,6 +54,7 @@ Source: [https://caniuse.com/?search=gif](https://caniuse.com/?search=gif)
 *P*ortble *N*etwork *G*raphics file was the next format that arrived on the scene. Although PNG natively does not support animation, Mozilla worked on it and added the support through [APNG extension](https://en.wikipedia.org/wiki/Portable_Network_Graphics#Animation). Currently, all major browsers support animated PNGs. IE11 is the only hold up. If you (still) need to support IE11, you have other larger problems than just animated images!
 
 ![APNG Support across browsers](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_1080,e_sharpen/blog/apng_support.png)
+
 Source: [https://caniuse.com/?search=apng](https://caniuse.com/?search=apng)
 
 ### Pros
@@ -88,6 +89,8 @@ Source: [https://caniuse.com/?search=webp](https://caniuse.com/?search=webp)
 *AV*1 *I*mage *F*ile format is the latest format to have hit the market. Launched during 2019, this file format has shown to provide better compression and fidelity at the same file size. Being a relatively newer format, it still has some time before widespread adoption. 
 
 ![AVIF Support](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_1080,e_sharpen/blog/avif_support.png)
+
+Source: [https://caniuse.com/?search=avif](https://caniuse.com/?search=avif)
 
 ### Pros
 
