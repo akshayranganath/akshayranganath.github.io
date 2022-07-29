@@ -104,7 +104,7 @@ Source: [https://caniuse.com/?search=avif](https://caniuse.com/?search=avif)
 
 ## MP4
 
-This is an outlier here. MP4 is actually a video format. However, any animation can be rendered as a video. Video formats offer much higher compression because they can compare individual frames and record just the differences. As a best practice, the best advice is to use a `video` tag with `autoplay`, `muted`  and `loop` turned on. This will provide the same effect as an animated GIF.
+This is an outlier here. MP4 is actually a video format. However, any animation can be rendered as a video. Video formats offer much higher compression because they can compare individual frames and record just the differences. As a best practice, consider using a `video` tag with `autoplay`, `muted`  and `loop` turned on. This will provide the same effect as an animated GIF.
 
 However, a flip side to it is that many email clients do not support `video` tags. So embedding video in such cases may not be feasible.
 
@@ -114,14 +114,12 @@ Now, let's compare the different formats. For all images, I will be applying the
 
 | Format         | Small Image URL                                                                                      | Small Image Size (KB) | Savings | Large Image URL                                                                               | Large Image (KB) | Savings |
 |----------------|------------------------------------------------------------------------------------------------------|-----------------------|---------|-----------------------------------------------------------------------------------------------|------------------|---------|
-| Baseline (GIF) | https://akshayranganath-res.cloudinary.com/image/upload/v1659131715/blog/happy_birthday.gif          | 96.05                 | 0.00    | https://akshayranganath-res.cloudinary.com/image/upload/v1659130929/blog/car-race.gif         | 1040             | 0.00    |
-| GIF            | https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/happy_birthday.gif        | 96.05                 | 0.00    | https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/car-race.gif       | 1040             | 0.00    |
-| APNG           | https://akshayranganath-res.cloudinary.com/image/upload/fl_apng,f_png,q_auto/blog/happy_birthday.gif | 117.1                 | 121.92  | https://akshayranganath-res.cloudinary.com/image/upload/fl_apng,q_auto/blog/car-race.png      | 786.87           | 75.66   |
-| WebP           | https://akshayranganath-res.cloudinary.com/image/upload/q_auto/blog/happy_birthday.webp              | 67.22                 | 69.98   | https://akshayranganath-res.cloudinary.com/image/upload/q_auto/blog/car-race.webp             | 1013.39          | 97.44   |
-| AVIF           | https://akshayranganath-res.cloudinary.com/image/upload/q_auto/blog/happy_birthday.avif              | 32.14                 | 33.46   | https://akshayranganath-res.cloudinary.com/image/upload/q_auto/blog/car-race.avif             | 47.31            | 4.55    |
-| MP4            | https://akshayranganath-res.cloudinary.com/image/upload/f_auto:video,q_auto/blog/happy_birthday.gif  | 32.1                  | 33.42   | https://akshayranganath-res.cloudinary.com/image/upload/f_auto:video,q_auto/blog/car-race.gif | 15.8             | 1.52    |
-
-
+| Baseline (GIF) | [HP-GIF-baseline](https://akshayranganath-res.cloudinary.com/image/upload/v1659131715/blog/happy_birthday.gif)          | 96.05                 | 0.00    | [Race-GIF-baseline](https://akshayranganath-res.cloudinary.com/image/upload/v1659130929/blog/car-race.gif)         | 1040             | 0.00    |
+| GIF            | [HP-GIF](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/happy_birthday.gif)        | 96.05                 | 0.00    | [Race-GIF](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/car-race.gif)       | 1040             | 0.00    |
+| APNG           | [HP-PNG](https://akshayranganath-res.cloudinary.com/image/upload/fl_apng,f_png,q_auto/blog/happy_birthday.gif) | 117.1                 | 121.92  | [Race-PNG]https://akshayranganath-res.cloudinary.com/image/upload/fl_apng,q_auto/blog/car-race.png)      | 786.87           | 75.66   |
+| WebP           | [HP-WebP](https://akshayranganath-res.cloudinary.com/image/upload/q_auto/blog/happy_birthday.webp)              | 67.22                 | 69.98   | [Race-WebP](https://akshayranganath-res.cloudinary.com/image/upload/q_auto/blog/car-race.webp)             | 1013.39          | 97.44   |
+| AVIF           | [HP-AVIF](https://akshayranganath-res.cloudinary.com/image/upload/q_auto/blog/happy_birthday.avif)              | 32.14                 | 33.46   | [Race-AVIF](https://akshayranganath-res.cloudinary.com/image/upload/q_auto/blog/car-race.avif)             | 47.31            | 4.55    |
+| MP4            | [HP-MP4](https://akshayranganath-res.cloudinary.com/image/upload/f_auto:video,q_auto/blog/happy_birthday.gif)  | 32.1                  | 33.42   | [Race-MP4](https://akshayranganath-res.cloudinary.com/image/upload/f_auto:video,q_auto/blog/car-race.gif) | 15.8             | 1.52    |
 
 A few observations:
 
