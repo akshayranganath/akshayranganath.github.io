@@ -9,7 +9,7 @@ tags: coding, webperf
 
 For a long long time, GIF has been the _de-facto_ format for rendering animated images. However, did you know that most other image formats too support animation? I asked this exact same question on LinkedIn and here were the results.
 
-![LinkedIn Survey results](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_650/blog/survey-result.png)
+![LinkedIn Survey results](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_1080/blog/survey-result.png)
 
 The reality is that animated images are supported by all of the following:
 
@@ -35,7 +35,7 @@ This image is 1.04 MB for 800x600 size. I picked this up from [here](https://cdn
 
 GIF stands for *G*raphical *I*nterchange *F*ormat. This is the grand-daddy of web images. For a long time, it was the _only_ format that supported multiple frames and thus animated images.
 
-![GIF Support](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_650,e_sharpen/blog/gif-support.png)
+![GIF Support](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_1080,e_sharpen/blog/gif-support.png)
 
 Source: [https://caniuse.com/?search=gif](https://caniuse.com/?search=gif)
 
@@ -53,7 +53,7 @@ Source: [https://caniuse.com/?search=gif](https://caniuse.com/?search=gif)
 
 *P*ortble *N*etwork *G*raphics file was the next format that arrived on the scene. Although PNG natively does not support animation, Mozilla worked on it and added the support through [APNG extension](https://en.wikipedia.org/wiki/Portable_Network_Graphics#Animation). Currently, all major browsers support animated PNGs. IE11 is the only hold up. If you (still) need to support IE11, you have other larger problems than just animated images!
 
-![APNG Support across browsers](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_650,e_sharpen/blog/apng_support.png)
+![APNG Support across browsers](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_1080,e_sharpen/blog/apng_support.png)
 Source: [https://caniuse.com/?search=apng](https://caniuse.com/?search=apng)
 
 ### Pros
@@ -69,7 +69,7 @@ Source: [https://caniuse.com/?search=apng](https://caniuse.com/?search=apng)
 
 WebP is an image format that was released by Google. After Safari adopted it, this format now has wide support across browsers. WebP can support both lossy and lossless animated image creation. According to [claims by Google](https://en.wikipedia.org/wiki/WebP#Animation), this format can offer 64-19% reduction in size.
 
-![WebP Support](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_650,e_sharpen/blog/webp_support.png)
+![WebP Support](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_1080,e_sharpen/blog/webp_support.png)
 
 Source: [https://caniuse.com/?search=webp](https://caniuse.com/?search=webp)
 
@@ -87,7 +87,7 @@ Source: [https://caniuse.com/?search=webp](https://caniuse.com/?search=webp)
 
 *AV*1 *I*mage *F*ile format is the latest format to have hit the market. Launched during 2019, this file format has shown to provide better compression and fidelity at the same file size. Being a relatively newer format, it still has some time before widespread adoption. 
 
-![AVIF Support](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_650,e_sharpen/blog/avif_support.png)
+![AVIF Support](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_1080,e_sharpen/blog/avif_support.png)
 
 ### Pros
 
