@@ -3,7 +3,7 @@ layout: post
 title: Comparing Animated Image Formats
 comment: true
 description: GIF is not the only image type that allows animations. WebP, AVIF and even PNG supports it - and could even be less heavier for your website. Learn more about the use of these formats.
-image: https://akshayranganath-res.cloudinary.com/image/upload/f_webp,q_auto:low,w_350/blog/happy_birthday.gif
+image: https://akshayranganath-res.cloudinary.com/image/upload/f_jpg,q_auto:low,w_350/blog/happy_birthday.gif
 tags: coding, webperf
 ---
 
