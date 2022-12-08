@@ -104,4 +104,50 @@ _Created by StableDiffusion with the prompt "Artificial Intelligence looking lik
 
 ### AMZ302: How Amazon uses better metrics for improved website performance
 
+This was a second session by [Jim Roskind](https://en.wikipedia.org/wiki/Jim_Roskind) that I attended at re:Invent. This was focused on performance testing. Although the focus was measuring and improving latency, I think the lessons hold true for most of the other perf metrics that we cover.
+
+
+#### Why current measurements are broken?
+
+According to Jim, in the current model, people tend to use different percentiles for measuring performance. The expectation is the the performance distribution is something like this.
+
+![ideal performance distribution](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/reinvent2022/tuxbqyv0npv0dashcfwt.png)
+[Source](https://verdazo.com/wp-content/uploads/2011/07/lognormal-distributions.png)
+
+However, when everybody knows that the metrics being tracked are p50, p90 and p95, the distribution in one organization became something like this.
+
+>When a measure becomes a target, it ceases to be a good measure. - [Goodheart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law)
+
+![](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/reinvent2022/jddyalbzpjk96nvkhyjk.jpg)
+
+So from a measurement perspective, nothing had changed. However, for real users, the performance had degraded. Jim called such measurements as _fenceposts_. Imagine each percentile is like a fence. Between 2 measures is a lot of free land where sheep can graze. In an ideal world, the fence are supposed to graze all over the free space between the fence. However, when this kind of measurement is used, it is similar to the sheep collecting together near the fence. So this presents 2 kinds of major issues:
+
+* no initiative to fix if within target..
+* no difference in how bad “bad” is ..
+
+#### Jim's Solution - Trimmed Mean
+
+The suggestion from Jim and team was that we should start to consider the [Trimmed Mean](https://en.wikipedia.org/wiki/Truncated_mean) as a better metric. 
+
+>A trimmed mean is a method of finding a more realistic average value by getting rid of certain erratic observations. Under this method, a percentage of highest and lowest values are cut out from both the extremes before calculating the mean. This pre-calculation elimination results in a more reliable mean value. [Source](https://www.wallstreetmojo.com/trimmed-mean/)
+
+Here's a simple calculation from the _WallStreetMojo_ site:
+
+![](https://cdn.wallstreetmojo.com/wp-content/uploads/2021/09/Trimmed-Mean.jpg.webp)
+
+In the past, mean (i.e. average) was considered a bad metric because the outliers could have extremely high impact. By using trimmed mean, we discard these outliers and then count everything to find out an _average_ number. The advantages are:
+
+* it is a single number.
+* once the percentile to be discarded is fixed, this metric will include all measurements.
+* is is impacted by each measure and will not blind to "fencing" effect described earlier.
+
+By adopting a trimmed mean 90 (tm90) metric, Amazon was able to improve its webpage latencies.
+
+![](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/reinvent2022/dirdybgvunov6x47oxzf.jpg)
+
+After Jim's talk, other AWS architects presented the Cloudwatch metrics and showed the ways to generate this metric from the data. They also informed us that Cloudwatch RUM is a solution and that can be used for real user monitoring.
+
 ### AIM342 Advancing Responsible AI: Bias Assessment and Transparency
+
+ Peter Hallinan Sr Manager AI and Dr. Alicia Sagae Research Scientist, AI
+
