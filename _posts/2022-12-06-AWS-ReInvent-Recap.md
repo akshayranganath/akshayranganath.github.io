@@ -56,6 +56,10 @@ TeamWork
 * In most cases, biases don’t come from the scientist but from data.
 * Explainable AI (xAI) - ability to explain the underlying AI rules.
 
+Here are the broad points that she was trying to make during her talk.
+
+![](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/reinvent2022/qkkby3t6mhjrcktcfawd.jpg)
+
 ### NET401: Deliver great experiences with QUIC on Amazon CloudFront
 
 Presented by [Jim Roskind](https://en.wikipedia.org/wiki/Jim_Roskind), this was an incredible journey on the evolution and thought process that went into the creation of [IETF QUIC](https://quicwg.org/) protocol that has ultimately become the [HTTP/3](https://www.ietf.org/archive/id/draft-ietf-quic-http-34.html) protocol. Here are some slides that I noted down.
@@ -76,7 +80,27 @@ Further reading: At the end of the session, Jim asked us to read a short descrip
 
 ### SUS201: Detecting deforestation with geospatial images and Amazon SageMaker
 
+This was a very interesting session related to identifying large change based on satellite images. The use case was to use the satellite image before and after a large California fire and see the impact. Unfortunately, I had a customer issue and had to walk out.
+
 ### CMP314: How Stable Diffusion was built: Tips and tricks to train large models
+
+This was a join session between [Stability.ai](https://stability.ai/) and AWS. Stability is famous for their [Stable Diffusion](https://stablediffusionweb.com/). One of the main speakers was _Emad Mostaque_, the CEO of Stability.ai. He made some very interesting observations on the development of AI.
+
+* The whole world of large models and training was kick-started based on a paper titled [Attention Is All You Need](https://arxiv.org/abs/1706.03762). 
+* Going forward, there are going to be a handful of companies that will create foundational models. This model is trained on images, videos, text, etc.
+* There will be a few hundreds of companies that will build on top of the general model and train (ie fine tune) it for generic tasks on one type of data. For example, StableDiffusion for images, ChatGPT for text and so on.
+* There will be thousands of companies that will use this domain specific model and train it for very specific task. For example, a car dealership company may train their model to detect dents and damages based on the images of a car.
+
+The second half of the talk was very deep architecture discussion on how StableDiffusion managed to create Super Computer like raw power using [AWS Parallel Cluster](https://aws.amazon.com/hpc/parallelcluster/).
+
+Some of the fun launch information were:
+
+* Stable diffusion now does hands :-) 
+* Photorealism is now almost here. By next year, we should have the generative AI build the capability for photographer like quality.
+
+_Created by StableDiffusion with the prompt "Artificial Intelligence looking like a divine being'_:
+
+![](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/reinvent2022/ue7cuq1njso4jq3hydji.jpg)
 
 ### AMZ302: How Amazon uses better metrics for improved website performance
 
