@@ -151,3 +151,32 @@ After Jim's talk, other AWS architects presented the Cloudwatch metrics and show
 
  Peter Hallinan Sr Manager AI and Dr. Alicia Sagae Research Scientist, AI
 
+This workshop was aimed at helping generate a discussion around the potential for bias in AI and the mechanism to bubble it up and communicate it. In traditional software development, we always try our best to articulate the requirements, assumptions and scope. In AI projects, this has not necessarily been done. One of the take-aways was to figure out a way to create a process to explain and communicate the assumptions.
+
+The starting point was a walk through on the concepts of _equality_ and _equity_.
+
+![](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/reinvent2022/ro8w70totynw24et581s.jpg)
+
+The hands-on workshop aimed to help us identify if there are any _unwanted bias_ in our AI system. 
+
+![](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/reinvent2022/dpflte9albamtf83bpzk.jpg)
+
+During the workshop, we used a simple [Python notebook](https://github.com/aws-samples/reinvent2022-advancing-responsible-ai). Using the modified MNIST number recognition program we did the following:
+
+* Calculate the confusion metrics for number recognition. We thought it was pretty good since accuracy was over 80%.
+* When we broke it down, we realized the accuracy for specific numbers was much lower (~50%).
+* We had discussion at this point on what it would mean in real world. Suppose number recognition is go/no-go on mortgages. One group would be disproportionately be rejected.
+* The next step was to identify the number of samples and identify if there were patterns. The numbers that had a lower accuracy had lower training samples. We then discussed if additional training samples would improve the accuracy.
+* We then explored adding an additional dimension of color and then running the accuracy comparison based on multiple parameters like the type of digit (curved, linear) and color (orange, red).
+
+We closed it out with a few pointers on taking this discussion outside of the session.
+
+![](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/reinvent2022/wfgow4e1tcoms8uv8tmz.jpg)
+
+![](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/reinvent2022/mdrdferli8nkiwoqaekp.jpg)
+
+The AWS team finally closed the session by introducing their latest offerings that helps in specifying the AI model, its data, potential bias so that the consumers are aware of it and can build the necessary work-arounds.
+
+![](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/reinvent2022/gzdixxscf0juq33z16nf.jpg)
+
+Apart from these session, I attended a session on [_Working Backwards_](https://aws.amazon.com/blogs/opensource/working-backwards-the-story-behind-the-aws-cloud-development-kit/). The resources on Amazon website are a much better resource and I'll not be able to do any justice to it! So please refer to them for details!
