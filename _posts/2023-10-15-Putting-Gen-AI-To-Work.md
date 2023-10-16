@@ -2,7 +2,7 @@
 layout: post
 title: Putting Generative AI to Work - Conference
 comment: true
-description: Notes virtual conference Putting Generative AI to Work held by the Pack publications.
+description: Notes from the virtual conference Putting Generative AI to Work held by the Pack publications.
 image: https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/gen-ai-hero-image-2.jpg
 tags: ai-ml, gen-ai
 ---
