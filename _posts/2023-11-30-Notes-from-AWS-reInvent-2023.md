@@ -3,21 +3,19 @@ layout: post
 title: AWS re:Invent 2023 
 comment: true
 description: Everything is GenAI and you should use Amazon Bedrock and Amazon Q.
-image: https://reinvent.awsevents.com/content/dam/reinvent/2022/media/logo/reinvent-white.png
+image: https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_350/blog/reInvent2023/reinvent-logo-2.png
 tags: ai-ml, gen-ai, rag
 ---
 
 AWS re:Invent 2023 could have been called __Gen AI, Amazon Bedrock and Amazon Q__. 
 
-![https://akshayranganath-res.cloudinary.com/image/upload/v1701722283/blog/reInvent2023/reinvent-logo.png](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_350/blog/reInvent2023/reinvent-logo.png)
-
-[Source](https://reinvent.awsevents.com/content/dam/reinvent/2022/media/logo/reinvent-white.png)
+![reinvent logo](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_650/blog/reInvent2023/reinvent-logo-2.png)
 
 ## What stood out?
 
 Amazon was pushing hard the idea that GenAI is transforming all businesses. However, the LLM models themselves are still being developed. So, customers need to use a trusted platform and build tools based on the known end-point offered by various AWS services. LLM Models can be plugged-in and replaced. 
 
-![](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_350/blog/reInvent2023/keynote-1.png)
+![](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_650/blog/reInvent2023/keynote-1.png)
 
 [Amazon Bedrock](https://aws.amazon.com/bedrock/), [Retrieval Augmented Generation (RAG)](https://huggingface.co/docs/transformers/model_doc/rag) and [Amazon Q](https://aws.amazon.com/q/) were the services in most focus throughout the event.
 
