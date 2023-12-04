@@ -35,10 +35,13 @@ If you are familiar with [LangChain](https://www.langchain.com/) or [GPTs](https
 In one of the hands-on sessions, we built a RAG solution using this architecture.
 
 ![rag-deployment](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_650/blog/reInvent2023/full_architecture.jpg)
+[Source: shared as part of workshop]
+
 
 When deployed, the data flow looks like this:
 
 ![](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_650/blog/reInvent2023/Amazon%20Bedrock.jpg)
+[Source: shared as part of workshop]
 
 The team also shared an [example Multi-Modal RAG powered application](https://github.com/aws-samples/aws-genai-llm-chatbot).
 
