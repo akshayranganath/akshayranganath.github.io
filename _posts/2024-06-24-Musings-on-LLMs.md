@@ -11,6 +11,8 @@ tags: ai-ml, gen-ai
 
 AI Foundational models are getting to be a commodity. More than the models, enterprises will adopt models supported by their Cloud Provider. When working in AWS ecosystem, it is easier to use models supported by Bedrock like LLama, Claude or Mistral. Changing models is switching a single configuration parameter. SaaS companies may switch models based on customer tier, model availability and costs rather than the best available foundational model.
 
+![hero image](https://akshayranganath-res.cloudinary.com/image/upload/w_1080,h_480,f_auto,q_auto,dpr_1.5,c_pad,b_auto/blog/llm-use-cases.png)
+
 ## Background
 
 I've been using LLMs for various use cases and noticed an evolution in the way the usage has changed ever since the magic of ChatGPT 3.5 started to wear off. I wanted to write about it as a recollection of this process for myself and perhaps show others on how this relatively new technology may be accepted and used in large organizations.
