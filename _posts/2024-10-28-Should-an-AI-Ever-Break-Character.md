@@ -9,6 +9,8 @@ tags: ai-ml, gen-ai
 
 A few days back, a teenager died so that he could go to a world where his ChatBot companion existed. This jolted us to a question - what happens when AI companionship is so real that you can't seperate it from reality? The details are in an article about [a mother who sued Google and Character.ai](https://www.theverge.com/2024/10/23/24277962/character-ai-google-wrongful-death-lawsuit) as the cause for her teen son's death. In short, the child became addicted to an AI chat. Over time, he developed an understanding this world was unreal and the world he had created with the chatbot was reality. He wanted to escape from this unreal place. This lead to his death.
 
+![human child interacting with a AI bot](https://akshayranganath-res.cloudinary.com/image/upload/w_1980,h_1024,c_pad,b_auto:predominant/w_1024,h_530,c_scale,f_auto,q_auto/blog/a%20human%20teenage%20looking%20like%20kid%20chatting%20with%20a%20ChatBot.jpg)
+
 I have beem mulling over this for the past few days with a deep sense of sadness. Anyone succuming to this sense of real/unreal confusion is bad. A teen who has not even lived his life is doubly so. However, the issue at hand was the behavior of the chatbot from Character.ai - a company started by 2 ex-Googlers who are now back at Google.
 
 ## Background on the Chatbot
