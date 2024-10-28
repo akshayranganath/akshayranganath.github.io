@@ -57,6 +57,6 @@ In this scenario, would I even work for the company? What happens to my mental s
 
 My argument here is that if I am a developer in the Bay Area with the right skill set, I would rather quit than work on such depressing software. Apart from a lack of motivation, the company may see a large turnover of employees as well. Even if they want to implement the right kind of guardrails, developers may not be available to pick up the work. So this could end up in perpetual backlog - until it becomes a hot topic threatening the very survivability of the company.
 
-##Conclusion
+## Conclusion
 
 This is not a very organized post but rather an expression of the confusion AI poses. It is easy to get carried away by the "wow" factor of Gen-AI tools. However, we need to reserve some time to figure out the dangers and implement guardrails. Failure to do so will cause real harm. We have already seen it. Hope we wake up soon and start to consider the problem of codifying morality with more urgency than now.
