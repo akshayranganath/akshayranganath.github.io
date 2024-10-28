@@ -60,3 +60,6 @@ My argument here is that if I am a developer in the Bay Area with the right skil
 ## Conclusion
 
 This is not a very organized post but rather an expression of the confusion AI poses. It is easy to get carried away by the "wow" factor of Gen-AI tools. However, we need to reserve some time to figure out the dangers and implement guardrails. Failure to do so will cause real harm. We have already seen it. Hope we wake up soon and start to consider the problem of codifying morality with more urgency than now.
+
+__Edit__
+I just published my post and came across this excellent article by Andrew NG. Definitely related and worth a read:[Move Fast and Be Responsible](https://www.deeplearning.ai/the-batch/how-to-get-user-feedback-to-your-ai-products-fast/).
