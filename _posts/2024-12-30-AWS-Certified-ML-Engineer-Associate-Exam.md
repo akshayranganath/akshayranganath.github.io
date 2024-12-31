@@ -13,7 +13,7 @@ During the last half December 2024, I managed to complete the **[AWS Certified M
 
 I wanted to take this exam for 2 main reasons:
 
-* Pick up new topic: I wanted to prove to myself that I can still do heads-down studies and that I can pick a brand new topic. I don't come from an AI/ML background. I've had exposure to it through my work. However, it was superficial. I wanted to drill in deep and to *see* how the algorithms operated.
+* Pick up a new topic: I wanted to prove to myself that I can still do heads-down studies and that I can pick a brand new topic. I don't come from an AI/ML background. I've had exposure to it through my work. However, it was superficial. I wanted to drill in deep and to *see* how the algorithms operated.
 * Understand actual deployments: In most videos or tutorials, on AI/ML, they teach about running a training and checking a few test inputs. What happens beyond that? How does an organization track, manage the versions, monitor errors and actually deploy a model? All of these things were unclear to me. I wanted to use this certification as a stepping stone to gain the knowledge.
 
 In your case, you may have similar motives. You may want to signal to market that you are capable and probably make a career switch. Whatever it is, gain clarity on the *"why"*. This is what will sustain you through the journey.
