@@ -10,6 +10,7 @@ tags: ai-ml, gen-ai
 Over the past two weeks, the world has been set ablaze by two words - [DeepSeek](https://www.deepseek.com/) and R1. I won't go into the details and comparison of the models. You can find the details [here](https://www.techtarget.com/whatis/feature/DeepSeek-explained-Everything-you-need-to-know) and [here](https://www.geekwire.com/2025/deepseeks-new-model-shows-that-ai-expertise-might-matter-more-than-compute-in-2025/). Instead of rushing breathlessly into the geopolitics or dissecting the Nvidia stock price, I wanted to take a step back and analyze the impact as a user of LLMs. Specifically, I wanted to address the following:
 
 ![DeepSeek logo](https://akshayranganath-res.cloudinary.com/image/upload/w_650,f_auto,q_auto/blog/deepseek-logo.png)
+
 Source: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/DeepSeek_logo.svg/2560px-DeepSeek_logo.svg.png
 
 * Why should organizations and teams pay attention to such developments?
@@ -34,7 +35,7 @@ So let's analyze the current landscape by answering this question.
 
 Depending on your use case, you may not even require the help of an LLM. For example, I had to solve a classification problem for a customer. I needed to identify if an image was a studio shot or an image taken to represent the use of a product. In ecommerce, this is the "studio" or "lifestyle" image. I could have used a vision-based model ranging from ChatGPT to [Llava](https://github.com/haotian-liu/LLaVA). Instead, I used a much simpler ML-based solution called `shop-classifier` available as a [Cloudinary AI Analysis plugin](https://cloudinary.com/documentation/cloudinary_ai_content_analysis_addon).
 
-    Disclaimer: I work for Cloudinary.
+_Disclaimer: I work for Cloudinary._
 
 Let us assume you have a valid use case for _why_ you want to use an LLM. Perhaps you need to summarize complex documents, understand a difficult conversation, or build an agentic workflow using LLM as the orchestrator. The important factor here is that you do your homework to decide that a solution can't be solved without the use of an LLM.
 
