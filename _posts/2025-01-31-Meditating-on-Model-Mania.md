@@ -2,7 +2,7 @@
 layout: post
 title: Meditating on Model Mania
 comment: true
-description: Notes from preparing for the AWS Certified Machine Learning Engineer Associate Exam
+description: In a world buzzing with new AI models every week, let us pause to consider what truly matters when choosing an LLM for your organization.
 image: https://akshayranganath-res.cloudinary.com/image/upload/w_650,f_auto,q_auto/blog/meditating-on-model-mania_wmqj2t
 tags: ai-ml, gen-ai
 ---
