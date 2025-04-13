@@ -62,7 +62,7 @@ Personally, I find this to be a very practical guide to lead a good life. This m
 
 If you feel that this is not reasonable or sounds like high-spirituality, please watch this incredibly approachable video by [FutureIQ](https://www.youtube.com/@TheFutureIQ) titled ["This Bhagvad Gita Lesson Will Change Your Life - Karmanye Vadhikaraste"](https://www.youtube.com/watch?v=95Zi_4OthbY)
 
-References:
+#### References
 
 * Swami Sarvapriyananda's lectures on [Youtube](https://www.youtube.com/watch?v=OuNxXQLt-yI&list=PL2imXor63HtS4ewIKryBL4ZVeiaH8Ij4R)
 * Swami Sarvapriyananda's lectures on [Spotify](https://open.spotify.com/show/5IrDmqXhiGwwyQcIUjRhtB?si=88e686be1fba44d2)
