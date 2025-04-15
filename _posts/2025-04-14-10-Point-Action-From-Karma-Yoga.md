@@ -73,10 +73,10 @@ If you are not familiar with the concept of Nishkaama Karma (निष्का�
 
 **My take**: This is a very deep verse that requires a whole lot of background and explanation. In the philosophies originating from the Indian sub-continent, "desire" is the ultimate cause of suffering. One of the famous sayings from the Buddhist philosophy is the following:
 
->अनित्यम् अनित्यम् अनित्यं सर्वम्|<br>
-क्षणिकं क्षणिकं क्षणिकं  सर्वम्|<br>
-दुक्खं दुक्खं दुक्खं  सर्वम्|<br>
-शून्यं शून्यं शून्यं सर्वम्||
+>अनित्यम् अनित्यम् अनित्यं सर्वम्&#124;<br>
+क्षणिकं क्षणिकं क्षणिकं  सर्वम्&#124;<br>
+दुक्खं दुक्खं दुक्खं  सर्वम्&#124;<br>
+शून्यं शून्यं शून्यं सर्वम्&#124;&#124;
 
 >The English translation of that would be temporary, temporary, everything is temporary, momentary, momentary everything is momentary, empty, empty, everything is empty. 
 
