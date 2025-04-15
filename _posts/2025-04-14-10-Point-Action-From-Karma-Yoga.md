@@ -11,7 +11,7 @@ tags: vendata
 
 This is a follow to my post [Phsychological Foundation Model from Vedanta](https://akshayranganath.github.io/Pshychological-Foundation-Model-From-Vedanta/). In a lecture from the 2nd Chapter of Bhagavad Gita, [Swami Sarvapriyananda](https://www.vedantany.org/resident-minister) offers a very practical and simple summary of the **Karma Yoga (कर्म योग)**. The entire summary is based on an extremely famous verse from the Gita.
 
->कर्मण्येवाधिकारस्ते मा फलेषु कदाचन | <br />मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि || 2.47 ||
+>कर्मण्येवाधिकारस्ते मा फलेषु कदाचन &#124; <br />मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि &#124;&#124; 2.47 &#124;&#124;
 
 >You have a right to perform your prescribed duties, but you are not entitled to the fruits of your actions. Never consider yourself to be the cause of the results of your activities, nor be attached to inaction.
 
