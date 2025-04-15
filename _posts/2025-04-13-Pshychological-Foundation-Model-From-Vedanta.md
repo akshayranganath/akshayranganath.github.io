@@ -6,6 +6,7 @@ description: A simple 3x3 framework to address psychological issues that crops u
 image: https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_350/blog/karma-yoga-self-improvement.png
 tags: vendata
 ---
+
 ## Background
 
 I have been listenting to a podcast series about the Bhagavad Gita. It is a lecture series by [Swami Sarvapriyananda](https://www.vedantany.org/resident-minister), the head of the [New York Vedanta Society](https://www.vedantany.org/). 
