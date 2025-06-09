@@ -6,7 +6,7 @@ description: I experimented the use of ChatGPT to research and create an article
 image: https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_350/blog/mcp-introduction.png
 tags: vendata
 ---
-# And why your API, CDN, and security strategies need to catch up—fast.
+## And why your API, CDN, and security strategies need to catch up—fast.
 
 I am experimenting this blog post in the style of Axios article. Hope you'll like it and do let me know your feedback!
 
