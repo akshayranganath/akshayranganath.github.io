@@ -4,7 +4,7 @@ title: AI's New Language - How MCPs will Reshape Tech 🤖
 comment: true
 description: AI's new language is MCP. Leverage CDNs for profit and secure the new, larger attack surface. 
 image: https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_350/blog/mcp-introduction.png
-tags: vendata
+tags: ai-ml, gen-ai, mcp
 ---
 ## And why your API, CDN, and security strategies need to catch up—fast.
 
