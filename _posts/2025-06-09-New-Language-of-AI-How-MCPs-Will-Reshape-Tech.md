@@ -2,7 +2,7 @@
 layout: post
 title: AI's New Language - How MCPs will Reshape Tech 🤖
 comment: true
-description: I experimented the use of ChatGPT to research and create an article about a very complex topic - the Hard Problme of Consciousness.
+description: AI's new language is MCP. Leverage CDNs for profit and secure the new, larger attack surface. 
 image: https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_350/blog/mcp-introduction.png
 tags: vendata
 ---
