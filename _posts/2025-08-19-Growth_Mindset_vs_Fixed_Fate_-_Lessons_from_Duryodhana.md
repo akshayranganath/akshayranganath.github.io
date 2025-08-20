@@ -98,3 +98,5 @@ It is important to clarify that this is faith and not _blind faith_. Translated 
 ## Closing Thoughts
 
 If you notice the _Gita_, Lord Krishna does not begin his teaching until Arjuna declares his readiness. Only after this verse do the real philosophical teachings begin. To me, this was a fascinating discovery. The concept of mindset is so vividly illustrated on the grandest scale possible in the greatest spiritual work of _Sanatana Dharma_.
+
+>__Moral__: Show respect to the position of a _guru_ (teacher), have _shraddha_ (faith) in the subject matter to master anything. Having achieved it, you can then respectfully challenge show your way of thinking.
