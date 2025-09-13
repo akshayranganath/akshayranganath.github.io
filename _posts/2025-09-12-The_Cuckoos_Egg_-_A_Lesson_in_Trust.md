@@ -7,7 +7,9 @@ image: https://akshayranganath-res.cloudinary.com/image/upload/w_350,f_auto,q_au
 tags: book, hacking, politics
 ---
 
-Based on a LinkedIn post by my friend [Shanthanu](https://www.linkedin.com/in/shanshah/), I read the book "The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage" by Cliff Stoll. It is a fascinating story about how a lone astrophysicist at UC Berkeley was able to track and identify a hacker.
+Based on a LinkedIn post by my friend [Shanthanu](https://www.linkedin.com/in/shanshah/), I read the book ["The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage"](https://www.amazon.com/Cuckoos-Egg-Tracking-Computer-Espionage/dp/0385249462/ref=sr_1_2?crid=3JJTUKVC71CLF) by Cliff Stoll. It is a fascinating story about how a lone astrophysicist at UC Berkeley was able to track and identify a hacker.
+
+![book cover](https://m.media-amazon.com/images/I/61UhUxszYPL._SY522_.jpg)
 
 The story is incredible for the sheer dedication and grit shown by Cliff. It is also filled with insights into how systems worked in the early era of the Internet.
 
