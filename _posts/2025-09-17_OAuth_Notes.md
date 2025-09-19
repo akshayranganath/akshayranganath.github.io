@@ -9,7 +9,7 @@ tags: notes
 # OAuth 2.0
 I was learning about OAuth and took some notes based on this excellent video:
 
-[![Watch the video](https://img.youtube.com/vi/996OiexHze0/0.jpg)](https://www.youtube.com/watch?v=996OiexHze0)
+[Watch the video](https://www.youtube.com/watch?v=996OiexHze0)
 
 
 ### Delegated Authentication
