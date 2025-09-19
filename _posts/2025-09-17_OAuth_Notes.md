@@ -3,6 +3,7 @@ layout: post
 title: 🪪 OAuth Notes
 comment: true
 description: Notes based on a YouTube video about OAuth
+image: https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/oauth2-authentication.png
 tags: notes
 ---
 
