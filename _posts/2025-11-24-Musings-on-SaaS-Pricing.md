@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How will work change with LLMs?
+title: The Dichotomy of Cost -  Balancing Fixed SaaS Revenue with Unpredictable AI Expense
 comment: true
 description: As AI agents make costs unpredictable, SaaS companies must evolve from simple subscriptions to intelligent model routing.
 image: https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_350/blog/blog-llm-arbitrage.png
