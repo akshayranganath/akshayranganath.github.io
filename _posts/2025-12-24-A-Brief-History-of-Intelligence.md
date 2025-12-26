@@ -13,6 +13,9 @@ Do you remember the movie "The Matrix" where Neo is offered the choice to take t
 
 **This article explores a fascinating convergence: modern neuroscience and ancient Advaita Vedanta philosophy both point to the same startling conclusion—that reality as we experience it is subjective, constructed by our minds rather than objectively "out there."** What's remarkable is how cutting-edge AI research is now providing empirical evidence for what Indian sages declared thousands of years ago.
 
+>[!NOTE]
+>I have included glossary at the end of the article to explain the different terms that span AI and _Vedanta_.
+
 ## A Brief History of Intelligence
 **Evolution, AI and the Five Breakthroughs that made our brain**
 
@@ -127,3 +130,69 @@ If our brains truly operate as generative systems, constantly hallucinating our 
 As AI systems become more sophisticated, we may find ourselves building machines that don't just process information but generate rich internal models of reality, just like us. Will these systems develop their own form of subjective experience? Or will they reveal that what we call "subjective experience" is itself another layer of generation, another helpful illusion?
 
 I am excited to see how research in AI progresses and whether this science continues to converge with ancient wisdom. Perhaps we're on the verge of breakthroughs that will finally bridge the gap between the objective study of neural processes and the subjective nature of experience. The sages gave us the map thousands of years ago—we're only now developing the scientific instruments to verify the terrain.
+
+## Glossary of Terms
+
+### Philosophy & Vedanta
+
+**Advaita Vedanta**  
+A school of Hindu philosophy that teaches non-dualism—the idea that the individual self and ultimate reality are fundamentally one, not separate. "Advaita" means "not two."
+
+**Brahman**  
+In Hindu philosophy, the ultimate, unchanging reality that underlies all existence. It is pure consciousness itself, beyond all qualities and distinctions.
+
+**Guru**  
+A spiritual teacher or guide who helps students understand philosophical and spiritual truths through direct instruction and wisdom.
+
+**Jagrat**  
+The waking state of consciousness, when both body and senses are actively engaged with the external world.
+
+**Jiva**  
+The individual soul or self as experienced in daily life. Advaita teaches that the jiva is ultimately identical to Brahman, though it appears separate due to ignorance.
+
+**Maha Vakya**  
+Literally "great saying"—fundamental declarations found in the Upanishads that express core truths of Vedanta philosophy in concise statements.
+
+**Mandukya Karika**  
+An ancient philosophical commentary on the Mandukya Upanishad, written by Gaudapada. It uses logic and reasoning to explain the nature of consciousness and reality.
+
+**Mithya**  
+A Sanskrit term meaning "dependent reality" or "apparent reality." Something that is mithya cannot be categorized as completely real (like Brahman) or completely unreal (like a unicorn). It appears real but depends on something else for its existence—like a mirage depends on light and sand.
+
+**Sushupti**  
+The deep sleep state, characterized by the absence of dreams and sensory experience, yet a state of rest and peace.
+
+**Svapna**  
+The dream state of consciousness, when the mind creates its own experiential reality without external sensory input.
+
+**Turiya**  
+Literally "the fourth"—the state of pure consciousness that underlies and witnesses the three common states (waking, dreaming, deep sleep). It is consciousness itself, unchanging and ever-present.
+
+**Upanishads**  
+Ancient Sanskrit texts that form the philosophical foundation of Hindu thought. They explore the nature of reality, consciousness, and the self through dialogues between teachers and students.
+
+### Science & Technology
+
+**Classification Problem**  
+In artificial intelligence, the task of categorizing input data into predefined groups. For example, identifying whether an image contains a cat or a dog, or whether an email is spam or legitimate.
+
+**Generation Problem**  
+In AI, the task of creating new content based on learned patterns. Modern AI systems like ChatGPT generate text, while image generators create pictures by learning from examples and producing new variations.
+
+**Hard Problem of Consciousness**  
+A philosophical question posed by philosopher David Chalmers: Why do we have subjective, first-person experiences at all? Why does it "feel like something" to see red or taste chocolate, rather than these processes happening without any inner experience?
+
+**LLM Temperature**  
+A parameter in large language models (AI systems) that controls how random or creative their outputs are. Lower temperature produces more predictable, focused responses; higher temperature produces more varied, creative responses.
+
+**Neural Networks**  
+Computer systems designed to recognize patterns, inspired by how biological brains work. They consist of interconnected nodes (like neurons) that process information in layers, learning from examples to perform tasks like image recognition or language processing.
+
+**Quantum Entanglement**  
+A phenomenon in quantum physics where two particles become correlated in such a way that measuring one instantly affects the other, regardless of the distance between them. This challenges our everyday understanding of how separate objects should behave.
+
+**Stochastic**  
+Randomly determined or probabilistic, rather than fixed and predictable. A stochastic process involves some element of chance, like rolling dice or the random mutations in evolution.
+
+**Uncertainty Principle**  
+A fundamental principle in quantum mechanics stating that certain pairs of properties (like position and momentum) cannot both be measured with perfect precision simultaneously. The more precisely you measure one, the less precisely you can know the other.
