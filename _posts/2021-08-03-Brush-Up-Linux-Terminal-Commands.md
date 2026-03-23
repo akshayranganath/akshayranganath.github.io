@@ -3,13 +3,13 @@ layout: post
 title: Basic Linux Skills
 comment: true
 description: Level up your Linux terminal skills - try out these commands.
-image: https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_250,h_250,c_fill/blog/bash-161382_1280.png
+image: /images/blog/bash-161382_1280.png
 tags: coding
 ---
 
 I was helping someone pick up on basic Linux commands and thought it might be useful for others. Here are a bunch of things you can learn to get started with Linux terminal commands.
 
-![Linux terminal](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_350,h_350,c_fill/blog/bash-161382_1280.png)
+![Linux terminal](/images/blog/bash-161382_1280.3fc4a483.png)
 
 ## Directory commands
 

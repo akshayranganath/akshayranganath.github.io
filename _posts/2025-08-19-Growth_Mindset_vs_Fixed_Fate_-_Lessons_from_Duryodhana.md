@@ -3,7 +3,7 @@ layout: post
 title: 🧠 Growth Mindset vs. Fixed Fate -  Lessons from Duryodhana
 comment: true
 description: What held Duryodhana back wasn’t fate. It was his mindset. Discover how Arjuna's journey reveals the power of growth and change. 
-image: https://akshayranganath-res.cloudinary.com/image/upload/e_upscale/e_improve/f_auto,q_auto,w_650/blog/mindset-duryodhana.jpg
+image: /images/blog/mindset-duryodhana.jpg
 tags: mindset, book, mahabharatha, gita
 ---
 
@@ -15,7 +15,7 @@ Duryodhana's behavior in the Mahabharata is a perfect example of a _fixed_ minds
 
 I was reading the book, **Mindset** by _Carol Dweck_. In this seminal book, Carol talks about the concept of **fixed** vs. **growth** mindset.
 
-![growth mindset](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_350,h_300,c_fill/blog/mindset-book-cover.jpg)
+![growth mindset](/images/blog/mindset-book-cover.jpg)
 
 When reading the differences, I was reminded of a specific quote attributed to Duryodhana from the Mahabharata. Moreover, Arjuna's behavior is clearly in line with a person who has a growth mindset. To me, it was eye-opening how the ancient story resonates so closely with a relatively new psychological finding.
 
@@ -32,7 +32,7 @@ She then defines two types of mindset:
 
 Here is a short comparison between the two kinds of mindset.
 
-![growth vs fixed mindset - infographic](https://akshayranganath-res.cloudinary.com/image/upload/w_650,f_auto,q_auto/blog/mindset-infographic.png)
+![growth vs fixed mindset - infographic](/images/blog/mindset-infographic.png)
 
 If you'd like to dig in a bit more, please watch this [excellent video](https://www.youtube.com/watch?v=hiiEeMN7vbQ) by the author.
 
@@ -44,7 +44,7 @@ Philosophers and thinkers have wondered why Lord Krishna did not try to warn and
 
 ### Duryodhana's Predicament
 
-![duryodhana](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_650/blog/mindset-duryodhana.jpg)
+![duryodhana](/images/blog/mindset-duryodhana.526f8e32.jpg)
 
 Duryodhana is not a stupid person. He is able to strategize, win over allies, and assemble vast armies. So what made him blind to the path that he chose? In a stunning shloka, he clearly articulates the reason for his behavior.
 

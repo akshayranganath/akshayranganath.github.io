@@ -3,13 +3,13 @@ layout: post
 title: Meditating on Model Mania
 comment: true
 description: In a world buzzing with new AI models every week, let us pause to consider what truly matters when choosing an LLM for your organization.
-image: https://akshayranganath-res.cloudinary.com/image/upload/w_650,f_auto,q_auto/blog/meditating-on-model-mania_wmqj2t
+image: /images/blog/meditating-on-model-mania_wmqj2t.bin
 tags: ai-ml, gen-ai
 ---
 
 Over the past two weeks, the world has been set ablaze by two words - [DeepSeek](https://www.deepseek.com/) and R1. I won't go into the details and comparison of the models. You can find the details [here](https://www.techtarget.com/whatis/feature/DeepSeek-explained-Everything-you-need-to-know) and [here](https://www.geekwire.com/2025/deepseeks-new-model-shows-that-ai-expertise-might-matter-more-than-compute-in-2025/). Instead of rushing breathlessly into the geopolitics or dissecting the Nvidia stock price, I wanted to take a step back and analyze the impact as a user of LLMs. Specifically, I wanted to address the following:
 
-![DeepSeek logo](https://akshayranganath-res.cloudinary.com/image/upload/w_650,f_auto,q_auto/blog/deepseek-logo.png)
+![DeepSeek logo](/images/blog/deepseek-logo.png)
 
 Source: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/DeepSeek_logo.svg/2560px-DeepSeek_logo.svg.png
 
@@ -20,13 +20,13 @@ Source: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/DeepSeek_logo.
 
 Take a deep breath, count from 10 to 1, and close your eyes. Meditate. Let the noise of models drop away and see yourself focusing on your task at hand. With this awareness, you can now start to think deeply about all the questions that matter to you - not to Nvidia, not to OpenAI or Microsoft.
 
-![Person meditating](https://akshayranganath-res.cloudinary.com/image/upload/w_650,f_auto,q_auto/blog/meditating-on-model-mania_wmqj2t)
+![Person meditating](/images/blog/meditating-on-model-mania_wmqj2t.bin)
 
 ## Let's Start with Why
 
 Simon Sinek famously said you should always [start with "Why"](https://www.youtube.com/watch?v=u4ZoJKF_VuA). 
 
-![golden circle - start with why](https://akshayranganath-res.cloudinary.com/image/upload/e_trim/e_sharpen,w_650,f_auto,q_auto/blog/start-with-why.png)
+![golden circle - start with why](/images/blog/start-with-why.png)
 
 So let's analyze the current landscape by answering this question.
 
@@ -49,7 +49,7 @@ I have experience with AWS. So let me illustrate. Let's say your organization us
 
 > If your cloud provider does not offer an LLM model, you can't use it. You can gush about the latest model and go wild for personal use. However, turning around your enterprise codebase is like turning a container ship. It is slow and risky. And if your cloud provider does not have it, it is a pain to self-host and manage. 
 
-![container ship](https://akshayranganath-res.cloudinary.com/image/upload/w_650,f_auto,q_auto/blog/container-ship)
+![container ship](/images/blog/container-ship.bin)
 
 If you have decided to use one specific LLM, be sure to convince yourself and your organizational stakeholders of the following:
 
@@ -71,4 +71,4 @@ If you do decide to take the plunge, then make sure you have a clear idea of the
 
 As you can see, there is a lot more to consider when implementing an LLM switch within an organizational context. Testing and playing with a new LLM each day for personal use may be cool and invigorating. But switching LLMs based on news cycles will surely lead to disastrous outcomes. But then who knows... I may be wrong.
 
-![cartoon](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,e_sharpen,w_650,c_limit/blog/technology-change.jpg)
+![cartoon](/images/blog/technology-change.jpg)

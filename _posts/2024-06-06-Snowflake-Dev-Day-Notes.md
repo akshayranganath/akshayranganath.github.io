@@ -3,13 +3,13 @@ layout: post
 title: Snowflake Dev Day Conference 2024
 comment: true
 description: Notes from the Snowflake Developer conference held in San Francisco.
-image: https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/Designer.jpg
+image: /images/blog/Designer.jpg
 tags: ai-ml, gen-ai
 ---
 
 # Snowflake Dev Day - 2024
 
-![hero image ](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/Designer.jpg)
+![hero image ](/images/blog/Designer.jpg)
 
 ## Session 1: Forecasting with Snowflake ML Functions
 

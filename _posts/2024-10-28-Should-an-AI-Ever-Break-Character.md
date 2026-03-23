@@ -3,13 +3,13 @@ layout: post
 title: Should an AI Bot ever break character?
 comment: true
 description: AI Chatbots have been created to provide an immersive experience. What happens when it feels too real and may even lead to users harming themselves? Should the bot break character?
-image: https://akshayranganath-res.cloudinary.com/image/upload/w_1980,h_1024,c_pad,b_auto:predominant/w_1024,h_530,c_scale,f_auto,q_auto/blog/a%20human%20teenage%20looking%20like%20kid%20chatting%20with%20a%20ChatBot.jpg
+image: /images/blog/a%20human%20teenage%20looking%20like%20kid%20chatting%20with%20a%20ChatBot.jpg
 tags: ai-ml, gen-ai
 ---
 
 A few days back, a teenager died so that he could go to a world where his ChatBot companion existed. This jolted us to a question - what happens when AI companionship is so real that you can't seperate it from reality? The details are in an article about [a mother who sued Google and Character.ai](https://www.theverge.com/2024/10/23/24277962/character-ai-google-wrongful-death-lawsuit) as the cause for her teen son's death. In short, the child became addicted to an AI chat. Over time, he developed an understanding this world was unreal and the world he had created with the chatbot was reality. He wanted to escape from this unreal place. This lead to his death.
 
-![human child interacting with a AI bot](https://akshayranganath-res.cloudinary.com/image/upload/w_1980,h_1024,c_pad,b_auto:predominant/w_1024,h_530,c_scale,f_auto,q_auto/blog/a%20human%20teenage%20looking%20like%20kid%20chatting%20with%20a%20ChatBot.jpg)
+![human child interacting with a AI bot](/images/blog/a%20human%20teenage%20looking%20like%20kid%20chatting%20with%20a%20ChatBot.jpg)
 
 I have beem mulling over this for the past few days with a deep sense of sadness. Anyone succuming to this sense of real/unreal confusion is bad. A teen who has not even lived his life is doubly so. However, the issue at hand was the behavior of the chatbot from Character.ai - a company started by 2 ex-Googlers who are now back at Google.
 
@@ -34,7 +34,7 @@ The child was "in love" with a character that he had created on the AI-powered p
 
 If the chatbot had been programmed to detect alarming usage patterns and had been programmed to break its character, perhaps the child would have realized his error in judgment. In this case, when the child expressed ideas of self-harm, the chatbot tried to help him BUT IN THE FORM OF THE CHARACTER. If it had jolted him out of the error and sent warnings to Character.ai admins or to parents, such an issue could have been prevented. For Star Trek fans - this must remind you of the ["Holodeck"](https://en.wikipedia.org/wiki/Holodeck) exprerience.
 
-![star trek - holodeck](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/star-trek-holodeck.jpg)
+![star trek - holodeck](/images/blog/star-trek-holodeck.jpg)
 
 #### Econimic Disincentives
 

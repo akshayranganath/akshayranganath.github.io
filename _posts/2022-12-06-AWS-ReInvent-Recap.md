@@ -3,20 +3,20 @@ layout: post
 title: AWS ReInvent Recap
 comment: true
 description: Notes from sessions at ReInvent 2022.
-image: https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_350,h_350,c_fill/blog/reinvent2022/lfzaxzymqf4dveiltong.png
+image: /images/blog/lfzaxzymqf4dveiltong.0ac8bdeb.png
 tags: webperf, ai-ml
 ---
 
 
 This year, I got a chance to attend the AWS re:Invent conference held in Las Vegas from November 28th to December 1st. It felt great to be back at an "in-person" event. The overall focus appeared to be on AI/ML. The content varied from setting up large, complex and ultra-powerful clusters to non-technical aspects like identifying & communicating bias in AI models. Apart from that, I got a chance to attend sessions on HTTP/3, Web Performance Metrics measurement and learning the _Working Backwards_ principle of Amazon. Here are my notes.
 
-![AWS re:Invent logo](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_1024/blog/reinvent2022/lfzaxzymqf4dveiltong.png)
+![AWS re:Invent logo](/images/blog/lfzaxzymqf4dveiltong.png)
 
 ### BOA318: Build a fitness activity tracker using machine learning
 
 The session was intended to help us understand machine learning. However, I may have been over-optimistic in my selection :-) This session probably required attendees to know a lot about ML and training models. So it kind of went over my head. For those interested, here is the overall architecture used in this session.
 
-![](https://akshayranganath-res.cloudinary.com/image/upload/w_650,f_auto,q_auto,e_sharpen/blog/reinvent2022/wmmqf5tunugprhk7gvr5.jpg)
+![](/images/blog/wmmqf5tunugprhk7gvr5.jpg)
 
 ### Accelerating high performance video transcoding with Amazon EC2
 
@@ -26,7 +26,7 @@ This was a very interesting session. I learnt 2 new things.
 
 In this session, the presenters spoke about a mechanism of achieving ultra low latency streaming. Unlike normal streams, HESP has:
 
-![HESP](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/reinvent2022/fxtmszolkqtvsatq3cre.jpg)
+![HESP](/images/blog/fxtmszolkqtvsatq3cre.jpg)
 
 * HESP uses lower amount of buffering as compared to regular streaming
 * Every resolution in HESP has 2 streams - a supported resolution and a lower version stream to quickly switch if needed. 
@@ -35,13 +35,13 @@ In this session, the presenters spoke about a mechanism of achieving ultra low l
 
 The challenge with HESP is the rapid encoding requirements from ingest to delivery - especially when handling live streams. For this, the presenter proposed the use of Xilinx EC2 instances.
 
-![](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/reinvent2022/ounroeskajgtgltlosyp.jpg)
+![](/images/blog/ounroeskajgtgltlosyp.jpg)
 
 #### LC-VC by V-Nova
 
 The second part of the session was by [V-Nova](). They presented on the topic of [LCVC](https://www.v-nova.com/lcevc-enhanced-video/) enhancement of codecs. They spoke about the ability to convert existing still images and videos into immersive [6 degrees of freedom](https://www.queppelin.com/what-is-six-degree-of-freedom/) experience. Since such experiences are going to be common, there is a need for delivering rich experience as well. However, coding-decoding on device is limited by the headset capabilities. So they proposed that the computing should be _split_ between CDN and device. In fact, they coined a term, _Graphics Delivery Network (GDNs)_ for handing these kind of content.
 
-![](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/reinvent2022/w8dc8pnpwkafkwwepusf.jpg)
+![](/images/blog/w8dc8pnpwkafkwwepusf.jpg)
 
 ### COM304: Detect and resolve biases in artificial intelligence
 
@@ -58,7 +58,7 @@ TeamWork
 
 Here are the broad points that she was trying to make during her talk.
 
-![](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/reinvent2022/qkkby3t6mhjrcktcfawd.jpg)
+![](/images/blog/qkkby3t6mhjrcktcfawd.jpg)
 
 ### NET401: Deliver great experiences with QUIC on Amazon CloudFront
 
@@ -66,15 +66,15 @@ Presented by [Jim Roskind](https://en.wikipedia.org/wiki/Jim_Roskind), this was 
 
 _What is HTTP/3_
 
-![](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/reinvent2022/nhmcpg6ps8dksw8z0gts.jpg)
+![](/images/blog/nhmcpg6ps8dksw8z0gts.jpg)
 
 _How Head of Line Blocking is prevented in QUIC_
 
-![](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/reinvent2022/kmxwltp8f33v3o3b4ft9.jpg)
+![](/images/blog/kmxwltp8f33v3o3b4ft9.jpg)
 
 _How packet loss is handled in QUIC?_
 
-![](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/reinvent2022/gguvfgyuxddfkgqf5kj8.jpg)
+![](/images/blog/gguvfgyuxddfkgqf5kj8.jpg)
 
 Further reading: At the end of the session, Jim asked us to read a short description explaining the protocol. Here's the document that he reference: [MULTIPLEXED STREAM TRANSPORT OVER UDP](https://docs.google.com/document/d/1RNHkx_VvKWyWg6Lr8SZ-saqsQx7rFV-ev2jRFUoVD34/preview#!).
 
@@ -100,7 +100,7 @@ Some of the fun launch information were:
 
 _Created by StableDiffusion with the prompt "Artificial Intelligence looking like a divine being'_:
 
-![](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/reinvent2022/ue7cuq1njso4jq3hydji.jpg)
+![](/images/blog/ue7cuq1njso4jq3hydji.jpg)
 
 ### AMZ302: How Amazon uses better metrics for improved website performance
 
@@ -111,14 +111,14 @@ This was a second session by [Jim Roskind](https://en.wikipedia.org/wiki/Jim_Ros
 
 According to Jim, in the current model, people tend to use different percentiles for measuring performance. The expectation is the the performance distribution is something like this.
 
-![ideal performance distribution](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/reinvent2022/tuxbqyv0npv0dashcfwt.png)
+![ideal performance distribution](/images/blog/tuxbqyv0npv0dashcfwt.png)
 [Source](https://verdazo.com/wp-content/uploads/2011/07/lognormal-distributions.png)
 
 However, when everybody knows that the metrics being tracked are p50, p90 and p95, the distribution in one organization became something like this.
 
 >When a measure becomes a target, it ceases to be a good measure. - [Goodheart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law)
 
-![](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/reinvent2022/jddyalbzpjk96nvkhyjk.jpg)
+![](/images/blog/jddyalbzpjk96nvkhyjk.jpg)
 
 So from a measurement perspective, nothing had changed. However, for real users, the performance had degraded. Jim called such measurements as _fenceposts_. Imagine each percentile is like a fence. Between 2 measures is a lot of free land where sheep can graze. In an ideal world, the fence are supposed to graze all over the free space between the fence. However, when this kind of measurement is used, it is similar to the sheep collecting together near the fence. So this presents 2 kinds of major issues:
 
@@ -143,7 +143,7 @@ In the past, mean (i.e. average) was considered a bad metric because the outlier
 
 By adopting a trimmed mean 90 (tm90) metric, Amazon was able to improve its webpage latencies.
 
-![](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/reinvent2022/dirdybgvunov6x47oxzf.jpg)
+![](/images/blog/dirdybgvunov6x47oxzf.jpg)
 
 After Jim's talk, other AWS architects presented the Cloudwatch metrics and showed the ways to generate this metric from the data. They also informed us that Cloudwatch RUM is a solution and that can be used for real user monitoring.
 
@@ -155,11 +155,11 @@ This workshop was aimed at helping generate a discussion around the potential fo
 
 The starting point was a walk through on the concepts of _equality_ and _equity_.
 
-![](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/reinvent2022/ro8w70totynw24et581s.jpg)
+![](/images/blog/ro8w70totynw24et581s.jpg)
 
 The hands-on workshop aimed to help us identify if there are any _unwanted bias_ in our AI system. 
 
-![](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/reinvent2022/dpflte9albamtf83bpzk.jpg)
+![](/images/blog/dpflte9albamtf83bpzk.jpg)
 
 During the workshop, we used a simple [Python notebook](https://github.com/aws-samples/reinvent2022-advancing-responsible-ai). Using the modified MNIST number recognition program we did the following:
 
@@ -171,12 +171,12 @@ During the workshop, we used a simple [Python notebook](https://github.com/aws-s
 
 We closed it out with a few pointers on taking this discussion outside of the session.
 
-![](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/reinvent2022/wfgow4e1tcoms8uv8tmz.jpg)
+![](/images/blog/wfgow4e1tcoms8uv8tmz.jpg)
 
-![](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/reinvent2022/mdrdferli8nkiwoqaekp.jpg)
+![](/images/blog/mdrdferli8nkiwoqaekp.jpg)
 
 The AWS team finally closed the session by introducing their latest offerings that helps in specifying the AI model, its data, potential bias so that the consumers are aware of it and can build the necessary work-arounds.
 
-![](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/reinvent2022/gzdixxscf0juq33z16nf.jpg)
+![](/images/blog/gzdixxscf0juq33z16nf.jpg)
 
 Apart from these session, I attended a session on [_Working Backwards_](https://aws.amazon.com/blogs/opensource/working-backwards-the-story-behind-the-aws-cloud-development-kit/). The resources on Amazon website are a much better resource and I'll not be able to do any justice to it! So please refer to them for details!

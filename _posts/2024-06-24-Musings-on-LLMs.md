@@ -3,7 +3,7 @@ layout: post
 title: How will work change with LLMs?
 comment: true
 description: LLMs have been around for over a year now. Media is frothy about the latest and most performant model. However, that is just half the story. My take on how they will LLMs actually used.
-image: https://akshayranganath-res.cloudinary.com/image/upload/w_1080,h_480,f_auto,q_auto,dpr_1.5,c_pad,b_auto/blog/llm-use-cases.png
+image: /images/blog/llm-use-cases.png
 tags: ai-ml, gen-ai
 ---
 
@@ -11,7 +11,7 @@ tags: ai-ml, gen-ai
 
 AI Foundational models are getting to be a commodity. More than the models, enterprises will adopt models supported by their Cloud Provider. When working in AWS ecosystem, it is easier to use models supported by Bedrock like LLama, Claude or Mistral. Changing models is switching a single configuration parameter. SaaS companies may switch models based on customer tier, model availability and costs rather than the best available foundational model.
 
-![hero image](https://akshayranganath-res.cloudinary.com/image/upload/w_1080,h_480,f_auto,q_auto,dpr_1.5,c_pad,b_auto/blog/llm-use-cases.png)
+![hero image](/images/blog/llm-use-cases.png)
 
 ## Background
 

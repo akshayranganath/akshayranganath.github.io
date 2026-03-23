@@ -3,13 +3,13 @@ layout: post
 title: Is reality a simulation - A Brief History of Intelligence
 comment: true
 description: Advaita vedanta says that reality is a myth from a specific perspective. In the book, "A Brief History of Intelligence", the author appears to agree. My thoughts.
-image: https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_350/blog/brief%20history%20of%20intelligence%20cover.png
+image: /images/blog/brief%20history%20of%20intelligence%20cover.png
 tags: ai-ml, vedanta, advaita
 ---
 
 Do you remember the movie "The Matrix" where Neo is offered the choice to take the red pill or the blue pill? He has to decide if he wants to know the truth or live in his made-up reality? Well, it looks like we've been living in something similar after all! 
 
-![cover image](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_650/blog/brief%20history%20of%20intelligence%20cover.png)
+![cover image](/images/blog/brief%20history%20of%20intelligence%20cover.a5ca0b83.png)
 
 **This article explores a fascinating convergence: modern neuroscience and ancient Advaita Vedanta philosophy both point to the same startling conclusion—that reality as we experience it is subjective, constructed by our minds rather than objectively "out there."** What's remarkable is how cutting-edge AI research is now providing empirical evidence for what Indian sages declared thousands of years ago.
 
@@ -21,7 +21,7 @@ Do you remember the movie "The Matrix" where Neo is offered the choice to take t
 
 In this [incredible book](https://www.amazon.com/Brief-History-Intelligence-Humans-Breakthroughs/dp/B0BCC76563/ref=sr_1_1), the author Max Bennet explores the working of human brain. However, he approaches it from the point of view of neural networks.
 
-![brief history of intelligence - book cover](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_350,e_unsharp_mask/blog/brief%20history%20of%20intelligence%20book%20cover.jpg)
+![brief history of intelligence - book cover](/images/blog/brief%20history%20of%20intelligence%20book%20cover.jpg)
 
 Until now, we've been trying to decode our brain. Often, we've hit road blocks. However, the world of AI has been rapidly progressing. Bennett's central argument unfolds in two parts:
 
@@ -62,7 +62,7 @@ Based on the formulation of this book, it struck me that the author is basically
 
 Anecdotally speaking, this is simple to understand. In his book, the [Seven Habits of Highly Effective People](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/1982137274/ref=sr_1_1), Stephen Covey introduced this famous puzzle. In the same image, some people see a young woman while others see an old lady. So there are 2 realities that co-exist.
 
-![image - is it old or a young woman](https://akshayranganath-res.cloudinary.com/image/upload/e_unsharp_mask/f_auto,q_auto/blog/old%20or%20young%20woman.gif)
+![image - is it old or a young woman](/images/blog/old%20or%20young%20woman.gif)
 
 
 So we can agree that the same reality may appear _different_ based on how our mind interprets it. Let's look at another aspect - waking vs dreaming.
@@ -125,7 +125,7 @@ This convergence between ancient philosophy and modern neuroscience isn't merely
 
 If our brains truly operate as generative systems, constantly hallucinating our reality through classification and prediction, then the "hard problem of consciousness" i.e., why subjective experience exists at all—may need to be reframed entirely. Perhaps consciousness isn't something that emerges from neural computation, but rather the fundamental substrate upon which all these computations occur. This is precisely what Advaita has always maintained: consciousness (_Brahman_) is not produced by the mind; the mind and all perceived reality arise within consciousness.
 
-![hard problem of consciousness](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_650/blog/hard%20problem%20of%20consciesness.png)
+![hard problem of consciousness](/images/blog/hard%20problem%20of%20consciesness.png)
 
 As AI systems become more sophisticated, we may find ourselves building machines that don't just process information but generate rich internal models of reality, just like us. Will these systems develop their own form of subjective experience? Or will they reveal that what we call "subjective experience" is itself another layer of generation, another helpful illusion?
 

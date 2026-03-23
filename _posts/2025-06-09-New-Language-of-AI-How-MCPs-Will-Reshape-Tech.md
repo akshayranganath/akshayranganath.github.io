@@ -3,14 +3,14 @@ layout: post
 title: AI's New Language - How MCPs will Reshape Tech 🤖
 comment: true
 description: The new language of AI is MCP. Leverage CDNs for profit and secure the new, larger attack surface. 
-image: https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_350/blog/mcp-introduction.png
+image: /images/blog/mcp-introduction.png
 tags: ai-ml, gen-ai, mcp
 ---
 ## And why your API, CDN, and security strategies need to catch up—fast.
 
 I am experimenting this blog post in the style of Axios article. Hope you'll like it and do let me know your feedback!
 
-![mcp at center of ecosystem](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_650/blog/mcp-introduction.png)
+![mcp at center of ecosystem](/images/blog/mcp-introduction.3414730e.png)
 ## 🧠 1 big thing: The AI-native future is being built on a new protocol.
 
 * **Background**: [Model Context Protocol (MCP)](https://www.anthropic.com/news/model-context-protocol) - a new protocol is laying the foundation for how AI models will interact with the digital world.

@@ -3,13 +3,13 @@ layout: post
 title: Humble Pi - When Math Goes Wrong in Real World
 comment: true
 description: Short review of a really interesting and funny book about the primacy of Math and consequences when we forget the mathematical underpinnings.
-image: https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_250,h_250/blog/41KANd0ca3L._SX331_BO1%2C204%2C203%2C200_.jpg
+image: /images/blog/41KANd0ca3L._SX331_BO1%2C204%2C203%2C200_.b7c8b7da.jpg
 tags: math, education
 ---
 
 Recently, I came across the book, *Humble Pi - When Math Goes Wrong in Real World* by *Matt Parker*. I must say that it was both hilarious and eye opening!
 
-![humble pi](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,h_300/blog/41KANd0ca3L._SX331_BO1%2C204%2C203%2C200_.jpg)
+![humble pi](/images/blog/41KANd0ca3L._SX331_BO1%2C204%2C203%2C200_.jpg)
 
 [Source](https://images-na.ssl-images-amazon.com/images/I/41KANd0ca3L._SX331_BO1,204,203,200_.jpg)
 
@@ -26,11 +26,11 @@ Here some interesting ones:
 * A bridge that nearly collapsed due to resonance caused by marching army at [Broughton Suspension Bridge
 ](https://en.wikipedia.org/wiki/Broughton_Suspension_Bridge). Still operational, it has a warning to prevent a similar physical phenomenon to date.
 
-![Broughton suspension bridge](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_350/blog/Broughton-suspension-bridge.jpg)
+![Broughton suspension bridge](/images/blog/Broughton-suspension-bridge.jpg)
 
 [Source](https://upload.wikimedia.org/wikipedia/commons/e/ed/Broughton-suspension-bridge.jpg)
 
-![Broughton suspension warning](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,h_350/blog/Albert_Bridge_notice.jpg)
+![Broughton suspension warning](/images/blog/Albert_Bridge_notice.jpg)
 
 [Source](https://upload.wikimedia.org/wikipedia/commons/e/ec/Albert_Bridge_notice.JPG)
 

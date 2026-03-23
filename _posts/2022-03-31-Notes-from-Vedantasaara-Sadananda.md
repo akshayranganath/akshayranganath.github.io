@@ -4,7 +4,7 @@ layout: post
 title: Notes from Vedanta-sara by Sadananda
 comment: true
 description: Vedanta-sara is an introductory text to Advaita philosophy. I note down the highlights from the book in this article.
-image: https://akshayranganath-res.cloudinary.com/image/upload/h_350,w_350,f_auto,q_auto/blog/51a9XCBoPjL._SX330_BO1%2C204%2C203%2C200_.jpg
+image: /images/blog/51a9XCBoPjL._SX330_BO1%2C204%2C203%2C200_.c7aa42a2.jpg
 tags: संस्क्रुतम्, vedanta
 
 ---
@@ -17,7 +17,7 @@ While researching about it, I came across a [lecture series on _Vedanta-sara_](h
 
 The lectures are based on an introductory book on _Vedanta_. Written by _Sadananda_ in the 15th century, [this book](https://en.wikipedia.org/wiki/Vedantasara_(of_Sadananda) is considered as an introductory text into the philosophy of _Advaita Vedanta_. 
 
-![Vedanta-sara by Sadaananda](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/51a9XCBoPjL._SX330_BO1%2C204%2C203%2C200_.jpg)
+![Vedanta-sara by Sadaananda](/images/blog/51a9XCBoPjL._SX330_BO1%2C204%2C203%2C200_.jpg)
 > Book image from [Amazon](https://images-na.ssl-images-amazon.com/images/I/51a9XCBoPjL._SX330_BO1,204,203,200_.jpg)
 
 In this article, I wanted to note down the main highlights as a reference for myself and for anyone who is pursuing the same. 
@@ -112,7 +112,7 @@ In the traditional sense, ब्रह्मन् (Brahman) + अज्ञा�
 
 ब्रह्मन् (Brahman) is indivisible. माया (Maya) can be divided infinitely. e.g.: Sun reflected in one large lake or infinite drops of water is still ignorance. The only real thing is the sun. (from lecture)
 
-![water reflection](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,c_fill,w_800,h_400/blog/lake-gc6e8e83dc_1920.jpg)
+![water reflection](/images/blog/lake-gc6e8e83dc_1920.jpg)
 
 >The individual ignorance, associated with it (ब्रह्मन्) is also known as the causal body on account of its being the cause of egoism, etc. and as the blissful sheath because it is full of bliss and covers like a sheath;.. knows as dreamless sleep since into it everything is dissolved.. p47
 
@@ -158,7 +158,7 @@ Law of _Vivara_ is different from law of _परिणाम_ (evolution) which 
 
 #### Evolution of 5 elements
 
-![5 elements](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_650,e_sharpen/blog/vedantasara-5-elements.png)
+![5 elements](/images/blog/vedantasara-5-elements.png)
 (para 57)
 
 These are called as सूक्ष्म भूतानि (i.e., pure elements). The same elements when compounded in specific proportions become the स्थूल भूतानि (i.e., gross elements).
@@ -262,7 +262,7 @@ The hardest challenge to Advaita historically has been from the Shoonyavaada.
 
   >As a snake falsely perceived in a rope is ultimately found out to be nothing but the rope: similarly the world of unreal things, beginning with ignorance, superimposed upon he Reality, is realized, at the end, to be nothing but the Brahman.This is known as de-superimpostion (_Apavada_). p101
 
-  ![mirage](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_650/blog/thumbnail-mirage.jpg)
+  ![mirage](/images/blog/thumbnail-mirage.jpg)
 
 In other words, Brahman through illusion appears as the phenomenal world. The breaking up of this illusion - which consists only of name and form - and the consequent discovery of Brahman, which is the underlying reality, is called _apavada_. 
 

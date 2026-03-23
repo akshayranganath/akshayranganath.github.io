@@ -4,13 +4,13 @@ layout: post
 title: Notes from Bhakti School of Vedanta by Tapasyananda
 comment: true
 description: Bhakti Schools of Vedanta is an overview of the alternatives to the Advaita school of Vedanta. It provides a good comprehensive coverage of Vaishnavism through the schools of Ramanujam, Nimbraka, Madhva, Vallabha and Chaitanya.
-image: https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_350,h_350,c_pad/blog/bhakti-school-of-vedanta.jpg
+image: /images/blog/bhakti-school-of-vedanta.jpg
 tags: संस्क्रुतम्, vedanta
 ---
 
 After listening and reading to the introductory _Advaita_ Vednata book, [Vedanta Saara](/Notes-from-Vedantasaara-Sadananda/), I was intrigued to understand the core teachings of the alternative schools. In his talk, _Swami Sarvapriyananda_ had spoken about the book, [Bhakti Schools of Vedanta](https://www.vedanta.com/store/bhakti_schools_of_vedanta.htm). I was fortunate enough to find a copy and some time to read through it. Here are some quick notes from this book.
 
-![Bhakti Schools of Vedanta](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_650,h_650,c_pad/blog/bhakti-school-of-vedanta.jpg)
+![Bhakti Schools of Vedanta](/images/blog/bhakti-school-of-vedanta.f75a4ee1.jpg)
 
 [Source](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.Buq05IwHHZTfJdcY0zEPZAAAAA%26pid%3DApi&f=1)
 
@@ -31,7 +31,7 @@ All the Vaishnava schools accept the nine forms of devotional disciplines mentio
 
 ## Sri Ramanuja Philosophy
 
-![Sri Ramanujaacharya](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_350,h_350,c_pad/blog/ramanuja.jpg)
+![Sri Ramanujaacharya](/images/blog/ramanuja.jpg)
 
 [Source](https://upload.wikimedia.org/wikipedia/commons/9/93/Ramanujacharya.jpg)
 
@@ -58,7 +58,7 @@ In the Semitic religions which uphold the idea of a formless God with human attr
 
 ## Sri Nimbraka
 
-![Nimbraka](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_350,h_350,c_pad/blog/nimbraka.jpg)
+![Nimbraka](/images/blog/nimbraka.jpg)
 
 [Source](https://cdn.britannica.com/11/133411-050-F57DAED3/Nimbarka-Sri-Golok-Dham-Ashram-New-Delhi.jpg)
 
@@ -76,7 +76,7 @@ Though all Jivas are potentcies of Brahman, Nimbraka's system recognizes a kind 
 
 ## Sri Madhavacharya
 
-![Sri Madhavacharya](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_350,h_350,c_pad/blog/madhava.jpg)
+![Sri Madhavacharya](/images/blog/madhava.jpg)
 
 [Source](https://upload.wikimedia.org/wikipedia/commons/b/b3/Jagadguru_Madhvacharya.jpg)
 
@@ -122,7 +122,7 @@ In Madhva's system, scriptures hold value but experience trumps it. Even if scri
 
 ## Sri Vallabha: द्वैताद्वैत (Shuddhatvaita )
 
-![vallabha](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_350,h_350,c_pad/blog/vallabha.jpg)
+![vallabha](/images/blog/vallabha.jpg)
 
 [Source](https://upload.wikimedia.org/wikipedia/commons/0/02/Shri_mahaprabhuji.jpg)
 
@@ -141,7 +141,7 @@ Akshara is Sat-cid-ananda, with the Ananda aspect considerably concealed. he is 
 
 ## Sri Krishna Chaitanya
 
-![Chaitanya](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_350,h_350,c_pad/blog/chaitanya.jpg)
+![Chaitanya](/images/blog/chaitanya.jpg)
 
 [Source](https://www.iskconbangalore.org/blog/wp-content/uploads/2015/02/Chaitanya-Maha-Prabhu.jpg)
 

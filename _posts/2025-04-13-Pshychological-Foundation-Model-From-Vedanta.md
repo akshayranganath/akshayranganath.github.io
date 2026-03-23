@@ -3,7 +3,7 @@ layout: post
 title: Phsychological Foundation Model from Vedanta
 comment: true
 description: A simple 3x3 framework to address psychological issues that crops up in life and a very practical approach to solve it, based on the teachings of Vedanta and Karma Yoga of Bhagavad Gita.
-image: https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_350/blog/karma-yoga-self-improvement.png
+image: /images/blog/karma-yoga-self-improvement.png
 tags: vendata
 ---
 
@@ -13,7 +13,7 @@ I have been listenting to a podcast series about the Bhagavad Gita. It is a lect
 
 In one of the lectures from Chapter 2, the Swami speaks about a very interesting concept. The discussion is a spin-off from a shloka related to the Karma Yoga. In relation to the different spiritual practices, he explains a 3x3 matrix framework. The purpose of this framework is to progress in an individual's spiritual journey. However, I also feel that this can actually be the foundation of a personal psychological foundation for a balanced life. Moreover, I feel that this framework can act as a reference for identifying solutions to different problems that one may encounter in one's life.
 
-![self-improvement](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_650/blog/karma-yoga-self-improvement.png)
+![self-improvement](/images/blog/karma-yoga-self-improvement.43dedb72.png)
 ## Philosophical Framework
 
 The framework is very direct and straigh-forward. 

@@ -3,7 +3,7 @@ layout: post
 title: Experimenting CrewAI to write a report on Advaita
 comment: true
 description: I experimented the use of ChatGPT to research and create an article about a very complex topic - the Hard Problme of Consciousness.
-image: https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_350/blog/hard-problem-of-consciousness.png 
+image: /images/blog/hard-problem-of-consciousness.png
 tags: vendata
 ---
 
@@ -68,7 +68,7 @@ Rest of the article is the report produced by this agent. Please let me know if 
 ## The Hard Problem of Consciousness: A Profound Inquiry and Advaita Vedanta’s Response
 
 ![Split digital painting: left half shows a glowing, violet-blue human brain against a starry cosmos; right half blends into a golden silhouette of a meditating figure radiating luminous rings, with a faint snake-shaped line fading into light at the center.
-](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_650/blog/hard-problem-of-consciousness.png)
+](/images/blog/hard-problem-of-consciousness.d9e48321.png)
 
 
 ### Introduction
