@@ -3,13 +3,13 @@ layout: post
 title: Getting Started with Python and DynamoDB
 comment: true
 description: Quick resource to help you start using DynamoDB programmatically through Python.
-image: https://akshayranganath-res.cloudinary.com/image/upload/w_350,h_350,f_auto,q_auto/blog/pexels-photo-169573.jpg
+image: /images/blog/pexels-photo-169573.jpg
 tags: coding
 ---
 
 Recently, I was working on a problem that needed me to store a few GB of data. This was too much for a CSV file and I was looking at alternatives. Although I had read about [NoSQL](https://en.wikipedia.org/wiki/NoSQL) and [DynamoDB](https://aws.amazon.com/dynamodb/) before, I had never used it. Since I now had a use case, I thought of giving it a try.
 
-![coding](https://akshayranganath-res.cloudinary.com/image/upload/w_600,h_400,f_auto,q_auto,dpr_1.5/blog/pexels-photo-169573.jpg)
+![coding](/images/blog/pexels-photo-169573.feb4bf89.jpg)
 
 While trying to work with DynamoDB and Python, I realized that the typical getting started video or documents focus a lot on the very specific task. For example, they may show you how to create a table using the UI with no explanation on how to create a table. I wanted to take a more holistic approach. I did not discover everything - so I'll be linking to the full article that I referenced while I was building my solution.
 
@@ -35,7 +35,7 @@ I liked the simplicity of the setup. When creating a new database, all you have 
 
 Just like most novices, my learning started with Google search. However, most search lead me to AWS documentation. Although it is very informative, it is very wordy. I wanted to jump straight to the point where I could make a call to retrieve and add new rows to my table. I found a video by [soumilshah1995](https://www.youtube.com/watch?v=Al1xwYhQ-BM) on Youtube that did a great job. He shows the typical create-read-update-delete (CRUD) operations with DynamoDB. He has also helpfully published the code as a [Jupyter notebook](https://github.com/soumilshah1995/Learn-AWS-with-Python-Boto-3/blob/master/Youtube%20DynamoDB.ipynb).
 
-![soumil shah](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_350,h_250,e_unsharp_mask/blog/soumilshah1995.png)
+![soumil shah](/images/blog/soumilshah1995.png)
 
 
 ### Query vs Scan

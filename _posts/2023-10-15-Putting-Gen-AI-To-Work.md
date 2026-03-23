@@ -3,18 +3,18 @@ layout: post
 title: Putting Generative AI to Work - Conference
 comment: true
 description: Notes from the virtual conference Putting Generative AI to Work held by the Pack publications.
-image: https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/gen-ai-hero-image-2.jpg
+image: /images/blog/gen-ai-hero-image-2.jpg
 tags: ai-ml, gen-ai
 ---
 
 Pack Publications ran a 3 day virtual conference on the topic [Put Generative AI to Work](https://www.packtpub.com/conference/put-gen-ai-to-work) from October 11-13. I was fortunate enough to attend the conference. Here are the main learnings / take-aways.
 
-![hero image](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/gen-ai-hero-image-2.jpg)
+![hero image](/images/blog/gen-ai-hero-image-2.jpg)
 [Source: Bing Generate]
 
 Although we can't seem to escape the buzz around Gen AI, Gartner is predicting that we've hit the _peak of inflated expectations_ in the hype cycle. From here on, we are going to see a steep fall followed by a realization that Gen AI is really good at certain tasks and not the best tool for others.
 
-![Gartner Hype Cycle](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/gartner-ai-hype-cycle.png)
+![Gartner Hype Cycle](/images/blog/gartner-ai-hype-cycle.png)
 [Source: [Gartner Hype Cycle](https://emtemp.gcom.cloud/ngw/globalassets/en/articles/images/hype-cycle-for-artificial-intelligence-2023.png)]
 
 ## My Learnings
@@ -30,7 +30,7 @@ In a panel discussion, the industry stalwarts had some sanguine observations.
 * [Dennis Rotham](https://www.linkedin.com/in/denis-rothman-0b034043/) observed that the job of programmers will remain. His quip - can you imagine someone sending a rocket to the moon with Gen AI created code?
 * They also highlighted the fact that AI (not necessarily _Gen AI_) has been around for quite some time. It is present in all things like aircraft management, automobiles, manufacturing and so many industries. These deployments simply did not get so much attention. 
 
-![sorceror gazing into future](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/predicting-future.jpg)
+![sorceror gazing into future](/images/blog/predicting-future.jpg)
 
 Their suggestion were to:
 
@@ -45,7 +45,7 @@ Their suggestion were to:
 
 The next session that I loved was by [Somil Gupta](https://www.linkedin.com/in/somilguptaai/) on the possibilities of eCommerce evolution due to Generative AI. Unlike the gloom-and-doom scenario, this was refreshingly optimistic and covered a lot of ground.
 
-![evolution of ecommerce](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/digitally-assisted-shopper.jpg)
+![evolution of ecommerce](/images/blog/digitally-assisted-shopper.jpg)
 
 * **Understanding Intent**: Current mechanism of search is not optimal. Due to the way the search is designed, there is a wide chasm between our intent and query. For example, we may search _spiderman dress for 5 year old boy_ when our intent is to _plan a birthday party in the theme of Spider Man for a 5 year old boy and 15 of his friends, including party supplies, T-Shirt and return gifts_.
 * **AI Assisted Commerce**: Gen AI technologies can understand our intent better. They can _think through_ the request and suggest steps and thus make the shopping experience less stressful. For example, a user could search for something like this:
@@ -71,7 +71,7 @@ Unlike the typical prompt engineering sessions where someone opens a ChatGPT int
 * Repeat important or critical items.
 * Give the model a way to escape without hallucinating. 
 
-![human architecting prompt](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/human-architecting-prompt.jpg)
+![human architecting prompt](/images/blog/human-architecting-prompt.jpg)
 
 She then walked us through some advanced prompting concepts:
 * Few show approach: Provide a few examples. This can help the model make it more purpose driven

@@ -3,13 +3,13 @@ layout: post
 title: Comparing Animated Image Formats
 comment: true
 description: GIF is not the only image type that allows animations. WebP, AVIF and even PNG supports it - and could even be less heavier for your website. Learn more about the use of these formats.
-image: https://akshayranganath-res.cloudinary.com/image/upload/f_jpg,q_auto:low,w_350/blog/happy_birthday.gif
+image: /images/blog/happy_birthday.ff898a66.gif
 tags: coding, webperf
 ---
 
 For a long long time, GIF has been the _de-facto_ format for rendering animated images. However, did you know that most other image formats too support animation? I asked this exact same question on LinkedIn and here were the results.
 
-![LinkedIn Survey results](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_1080/blog/survey-result.png)
+![LinkedIn Survey results](/images/blog/survey-result.png)
 
 The reality is that animated images are supported by all of the following:
 
@@ -22,11 +22,11 @@ In this short article, I wanted to cover the pros and cons of the various format
 
 For this article, let's consider these 2 Gif images. I have taken these from [Giphy website](https://giphy.com/gifs/happy-birthday-hbd-hb-onPMdPD9wI4rWA6KaT).
 
-![happy birthday original GIF](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/happy_birthday.gif)
+![happy birthday original GIF](/images/blog/happy_birthday.gif)
 
 This image is 96.05 KB for 384x480 resolution image. It is not very large. 
 
-![car race](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/car-race.gif)
+![car race](/images/blog/car-race.gif)
 
 This image is 1.04 MB for 800x600 size. I picked this up from [here](https://cdn.dribbble.com/users/2935848/screenshots/6641649/race-car.gif).
 
@@ -35,7 +35,7 @@ This image is 1.04 MB for 800x600 size. I picked this up from [here](https://cdn
 
 GIF stands for *G*raphical *I*nterchange *F*ormat. This is the grand-daddy of web images. For a long time, it was the _only_ format that supported multiple frames and thus animated images.
 
-![GIF Support](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_1080,e_sharpen/blog/gif-support.png)
+![GIF Support](/images/blog/gif-support.png)
 
 Source: [https://caniuse.com/?search=gif](https://caniuse.com/?search=gif)
 
@@ -53,7 +53,7 @@ Source: [https://caniuse.com/?search=gif](https://caniuse.com/?search=gif)
 
 *P*ortble *N*etwork *G*raphics file was the next format that arrived on the scene. Although PNG natively does not support animation, Mozilla worked on it and added the support through [APNG extension](https://en.wikipedia.org/wiki/Portable_Network_Graphics#Animation). Currently, all major browsers support animated PNGs. IE11 is the only hold up. If you (still) need to support IE11, you have other larger problems than just animated images!
 
-![APNG Support across browsers](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_1080,e_sharpen/blog/apng_support.png)
+![APNG Support across browsers](/images/blog/apng_support.png)
 
 Source: [https://caniuse.com/?search=apng](https://caniuse.com/?search=apng)
 
@@ -70,7 +70,7 @@ Source: [https://caniuse.com/?search=apng](https://caniuse.com/?search=apng)
 
 WebP is an image format that was released by Google. After Safari adopted it, this format now has wide support across browsers. WebP can support both lossy and lossless animated image creation. According to [claims by Google](https://en.wikipedia.org/wiki/WebP#Animation), this format can offer 64-19% reduction in size.
 
-![WebP Support](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_1080,e_sharpen/blog/webp_support.png)
+![WebP Support](/images/blog/webp_support.png)
 
 Source: [https://caniuse.com/?search=webp](https://caniuse.com/?search=webp)
 
@@ -88,7 +88,7 @@ Source: [https://caniuse.com/?search=webp](https://caniuse.com/?search=webp)
 
 *AV*1 *I*mage *F*ile format is the latest format to have hit the market. Launched during 2019, this file format has shown to provide better compression and fidelity at the same file size. Being a relatively newer format, it still has some time before widespread adoption. 
 
-![AVIF Support](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_1080,e_sharpen/blog/avif_support.png)
+![AVIF Support](/images/blog/avif_support.png)
 
 Source: [https://caniuse.com/?search=avif](https://caniuse.com/?search=avif)
 
@@ -114,12 +114,12 @@ Now, let's compare the different formats. For all images, I will be applying the
 
 | Format         | Small Image URL                                                                                      | Small Image Size (KB) | Savings | Large Image URL                                                                               | Large Image (KB) | Savings |
 |----------------|------------------------------------------------------------------------------------------------------|-----------------------|---------|-----------------------------------------------------------------------------------------------|------------------|---------|
-| Baseline (GIF) | [HP-GIF-baseline](https://akshayranganath-res.cloudinary.com/image/upload/v1659131715/blog/happy_birthday.gif)          | 96.05                 | 0.00    | [Race-GIF-baseline](https://akshayranganath-res.cloudinary.com/image/upload/v1659130929/blog/car-race.gif)         | 1040             | 0.00    |
-| GIF            | [HP-GIF](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/happy_birthday.gif)        | 96.05                 | 0.00    | [Race-GIF](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/car-race.gif)       | 1040             | 0.00    |
-| APNG           | [HP-PNG](https://akshayranganath-res.cloudinary.com/image/upload/fl_apng,f_png,q_auto/blog/happy_birthday.gif) | 117.1                 | 121.92  | [Race-PNG](https://akshayranganath-res.cloudinary.com/image/upload/fl_apng,q_auto/blog/car-race.png)      | 786.87           | 75.66   |
-| WebP           | [HP-WebP](https://akshayranganath-res.cloudinary.com/image/upload/q_auto/blog/happy_birthday.webp)              | 67.22                 | 69.98   | [Race-WebP](https://akshayranganath-res.cloudinary.com/image/upload/q_auto/blog/car-race.webp)             | 1013.39          | 97.44   |
-| AVIF           | [HP-AVIF](https://akshayranganath-res.cloudinary.com/image/upload/q_auto/blog/happy_birthday.avif)              | 32.14                 | 33.46   | [Race-AVIF](https://akshayranganath-res.cloudinary.com/image/upload/q_auto/blog/car-race.avif)             | 47.31            | 4.55    |
-| MP4            | [HP-MP4](https://akshayranganath-res.cloudinary.com/image/upload/f_auto:video,q_auto/blog/happy_birthday.gif)  | 32.1                  | 33.42   | [Race-MP4](https://akshayranganath-res.cloudinary.com/image/upload/f_auto:video,q_auto/blog/car-race.gif) | 15.8             | 1.52    |
+| Baseline (GIF) | [HP-GIF-baseline](/images/blog/happy_birthday.c7d47d7c.gif)          | 96.05                 | 0.00    | [Race-GIF-baseline](/images/blog/car-race.dd885756.gif)         | 1040             | 0.00    |
+| GIF            | [HP-GIF](/images/blog/happy_birthday.gif)        | 96.05                 | 0.00    | [Race-GIF](/images/blog/car-race.gif)       | 1040             | 0.00    |
+| APNG           | [HP-PNG](/images/blog/happy_birthday.4d0cacdc.gif) | 117.1                 | 121.92  | [Race-PNG](/images/blog/car-race.png)      | 786.87           | 75.66   |
+| WebP           | [HP-WebP](/images/blog/happy_birthday.webp)              | 67.22                 | 69.98   | [Race-WebP](/images/blog/car-race.webp)             | 1013.39          | 97.44   |
+| AVIF           | [HP-AVIF](/images/blog/happy_birthday.avif)              | 32.14                 | 33.46   | [Race-AVIF](/images/blog/car-race.avif)             | 47.31            | 4.55    |
+| MP4            | [HP-MP4](/images/blog/happy_birthday.8f212b7a.gif)  | 32.1                  | 33.42   | [Race-MP4](/images/blog/car-race.41e3b08f.gif) | 15.8             | 1.52    |
 
 A few observations:
 

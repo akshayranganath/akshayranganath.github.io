@@ -3,7 +3,7 @@ layout: post
 title: 🕵️‍♂️💻 The Cuckoo's Egg - A Lesson In Trust
 comment: true
 description: Cliff Stoll's book is a fascinating look at how a liberal, free-spirited astrophysicist became an accidental bureaucrat and changed his views on trust, authority, and the early internet
-image: https://akshayranganath-res.cloudinary.com/image/upload/w_350,f_auto,q_auto/blog/cuckoo%27s%20egg.png
+image: /images/blog/cuckoo%27s%20egg.png
 tags: book, hacking, politics
 ---
 
@@ -18,7 +18,7 @@ However, what stood out for me was Cliff's personal journey:
 1. His political leanings shift from purely liberal to much more conservative center-right affiliations.
 2. His attitude toward hackers changes from viewing them as free-form agents of simple curiosity to seeing them as malicious burglars.
 
-![someone running through balls of red tape](https://akshayranganath-res.cloudinary.com/image/upload/w_650,f_auto,q_auto/blog/cuckoo%27s%20egg.png)
+![someone running through balls of red tape](/images/blog/cuckoo%27s%20egg.d6320f2f.png)
 
 ## Change in Politics
 

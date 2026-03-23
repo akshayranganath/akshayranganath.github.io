@@ -3,19 +3,19 @@ layout: post
 title: AWS re:Invent 2023 
 comment: true
 description: Everything is GenAI and you should use Amazon Bedrock and Amazon Q.
-image: https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_350/blog/reInvent2023/reinvent-logo-2.png
+image: /images/blog/reinvent-logo-2.png
 tags: ai-ml, gen-ai, rag
 ---
 
 AWS re:Invent 2023 could have been called __Gen AI, Amazon Bedrock and Amazon Q__. 
 
-![reinvent logo](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_650/blog/reInvent2023/reinvent-logo-2.png)
+![reinvent logo](/images/blog/reinvent-logo-2.e8afb880.png)
 
 ## What stood out?
 
 Amazon was pushing hard the idea that GenAI is transforming all businesses. However, the LLM models themselves are still being developed. So, customers need to use a trusted platform and build tools based on the known end-point offered by various AWS services. LLM Models can be plugged-in and replaced. 
 
-![](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_650/blog/reInvent2023/keynote-1.png)
+![](/images/blog/keynote-1.png)
 
 [Amazon Bedrock](https://aws.amazon.com/bedrock/), [Retrieval Augmented Generation (RAG)](https://huggingface.co/docs/transformers/model_doc/rag) and [Amazon Q](https://aws.amazon.com/q/) were the services in most focus throughout the event.
 
@@ -34,13 +34,13 @@ If you are familiar with [LangChain](https://www.langchain.com/) or [GPTs](https
 
 In one of the hands-on sessions, we built a RAG solution using this architecture.
 
-![rag-deployment](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_650/blog/reInvent2023/full_architecture.jpg)
+![rag-deployment](/images/blog/full_architecture.jpg)
 [Source: shared as part of workshop]
 
 
 When deployed, the data flow looks like this:
 
-![](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_650/blog/reInvent2023/Amazon%20Bedrock.jpg)
+![](/images/blog/Amazon%20Bedrock.jpg)
 [Source: shared as part of workshop]
 
 The team also shared an [example Multi-Modal RAG powered application](https://github.com/aws-samples/aws-genai-llm-chatbot).

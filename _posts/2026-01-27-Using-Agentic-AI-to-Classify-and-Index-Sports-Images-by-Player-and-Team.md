@@ -3,11 +3,11 @@ layout: post
 title: Using Agentic AI to Classify and Index Sports Images by Player and Team
 comment: true
 description: Manually tagging sports assets is a bottleneck that scales poorly. By leveraging Agentic AI—combining vision models with live web-search agents—you can automatically identify players by jersey and team, even when faces are obscured. Check out how this workflow transforms a messy media repository into a fully searchable, high-value database.
-image: https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_350/blog/ai-player-tagging.png
+image: /images/blog/ai-player-tagging.png
 tags: ai-ml, strands, AgenticAI, GenerativeAI, AWSBedrock, DAM
 ---
 
-![AI player tagging](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_650/blog/ai-player-tagging.png)
+![AI player tagging](/images/blog/ai-player-tagging.3bf8091a.png)
 
 ## Why do we need this?
 
@@ -61,7 +61,7 @@ The code for player identification works as follows:
 
 Here is a high-level block diagram of the workflow.
 
-![workflow for player identification](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_650,e_improve/blog/player-identification.drawio.png)
+![workflow for player identification](/images/blog/player-identification.drawio.png)
 
 ## Code Walk Through
 
@@ -111,7 +111,7 @@ Test URL: https://static.cfl.ca/wp-content/uploads/Destin_Talbert_2025_002-800x4
 
 When submitted, the system generates an output like the one below:
 
-![sample program output](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_650,e_sharpen/blog/cfl-sample-output.png)
+![sample program output](/images/blog/cfl-sample-output.png)
 
 Along with the output, it will also clearly show token usage. This can be helpful in estimating costs for running the system in a long-term project.
 

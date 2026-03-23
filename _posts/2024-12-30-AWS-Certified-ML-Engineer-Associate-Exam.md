@@ -3,7 +3,7 @@ layout: post
 title: Preparing for AWS Certified ML Engineer Associate Exam
 comment: true
 description: Notes from preparing for the AWS Certified Machine Learning Engineer Associate Exam
-image: https://akshayranganath-res.cloudinary.com/image/upload/w_650,f_auto,q_auto/blog/studying-for-ai-exam.jpg
+image: /images/blog/studying-for-ai-exam.a4954de6.jpg
 tags: ai-ml, gen-ai
 ---
 
@@ -26,7 +26,7 @@ If you have prior experience with AWS, it is definitely a plus. In my case, I ha
 
 ## How to prepare for the exam?
 
-![preparing for the exams](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/studying-for-ai-exam.jpg)
+![preparing for the exams](/images/blog/studying-for-ai-exam.jpg)
 
 To fully prepare for this exam, my suggestion is to use the following resources:
 

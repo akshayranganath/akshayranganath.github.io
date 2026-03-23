@@ -3,11 +3,11 @@ layout: post
 title: Vibe Coding a Python Library
 comment: true
 description: I used vibe coding to build and publish a fully working Python SDK for Cloudinary's people search feature. From code generation to pypi—in about 4 hours using Cursor.
-image: https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_350/blog/cld-people-search-hero-image.png
+image: /images/blog/cld-people-search-hero-image.png
 tags: ai-ml, AgenticAI, Cursor, pypi
 ---
 
-![face recognition](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/cld-people-search-hero-image.png)
+![face recognition](/images/blog/cld-people-search-hero-image.78aa64c8.png)
 
 I was looking for a real use case to test out "vibe coding". Although I have used Cursor for almost a year now, it was mostly in bits and pieces. I wanted to *really* test-drive the capability of all its aspects to build a fully working system. Today, I built and launched a fully-functioning Python repository - [_Cloudinary People_](https://pypi.org/project/cloudinary-people/) using vibe coding!
 

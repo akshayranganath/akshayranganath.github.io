@@ -3,11 +3,11 @@ layout: post
 title: Rate Limiting with Python
 comment: true
 description: Short article on how to handle Rate Limited APIs or methods using Python while executing in a multi-threaded environment.
-image: https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,g_auto,w_350,h_350,c_crop/blog/speed-3394370_1280.jpg
+image: /images/blog/speed-3394370_1280.jpg
 tags: coding
 ---
 
-![man zooming on a scotter](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,g_auto,w_600,h_400,c_crop/blog/speed-3394370_1280.jpg)
+![man zooming on a scotter](/images/blog/speed-3394370_1280.3cb69c79.jpg)
 
 [Source](https://cdn.pixabay.com/photo/2018/05/12/19/16/speed-3394370_1280.jpg)
 
@@ -18,7 +18,7 @@ Whenever rate limits are enforced, the limit are generally documented. For examp
 * 60 calls / minute
 * 1,000,000 calls / month
 
-![pricing](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_600,e_unsharp_mask/blog/weather-rate-limits.png)
+![pricing](/images/blog/weather-rate-limits.png)
 
 At 60 calls/minute, we could end up consuming the monthly quota in about 11.5 days. So the actual rate limit to remain within the monthly quota would be 1,000,000/ (30 days * 24 hours/day * 60 minutes/day)  = 23 calls / minute. The question is how do you ensure that your code remain within this rate limit? Moreover, if you have multi-threaded program, you would need to ensure that the rate limit applies across the threads and the counter for request is thread-safe. Let's take a look at this example. If you'd like to explore API rate limiting in details, please refer to [this blog post](https://nordicapis.com/everything-you-need-to-know-about-api-rate-limiting/).
 

@@ -3,17 +3,17 @@ layout: post
 title: The Dichotomy of Cost -  Balancing Fixed SaaS Revenue with Unpredictable AI Expense
 comment: true
 description: As AI agents make costs unpredictable, SaaS companies must evolve from simple subscriptions to intelligent model routing.
-image: https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_350/blog/blog-llm-arbitrage.png
+image: /images/blog/blog-llm-arbitrage.png
 tags: ai-ml, gen-ai
 ---
 
 I wanted to write a follow-up to my article about LLMs and how they would soon be commoditized. That article was written in June 2024. Now, in November 2025, we are seeing many analysts agreeing with this position.
 
-![llm arbitrage](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_650/blog/blog-llm-arbitrage.png)
+![llm arbitrage](/images/blog/blog-llm-arbitrage.19858ec3.png)
 
 In his highly referenced [presentation](https://www.ben-evans.com/presentations), Benedict Evans mentioned that Foundation Model companies are chasing AGI. However, the products they are currently offering generally have no moat. From my experience in my organization and anecdotal conversations with friends, I've heard that there is no loyalty to specific models. The moat is based on the cloud provider. If you are an Amazon AWS shop, it is simpler to work with Bedrock and the models supplied by that service.
 
-![lack of moats](https://akshayranganath-res.cloudinary.com/image/upload/v1764049976/blog/blog-lack-of-moats.png)
+![lack of moats](/images/blog/blog-lack-of-moats.png)
 
 The purpose of this post is to look at another aspect: pricing. Specifically, how will the use of LLMs and agents impact SaaS pricing?
 
