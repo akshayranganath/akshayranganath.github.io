@@ -3,7 +3,7 @@ layout: post
 title: LLMs and Frontiers of Consciousness
 comment: true
 description: 
-image: /images/blog/
+image: /images/ai-consciousness-blog.png
 tags: ai-ml, consciousness, llm, thinking
 ---
 
