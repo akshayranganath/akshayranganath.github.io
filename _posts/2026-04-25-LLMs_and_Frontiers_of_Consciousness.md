@@ -50,7 +50,7 @@ LLM+ systems have evolved since 2023. They are no longer a simple chat interface
 * **2026: Autonomous Skills & Learned Control**: The standardization of **AI Agent Skills** via the SKILL.md format and the rise of Agentic Memory, where systems use reinforcement learning to autonomously manage their own storage and retrieval processes.
 
 Here is an infographic that explains these advances further. (click to expand to full size).
-[![infographic thumbnail](../images/infographic_thumbnail.png)](../images/infographic-evolution-of-llm-agents.png)
+[![infographic thumbnail](/images/blog/infographic_thumbnail.png)](/images/blog/infographic-evolution-of-llm-agents.png)
 
 ## Analyzing LLM+ in 2026
 
