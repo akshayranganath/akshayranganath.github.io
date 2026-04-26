@@ -3,13 +3,15 @@ layout: post
 title: LLMs and Frontiers of Consciousness
 comment: true
 description: 
-image: /images/ai-consciousness-blog.png
+image: /images/blog/ai-consciousness-blog.png
 tags: ai-ml, consciousness, llm, thinking
 ---
 
 ## tl;dr;
 
 Dr. David Chalmers had proposed a framework to judge if an LLM system can be conscious. I take his 2023 framework and re-evaluate it for mid-2026. Finally, I add a twist of _advaita vedanta_ to propose a test that could be fun/interesting. You can hear a Notebook LM Podcast that was created based on the content [here](../audio/The_witness_in_the_agentic_machine.m4a).
+
+![abstract image to represent AI consciousness](/images/blog/ai-consciousness-blog.png)
 
 "Could a Large Language Model be Conscious?" so asked the renowned professor, Dr David Chalmers at a Neuro IPS Session in 2023 [(video)](https://youtu.be/j6cCXg-rjRo?si=VAxEA7ZK3tUXLKXD). He later converted this talk into a more [strctured paper](https://arxiv.org/abs/2303.07103) with the same title. Answering his own question, he proposed a framework to help judge this difficult question. At the time he proposed this in the distant past of Febuary 2023, the world of AI was not as mature as today. There were no "thinking models", no "agents" and "agentic workflows", no "mcp" and a host of other features. At that time, he argued that an AI System is still not concsious. It is April of 2026. 3 years later, a host of things have changed. I wanted to re-analyze the framework and see if things had changed in a meaningful way. However, let's start from the beginning.
 
