@@ -22,6 +22,7 @@ Accordin to Wikipedia,
 [(source)](https://en.wikipedia.org/wiki/David_Chalmers)
 
 ![David Chalmers](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/David_chalmers.jpg/500px-David_chalmers.jpg)
+[Source:Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/David_chalmers.jpg/500px-David_chalmers.jpg)
 
 He is famous for his work on the ["Hard Problem of Consciousness"](https://en.wikipedia.org/wiki/Hard_problem_of_consciousness) theory. The “hard problem of consciousness” is the puzzle of why brain activity is accompanied by inner experiences, like the redness of red or the pain of a headache, instead of just being a bunch of physical processes. Scientists can explain how the brain works to control speech, movement, and memory, but that only covers what the brain does, not why it feels like something from the inside. Philosopher David Chalmers calls these inner feelings “qualia” and argues that even a complete description of the brain in physical terms still seems to leave out why there is “something it is like” to be you. This gap between explaining brain processes and explaining conscious experience is what makes the problem “hard.”
 
@@ -50,6 +51,7 @@ LLM+ systems have evolved since 2023. They are no longer a simple chat interface
 * **2026: Autonomous Skills & Learned Control**: The standardization of **AI Agent Skills** via the SKILL.md format and the rise of Agentic Memory, where systems use reinforcement learning to autonomously manage their own storage and retrieval processes.
 
 Here is an infographic that explains these advances further. (click to expand to full size).
+
 [![infographic thumbnail](/images/blog/infographic_thumbnail.png)](/images/blog/infographic-evolution-of-llm-agents.png)
 
 ## Analyzing LLM+ in 2026
