@@ -13,11 +13,11 @@ Dr. David Chalmers had proposed a framework to judge if an LLM system can be con
 
 ![abstract image to represent AI consciousness](/images/blog/ai-consciousness-blog.png)
 
-"Could a Large Language Model be Conscious?" so asked the renowned professor, Dr David Chalmers at a Neuro IPS Session in 2023 [(video)](https://youtu.be/j6cCXg-rjRo?si=VAxEA7ZK3tUXLKXD). He later converted this talk into a more [strctured paper](https://arxiv.org/abs/2303.07103) with the same title. Answering his own question, he proposed a framework to help judge this difficult question. At the time he proposed this in the distant past of Febuary 2023, the world of AI was not as mature as today. There were no "thinking models", no "agents" and "agentic workflows", no "mcp" and a host of other features. At that time, he argued that an AI System is still not concsious. It is April of 2026. 3 years later, a host of things have changed. I wanted to re-analyze the framework and see if things had changed in a meaningful way. However, let's start from the beginning.
+"Could a Large Language Model be Conscious?" so asked the renowned professor, Dr David Chalmers at a Neuro IPS Session in 2023 [(video)](https://youtu.be/j6cCXg-rjRo?si=VAxEA7ZK3tUXLKXD). He later converted this talk into a more [structured paper](https://arxiv.org/abs/2303.07103) with the same title. Answering his own question, he proposed a framework to help judge this difficult question. At the time he proposed this in the distant past of February 2023, the world of AI was not as mature as today. There were no "thinking models", no "agents" and "agentic workflows", no "mcp" and a host of other features. At that time, he argued that an AI System is still not conscious. It is April of 2026. 3 years later, a host of things have changed. I wanted to re-analyze the framework and see if things had changed in a meaningful way. However, let's start from the beginning.
 
 ## Who is David Chalmers?
 
-Accordin to Wikipedia, 
+According to Wikipedia, 
 >David John Chalmers .. is an Australian philosopher and cognitive scientist, specializing in philosophy of mind and philosophy of language. He is a professor of philosophy and neural science at New York University (NYU), as well as co-director of NYU's Center for Mind, Brain and Consciousness 
 [(source)](https://en.wikipedia.org/wiki/David_Chalmers)
 
@@ -29,7 +29,7 @@ He is famous for his work on the ["Hard Problem of Consciousness"](https://en.wi
 
 ## Consciousness Framework for AI Systems
 
-Dr Chalmers uses the term LLM+ to describle the generative AI models and associated systems. In 2023, it was predominantly just the chat interfaces. According to his framework, an LLM+ system needs to exhibit the following items to be considered conscious:
+Dr Chalmers uses the term LLM+ to describe the generative AI models and associated systems. In 2023, it was predominantly just the chat interfaces. According to his framework, an LLM+ system needs to exhibit the following items to be considered conscious:
 
 | Topic | Summary |
 |-------|---------|
@@ -57,7 +57,7 @@ Here is an infographic that explains these advances further. (click to expand to
 
 ## Analyzing LLM+ in 2026
 
-In my opinion, the biggest changes have occured in the following areas:
+In my opinion, the biggest changes have occurred in the following areas:
 
 * **Recurrent processing**: LLMs are no longer simple feed-forward systems. The systems now have memory, and "thinking" models are able to reflect and act back on their own analysis and outputs.
 * **Global workspace** & **Unified agency** : Agentic workflows now have a more evolved memory and better contextual handling. Again, agentic frameworks like Crew.ai provide the ability to have a controlling model that handles off work to worker models where the controlling model is acting like the brain.
@@ -67,11 +67,11 @@ There is some improvement in these areas but, it is not revolutionary:
 * **Senses and embodiment (grounding)**: Models are now multi-modal as compared to early 2023. So LLM+ systems can "understand" better than before.
 * **World models and self models**: Research is progressing on the world models. Hopefully, we'll start to see interesting results from it soon.
 
-Based on these advances, my take is that conciousness is now around 25%-40% depending on how each item is considered. 
+Based on these advances, my take is that consciousness is now around 25%-40% depending on how each item is considered. 
 
 ## Adding a Vedantic Twist
 
-In the Indian Philisophical concept of _"Advaita Vedanta"_, there is a test for concsiousness:
+In the Indian Philosophical concept of _"Advaita Vedanta"_, there is a test for consciousness:
 Suppose you go into a deep sleep and wake up. How do you know you had a deep sleep? All your senses and bodily are suspended in this state. So how do **"you"** __"know"__ about it? 
 
 Note the highlights on 2 items:
