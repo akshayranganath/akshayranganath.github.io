@@ -1,0 +1,16 @@
+#!/bin/bash
+# Compress staged PNG images with pngquant before committing.
+set -e
+
+if ! command -v pngquant >/dev/null 2>&1; then
+    echo "pre-commit: pngquant not found, skipping PNG compression (brew install pngquant)" >&2
+    exit 0
+fi
+
+while IFS= read -r -d '' f; do
+    [ -f "$f" ] || continue
+    tmp="${f%.png}1.png"
+    pngquant --force --output "$tmp" "$f"
+    mv "$tmp" "$f"
+    git add "$f"
+done < <(git diff --cached --name-only --diff-filter=ACM -z -- '*.png')
