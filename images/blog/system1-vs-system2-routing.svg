@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1540" height="840" viewBox="0 0 1540 840" role="img" aria-labelledby="title desc">
+  <title id="title">System 1 vs System 2 routing</title>
+  <desc id="desc">A request goes to a fast System 1 decision model, such as Jev or Laya, which returns a typed routing decision with a confidence score. High-confidence decisions take the fast path. Low-confidence requests escalate to a slow, expensive System 2 frontier model. Both paths return a response.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#64748B"/>
+    </marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#0F766E"/>
+    </marker>
+    <marker id="arrowOrange" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#D97706"/>
+    </marker>
+    <style>
+      text { font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; fill: #0F172A; }
+      .title { font-size: 32px; font-weight: 700; letter-spacing: -0.5px; }
+      .subtitle { font-size: 15px; fill: #475569; }
+      .card-title { font-size: 18px; font-weight: 700; }
+      .body { font-size: 14px; fill: #334155; }
+      .small { font-size: 12px; fill: #475569; }
+      .tiny { font-size: 11px; fill: #475569; }
+      .eyebrow { font-size: 11px; font-weight: 700; letter-spacing: 1px; }
+      .mono { font-family: "SF Mono", Menlo, Consolas, monospace; font-size: 14px; fill: #E2E8F0; }
+      .line { fill: none; stroke: #64748B; stroke-width: 2.4; stroke-linecap: round; stroke-linejoin: round; marker-end: url(#arrow); }
+      .plain { fill: none; stroke: #64748B; stroke-width: 2.1; stroke-linecap: round; stroke-linejoin: round; }
+      .yes { fill: none; stroke: #0F766E; stroke-width: 2.4; stroke-linecap: round; stroke-linejoin: round; marker-end: url(#arrowGreen); }
+      .no { fill: none; stroke: #D97706; stroke-width: 2.4; stroke-linecap: round; stroke-linejoin: round; marker-end: url(#arrowOrange); }
+    </style>
+  </defs>
+
+  <rect width="1540" height="840" fill="#F7F9FC"/>
+  <text x="48" y="58" class="title">System 1 Decides, System 2 Reasons</text>
+  <text x="49" y="86" class="subtitle">A fast decision model handles routing. The expensive model is called only when it is needed.</text>
+
+  <!-- Request -->
+  <rect x="42" y="300" width="226" height="220" rx="18" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5"/>
+  <rect x="42" y="300" width="226" height="8" rx="4" fill="#64748B"/>
+  <circle cx="75" cy="347" r="17" fill="#E2E8F0"/>
+  <path d="M67 344h16M67 350h11" stroke="#334155" stroke-width="2" stroke-linecap="round"/>
+  <text x="101" y="353" class="card-title">Incoming request</text>
+  <text x="64" y="394" class="body">Prompt, ticket or email</text>
+  <text x="64" y="420" class="body">Plus typed questions:</text>
+  <text x="64" y="446" class="body">"Which model tier?"</text>
+  <line x1="64" y1="468" x2="246" y2="468" stroke="#E2E8F0"/>
+  <text x="64" y="494" class="small">Every request starts here.</text>
+
+  <path d="M268 410 H320" class="line"/>
+
+  <!-- System 1 -->
+  <rect x="320" y="230" width="340" height="360" rx="18" fill="#EFF6FF" stroke="#93C5FD" stroke-width="1.7"/>
+  <rect x="320" y="230" width="340" height="8" rx="4" fill="#2563EB"/>
+  <circle cx="354" cy="278" r="17" fill="#DBEAFE"/>
+  <path d="M357 266l-9 14h7l-3 10 9-14h-7z" fill="#1D4ED8"/>
+  <text x="380" y="284" class="card-title">System 1 decision model</text>
+  <text x="344" y="322" class="eyebrow" fill="#1D4ED8">FAST &#183; INTUITIVE</text>
+  <text x="344" y="350" class="body">No text generation, nothing to parse</text>
+  <text x="344" y="374" class="body">One forward pass per request</text>
+  <line x1="344" y1="394" x2="636" y2="394" stroke="#BFDBFE"/>
+  <text x="344" y="422" class="eyebrow" fill="#1D4ED8">TYPED OUTPUT</text>
+  <rect x="344" y="436" width="292" height="74" rx="10" fill="#0F172A"/>
+  <text x="364" y="465" class="mono">route: "small_model"</text>
+  <text x="364" y="491" class="mono">confidence: <tspan fill="#5EEAD4">0.97</tspan></text>
+  <text x="344" y="540" class="small">Examples: Jev (TypeSafe), Laya (open source)</text>
+  <text x="344" y="562" class="tiny">Milliseconds &#183; fractions of a cent per call</text>
+
+  <path d="M660 410 H720" class="line"/>
+
+  <!-- Confidence gate -->
+  <path d="M790 340 L860 410 L790 480 L720 410 Z" fill="#FFFFFF" stroke="#2563EB" stroke-width="2"/>
+  <text x="790" y="405" text-anchor="middle" font-size="13" font-weight="700">Confidence</text>
+  <text x="790" y="424" text-anchor="middle" font-size="13" font-weight="700">&#8805; threshold?</text>
+
+  <!-- Branches -->
+  <path d="M790 340 V205 H960" class="yes"/>
+  <text x="875" y="193" text-anchor="middle" class="eyebrow" fill="#0F766E">HIGH CONFIDENCE</text>
+  <path d="M790 480 V620 H960" class="no"/>
+  <text x="875" y="608" text-anchor="middle" class="eyebrow" fill="#B45309">LOW CONFIDENCE</text>
+
+  <!-- Fast path -->
+  <rect x="960" y="130" width="300" height="150" rx="16" fill="#ECFDF5" stroke="#6EE7B7" stroke-width="1.5"/>
+  <rect x="960" y="130" width="7" height="150" rx="3.5" fill="#0F766E"/>
+  <text x="988" y="162" class="eyebrow" fill="#0F766E">FAST PATH</text>
+  <text x="988" y="191" class="card-title">Act on the decision</text>
+  <text x="988" y="217" class="small">Send to a small model, tag, approve</text>
+  <text x="988" y="235" class="small">or block. Most requests end here.</text>
+  <text x="988" y="262" class="tiny">Milliseconds &#183; near-zero cost</text>
+
+  <!-- System 2 -->
+  <rect x="960" y="540" width="300" height="160" rx="16" fill="#FFF7ED" stroke="#FDBA74" stroke-width="1.5"/>
+  <rect x="960" y="540" width="7" height="160" rx="3.5" fill="#D97706"/>
+  <text x="988" y="572" class="eyebrow" fill="#B45309">SYSTEM 2 &#183; SLOW, DELIBERATE</text>
+  <text x="988" y="601" class="card-title">Frontier LLM</text>
+  <text x="988" y="627" class="small">Deep reasoning and text generation</text>
+  <text x="988" y="645" class="small">for hard or uncertain requests.</text>
+  <text x="988" y="682" class="tiny">Seconds &#183; highest cost per task</text>
+
+  <!-- Converge to response -->
+  <path d="M1260 205 H1285 V410" class="plain"/>
+  <path d="M1260 620 H1285 V410" class="plain"/>
+  <path d="M1285 410 H1310" class="line"/>
+
+  <rect x="1310" y="350" width="188" height="120" rx="18" fill="#F0FDFA" stroke="#5EEAD4" stroke-width="1.5"/>
+  <circle cx="1340" cy="387" r="14" fill="#CCFBF1"/>
+  <path d="M1334 387l4 4 8-9" fill="none" stroke="#0F766E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="1363" y="393" class="card-title">Response</text>
+  <text x="1333" y="428" class="small">Returned to the caller</text>
+  <text x="1333" y="448" class="small">from either path.</text>
+
+  <!-- Takeaway -->
+  <rect x="42" y="738" width="1456" height="52" rx="14" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="1.2"/>
+  <text x="770" y="770" text-anchor="middle" font-size="15" font-weight="600" fill="#1E3A8A">Most requests stop at System 1. Only the hard or uncertain ones pay System 2 prices.</text>
+
+  <text x="42" y="822" class="tiny">Illustrative flow: confidence thresholds and escalation targets vary by workload and risk tolerance.</text>
+</svg>
