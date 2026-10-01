@@ -3,10 +3,7 @@ layout: post
 title: Beyond the Vibes - A More Disciplined Approach to Building AI Agents
 comment: true
 description: Building an AI agent is easy. Building one you can trust with revenue, security, or production operations requires a very different approach.
-image:
-  path: /images/blog/human_vs_robot_armwrestling_og.png
-  width: 1200
-  height: 627
+image: /images/blog/human_vs_robot_armwrestling_og.png  
 tags: ai-ml, llm, gen-ai, open-weight, china
 ---
 
