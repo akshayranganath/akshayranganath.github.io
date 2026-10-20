@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Cost of AI Productivity
-published: false
 comment: true
 description: Three doubts about the claim that AI frees people for higher-value work. Saved time often is not redeployed, constant focus may crowd out new ideas, and teams lose a single authoritative record.
 image: /images/blog/ai-productivity-hero.jpg
