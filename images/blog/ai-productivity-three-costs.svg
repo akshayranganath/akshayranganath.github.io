@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">Three costs of AI productivity</title>
+  <desc id="desc">Three costs side by side: saved time that fills itself, no idle stretch for new ideas, and many versions of the same fact.</desc>
+  <style>
+    text { font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; fill: #0F172A; }
+    .title { font-size: 34px; font-weight: 700; letter-spacing: -0.4px; }
+    .eyebrow { font-size: 15px; font-weight: 700; letter-spacing: 1.4px; fill: #0F766E; }
+    .card-title { font-size: 32px; font-weight: 700; letter-spacing: -0.4px; }
+    .card-body { font-size: 26px; fill: #0F766E; font-weight: 600; }
+  </style>
+  <rect width="1200" height="520" fill="#F7F9FC"/>
+  <text x="48" y="64" class="title">Three costs</text>
+
+  <rect x="48" y="108" width="348" height="360" rx="18" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5"/>
+  <rect x="66" y="108" width="312" height="8" fill="#0F766E"/>
+  <text x="76" y="220" class="eyebrow">TIME</text>
+  <text x="76" y="290" class="card-title">Saved time</text>
+  <text x="76" y="340" class="card-body">fills itself</text>
+
+  <rect x="426" y="108" width="348" height="360" rx="18" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5"/>
+  <rect x="444" y="108" width="312" height="8" fill="#0F766E"/>
+  <text x="454" y="220" class="eyebrow">IDEAS</text>
+  <text x="454" y="290" class="card-title">No idle stretch</text>
+  <text x="454" y="340" class="card-body">fewer new ideas</text>
+
+  <rect x="804" y="108" width="348" height="360" rx="18" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5"/>
+  <rect x="822" y="108" width="312" height="8" fill="#0F766E"/>
+  <text x="832" y="220" class="eyebrow">RECORD</text>
+  <text x="832" y="290" class="card-title">Many versions</text>
+  <text x="832" y="340" class="card-body">of the same fact</text>
+</svg>
