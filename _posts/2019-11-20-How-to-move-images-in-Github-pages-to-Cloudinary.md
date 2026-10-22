@@ -15,8 +15,6 @@ tags: webperf, devops
 
 I have been publishing my blog on Github pages for quite some time now. I really like the approach and the super optimal HTML that is produced. However, when I run performance audits like [Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/), I would get warnings about large images and for not using newer formats like `.webp`. There was no easy way to embed the different format of images without directly embedding `<img>` tags.
 
-![Page speed insights report](/images/blog/psi_report.png)
-
 
 I knew that Cloudinary would support the browser-specific format images. However, there was no direct way to migrate all the images. There was no easy way to search/replace the reference to the image as well. So I decided to build this functionality using simple python code. Here's how to do it. It's quite simple - we just need _Algorithms_ :-)
 
@@ -80,10 +78,10 @@ In this code, I am stating that:
 * `folder=blog` will ensure that the root for all my images will be a folder named `blog`.
 
 The response URL will be of this format. The response JSON has a field called `secure_url` and it is this field we use to get back the uploaded URL.
-[/images/blog/nut%20ball%20and%20bearing.jpg](/images/blog/nut%20ball%20and%20bearing.jpg)
+`https://res.cloudinary.com/dbmataac4/image/upload/v1568243786/blog/images/blog/nut%20ball%20and%20bearing.jpg`
 
 When publishing, I don't want to use the `v1568243786` bit. It represents the specific version of image variant. If we over-write it, the version may change. However, simply referencing it as this URL will work as well:
-[/images/blog/nut%20ball%20and%20bearing.jpg](/images/blog/nut%20ball%20and%20bearing.jpg)
+`https://res.cloudinary.com/dbmataac4/image/upload/blog/images/blog/nut%20ball%20and%20bearing.jpg`
 
 So I run this cleanup and store the new URL.
 
@@ -95,7 +93,7 @@ For this simple migration, I am adding 2 transformations:
 * [`q_auto`](https://cloudinary.com/documentation/image_transformation_reference#quality_parameter): This will set the best quality based on the image details.
 
 The combination wold translate to a transformation string of `f_quto,q_auto`. The resulting URL would now look as this:
-[/images/blog/nut%20ball%20and%20bearing.jpg](/images/blog/nut%20ball%20and%20bearing.jpg)
+`https://res.cloudinary.com/dbmataac4/image/upload/f_auto,q_auto/blog/images/blog/nut%20ball%20and%20bearing.jpg`
 
 ### Find & Replace
 
@@ -104,5 +102,3 @@ The last step is to open each blog and find & replace the local image reference 
 ### Save and publish
 
 That's it. You can now commit the code and push it to Github. That should be create the updated website and images should be performant! Here's the Page Speed report after the change :-)
-
-![page speed report - after](/images/blog/psi_report_after.png)

@@ -140,7 +140,6 @@ Build chaos engineering tools as a foundational service. Every application has t
 ### DevOps Handboook Experiments in Accelerating Delivery
 
 Lessons implemented from the DevOps hand book:
-![DevOps Handbook lessons](/images/blog/DevOps%20Handbook%20lessons.png)
 
 Instead of "presenting" to management, rely on "Show and Tell". It provides better grasp to management.
 

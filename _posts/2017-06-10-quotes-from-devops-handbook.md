@@ -250,8 +250,6 @@ Popular ritual of Scrum is the Daily Standup meeting. Discuss:
 
 ### Retrospectives
 
-![rear view](/images/retrospect.jpg)
-
 An agile practice where teams meet at the end of a development interval and discuss 3 things:
 
 - what was successful

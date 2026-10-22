@@ -47,7 +47,7 @@ Here's a graphic on the reduction in each performance metric.
 
 Finally, here's the side-by-side video of the websites loading the content.
 <video width="90%" controls>
-  <source src="/images/blog/github_vs_wordpress_video.mp4" type="video/mp4">  
+  <source src="/images/github_vs_wordpress_video.mp4" type="video/mp4">  
 Your browser does not support the video tag.
 </video>
 

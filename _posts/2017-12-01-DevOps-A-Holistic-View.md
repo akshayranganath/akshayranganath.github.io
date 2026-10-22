@@ -107,7 +107,6 @@ One of the core tenets of the _First Way_ is to make the work visible. To achiev
 
 When a Kanban board is used it is very clear on the tasks being queued up, in progress and completed. The end goal is to reduce idle time and eliminate waste. 
 
-![Kanban board](/images/blog/kanban-board-e60650d1-1.jpg)
   
 ### IT Service Management (ITSM)
 
