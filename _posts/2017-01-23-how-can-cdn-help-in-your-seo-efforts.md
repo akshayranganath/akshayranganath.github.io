@@ -15,7 +15,7 @@ This blog is a follow up for my earlier post on [What metrics matter for SEO?](h
 
 But, before we dig in, let's me quickly re-iterate the value proposition of using a CDN.
 ## Why use a CDN at all?
-In the seminal study titled [It's the latency stupid](http://www.stuartcheshire.org/rants/latency.html), Stuart Cheshire tried to understand on which factor matters more for a "faster" website. Is it the bandwidth available or the latency? His conclusion was that beyond a point, bandwidth has no impact on the speed and it boils down to the latency.
+In the seminal study titled [It's the latency stupid](https://www.stuartcheshire.org/rants/latency.html), Stuart Cheshire tried to understand on which factor matters more for a "faster" website. Is it the bandwidth available or the latency? His conclusion was that beyond a point, bandwidth has no impact on the speed and it boils down to the latency.
 
 So why is latency such a big speed killer? Simply put, the speed of data transfer over the internet is constrained by the distance from the user and the server. The best possible speed is at the speed of light. However, network components add some processing time and navigating the internet when distances are large means the speed is reduced.
 
@@ -58,7 +58,7 @@ Google has been pushing for a secure websites. To encourage users, Google [Let's
 
 However, HTTP to HTTPS migration is a lot more than just changing the protocol, as experienced by [Wired](https://www.wired.com/2016/05/wired-first-big-https-rollout-snag/). So plan it out thoroughly, even when using a CDN.
 ### Mobile Friendly Websites
-Building mobile friendly / responsive websites is [Responsive Web Design Makes It Hard To Be Fast](https://www.youtube.com/watch?v=8IE3QWOYKx8">hard</a>. The primary challenge is to identify if a device is mobile/tablet or desktop. This could be avoided by building a purely responsive website where everybody gets the exact same set of resources and the browser displayes according to the device capabilities. However, it causes the most amount of resource bloat for the smallest of the devices. For more on issues around the responsive design, read Guy Podjarny's blog post <a href="http://www.guypo.com/responsive-web-design-is-bad-for-performance-there-i-said-it/).
+Building mobile friendly / responsive websites is [Responsive Web Design Makes It Hard To Be Fast](https://www.youtube.com/watch?v=8IE3QWOYKx8">hard</a>. The primary challenge is to identify if a device is mobile/tablet or desktop. This could be avoided by building a purely responsive website where everybody gets the exact same set of resources and the browser displayes according to the device capabilities. However, it causes the most amount of resource bloat for the smallest of the devices. For more on issues around the responsive design, read Guy Podjarny's blog post <a href="https://www.guypo.com/responsive-web-design-is-bad-for-performance-there-i-said-it/).
 
 A CDN could help in the responsive design / mobile friendly websites in multiple ways:
 

@@ -32,7 +32,7 @@ As per documents, 2 kinds of links are upgraded:
 
 However, not all requests are upgraded. We learnt this the hard way during a migration.
 ### Gotcha# 1: Browser support
-First off, not all browsers support CSP. As per [caniuse.com](http://caniuse.com/#search=upgrade), Firefox, Chrome and Opera are the browsers that support this directive. IE, Edge and Safari currently do not support it.
+First off, not all browsers support CSP. As per [caniuse.com](https://caniuse.com/#search=upgrade), Firefox, Chrome and Opera are the browsers that support this directive. IE, Edge and Safari currently do not support it.
 
 ![Can I use: CSP](/images/blog/can_I_use_csp.png)
 

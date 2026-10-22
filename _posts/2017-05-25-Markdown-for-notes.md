@@ -29,9 +29,9 @@ Enter Markdown! I can now take notes in simple plain text and just add the forma
 Once you use Markdown for a few months, the syntax just becomes a second habit. While learning, one of the best resource I found was Adam Pritchard's [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 ## Previewing Markdown page
-Markdown doesn't need a lot of resources to be converted to HTML. There are [CLI tools](https://github.com/showdownjs/showdown), [online editors](http://dillinger.io/) and more. In my case, I use Sublime Text. So the logical option was to find the best way to get this done.
+Markdown doesn't need a lot of resources to be converted to HTML. There are [CLI tools](https://github.com/showdownjs/showdown), [online editors](https://dillinger.io/) and more. In my case, I use Sublime Text. So the logical option was to find the best way to get this done.
 
-I followed the steps outlined in the article [How to Set Up Sublime Text for Markdown Editing](http://plaintext-productivity.net/2-04-how-to-set-up-sublime-text-for-markdown-editing.html). At the end of it, I had installed a package named "Markdown Extended" and added a key-binding to show Markdown pages as a HTML on my browser. Here's my key binding file after the changes
+I followed the steps outlined in the article [How to Set Up Sublime Text for Markdown Editing](https://plaintext-productivity.net/2-04-how-to-set-up-sublime-text-for-markdown-editing.html). At the end of it, I had installed a package named "Markdown Extended" and added a key-binding to show Markdown pages as a HTML on my browser. Here's my key binding file after the changes
 
 ```javascript
 [

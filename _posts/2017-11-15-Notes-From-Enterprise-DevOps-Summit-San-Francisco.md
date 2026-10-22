@@ -339,7 +339,7 @@ Watch the video again. It is amazing!
 
 #### The human factor: Inspiring the pursuit of success and averting drift into failure
 
-Session by [Dr Sidney Dekker](http://sidneydekker.com/)
+Session by [Dr Sidney Dekker](https://sidneydekker.com/)
 
 - the company / airline that reports the most incidents has the least number of catastrophic accidents ==> open culture and less fear of being honest
 - sweet spot of honesty exists for organizations.. if you stress beyond it, catastrophic results occur

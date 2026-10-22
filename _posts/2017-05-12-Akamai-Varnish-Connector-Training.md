@@ -289,7 +289,7 @@ To verify
 	- Similar sorting can be done on cookies as well.
 
 Here's the VCL state diagram:
-![VCL state machine](http://book.varnish-software.com/4.0/_images/simplified_fsm.svg)
+![VCL state machine](https://book.varnish-software.com/4.0/_images/simplified_fsm.svg)
 
 
 
@@ -375,7 +375,7 @@ Adding references to Akamai's APIs:
 - *[Regular Purge / Invalidate](https://developer.akamai.com/api/purge/ccu/overview.html)*: This can be used for single URL or CP Code purge.
 - *[ECCU Purge](https://control.akamai.com/dl/customers/other/CCU/Content_Control_Interfaces.pdf)*: This can be used for wildcarded URLs, and purging with complex conditions.
 
-Here's the complete purge and ban strategies allowed. I've taken it from the section [Purge - Bans - Cache Misses - Surrogate Keys](http://book.varnish-software.com/4.0/chapters/Cache_Invalidation.html).
+Here's the complete purge and ban strategies allowed. I've taken it from the section [Purge - Bans - Cache Misses - Surrogate Keys](https://book.varnish-software.com/4.0/chapters/Cache_Invalidation.html).
 
 <table border="1" class="docutils" id="purge-ban-hash2-force">
 <span id="table-18"></span><caption><span class="caption-number">Table 17 </span><span class="caption-text">Comparison Between: Purge, Softpurge, Bans, Force Cache Misses and Surrogate keys (hashtwo/xkey)</span><a class="headerlink" href="#purge-ban-hash2-force" title="Permalink to this table">¶</a></caption>
@@ -447,7 +447,7 @@ Here's the complete purge and ban strategies allowed. I've taken it from the sec
 
 - Drupal: [VCL purge & ban ](https://gitlab.wklive.net/snippets/32)
 - Wordpress: [STEP-BY-STEP: SPEED UP WORDPRESS WITH VARNISH SOFTWARE](https://info.varnish-software.com/blog/step-step-speed-wordpress-varnish-software)
-- Magento: [Using varnish with Magento](http://devdocs.magento.com/guides/v2.0/config-guide/varnish/config-varnish-magento.html)
+- Magento: [Using varnish with Magento](https://devdocs.magento.com/guides/v2.0/config-guide/varnish/config-varnish-magento.html)
 - AEM: REPLACING ADOBE AEM [Part 1](https://info.varnish-software.com/blog/advanced-cache-invalidation-applied-replacing-adobe-aem-cq5-dispatcher-with-varnish-plus-part-1) and [Part 2](https://info.varnish-software.com/blog/advanced-cache-invalidation-part2)
 
 {Digression: Comparison of CMS platforms https://www.slideshare.net/TeroJuola/magento-2-hybris-websphere-commerce-oracle-atg-comparison }

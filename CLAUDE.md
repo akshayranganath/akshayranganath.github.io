@@ -49,3 +49,4 @@ There are no tests, linters, or CI in this repo. The only "build" is GitHub Page
 - New blog posts go in `_posts/` following the filename and front-matter pattern above; Jekyll derives the post date and URL slug from the filename.
 - Keep front matter `tags` as a comma-separated string (not a YAML list) to match existing posts.
 - Some posts are written in Devanagari/Kannada script (e.g. Vedanta-related posts) — preserve non-Latin filenames/content as-is when editing.
+- Drafts go in `_drafts/` and build with `--drafts`; move a draft to `_posts/` to publish it.

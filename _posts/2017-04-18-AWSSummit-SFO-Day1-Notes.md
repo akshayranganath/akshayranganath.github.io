@@ -43,7 +43,7 @@ very good stats on how devOps can save time and money
 
 	Code -> AWS Codecommit -> AWS Codebuild -> AWS Codebuild -> AWS Cloudformation
 	Code -> Commit -> Build-> Test ->Deploy to prod
-![Code deploy pipeline](http://d0.awsstatic.com/product-marketing/CodeBuild/CodeBuildCodePipeline2.png)
+![Code deploy pipeline](https://d0.awsstatic.com/product-marketing/CodeBuild/CodeBuildCodePipeline2.png)
 
 AWS Cloud X-Ray: debugging tool
 

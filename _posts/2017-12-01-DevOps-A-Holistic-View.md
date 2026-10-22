@@ -83,7 +83,7 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/Lean_manufacturing)
 
 ![Muda-Mura-Muri](/images/blog/muda-mura-muri.jpg)
 
-Lean basically originated from the [Toyota Production System (TPS)](http://www.toyota-global.com/company/vision_philosophy/toyota_production_system/)
+Lean basically originated from the [Toyota Production System (TPS)](https://www.toyota-global.com/company/vision_philosophy/toyota_production_system/)
 
 The core aspects that impacts DevOps are:
 * _Muda_ / waste: Waste in terms of DevOps is defects or broken builds. 
@@ -145,7 +145,7 @@ Elaborating on this, Martin Fowler says,
 To achieve _Continuous Delivery_, most organizations use a __Deployment Pipeline__.
 
 #### Deployment Pipeline
-In their book, _Continuous Deliver_, Jez Humble and David Farley, describe a [deployment pipeline](http://www.informit.com/articles/article.aspx?p=1621865&seqNum=2) in this way.
+In their book, _Continuous Deliver_, Jez Humble and David Farley, describe a [deployment pipeline](https://www.informit.com/articles/article.aspx?p=1621865&seqNum=2) in this way.
 >At an abstract level, a deployment pipeline is an automated manifestation of your process for getting software from version control into the hands of your users.
 
 This is the place where the concept of assembly line, lean manufacturing and Toyota Production system sort of comes into manifestation. In many analogies, this piepeline is very similar to the assembly line in a manufacturing plant. The alerts that go out due to a failed build (often termed as red build) is similar to pulling the [Andon Chord](https://itrevolution.com/kata/). 
@@ -155,7 +155,7 @@ However, there are practitioners who are not convinced that IT software developm
 Now that we've seen one of the _CDs_ in the form of continuous delivery, let us look at another form of _CD_.
 
 #### Continuous Deployment
-As per [Electric-Cloud's wiki page](http://electric-cloud.com/wiki/display/releasemanagement/Continuous+Deployment#ContinuousDeployment-ContinuousDeploymentOverview) Continuous Deployment is 
+As per [Electric-Cloud's wiki page](https://electric-cloud.com/wiki/display/releasemanagement/Continuous+Deployment#ContinuousDeployment-ContinuousDeploymentOverview) Continuous Deployment is
 > the practice of continuously pushing to production new versions of software under development.
 
 So it takes the Continuous Delivery to a new level by actually pushing the code out to production. In both _Delivery_ and _Deployment_ code is tested in production like environments. The difference is that in _Delivery_, new change is not deployed until requested (a manual [circuit-breaker](https://www.martinfowler.com/bliki/CircuitBreaker.html)) vs _Deployment_ where the code is automatically promoted to production. 
@@ -193,7 +193,7 @@ The concept of a Learning Organization / Organizational Learning is quite old. I
 
 >A learning organization is an organization skilled at creating, acquiring, and transferring knowledge, and at modifying its behavior to reflect new knowledge and insights.
 
-Peter Senge explained the different aspects of a learning organization using [5 aspects](http://www.thechangeforum.com/Learning_Disciplines.htm).
+Peter Senge explained the different aspects of a learning organization using [5 aspects](https://www.thechangeforum.com/Learning_Disciplines.htm).
 
 ![5 disciplines of learning organization](/images/blog/the-five-disciplines-senger.jpeg)
 
@@ -227,7 +227,7 @@ In the context of DevOps, blameless postmortems are a form of learning organizat
 
 DevOps as a term was coined to primarily show that two teams that typically don't collaborate can actually work together. Once organizations have started to see the benefits, DevOps movement is now growing into partnership with other organizations as well. For example, here are a few of the common movements:
 
-* __DevSecOps__: The purpose and intent of _DevSecOps_ is to build on the mindset that _"everyone is responsible for security"_ with the goal of safely distributing security decisions at speed and scale to those who hold the highest level of context without sacrificing the safety required. (Source: [DevSecOps blog post](http://www.devsecops.org/blog/2015/2/15/what-is-devsecops))
+* __DevSecOps__: The purpose and intent of _DevSecOps_ is to build on the mindset that _"everyone is responsible for security"_ with the goal of safely distributing security decisions at speed and scale to those who hold the highest level of context without sacrificing the safety required. (Source: [DevSecOps blog post](https://www.devsecops.org/blog/2015/2/15/what-is-devsecops))
 * __RuggedDevOps__: Rugged DevOps brings the lean thinking and manufacturing work of W. Edwards Deming that DevOps espouses to "ruggedizing" software. In the context of security, this means re-examining the supply chain of software you use to build your products on top of and working to build in security instead of trying to tack it on at the end in a last-ditch security review. (Source: [Want rugged DevOps? Team up your release and security engineers](https://techbeacon.com/want-rugged-devops-team-your-release-security-engineers))
 * DevOps with auditing and legal teams: This is of interest to regulated industries like banking. The idea is that the auditing functionality that can be automated is built into the pipeline. Audit trails and logging are implemented as a frame-work so that the necessary processes and artifacts for audits are baked in.
 

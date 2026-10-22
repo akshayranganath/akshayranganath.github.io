@@ -58,7 +58,7 @@ Overall, I felt this a great fun to read and time well spent!
 ### Some References
 
 * [TheVeda.org](https://theveda.org.in/)
-* [BhagavadGita.org](http://bhagavadgita.org.in/)
+* [BhagavadGita.org](https://bhagavadgita.org.in/)
 * [Upanishad.org](https://upanishads.org.in/)
 
 I do follow [Sampadananda Mishra](https://twitter.com/Sampadananda) for some excellent tweets on learning Sanskrit and quick bites about Hinduism.

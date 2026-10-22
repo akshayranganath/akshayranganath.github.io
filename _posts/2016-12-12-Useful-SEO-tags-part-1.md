@@ -11,7 +11,7 @@ In this blog post, I analyze the distribution and the use cases for the differen
 ## SEO Tags in the wild
 [Rand Fishkin](https://twitter.com/randfish) published a [whiteboard Friday](https://moz.com/blog/category/whiteboard-friday) on the topic of [which tags matter for SEO](https://moz.com/blog/which-page-markup-tags-still-matter-for-seo-whiteboard-friday). While reading it, I was intrigued to check the kind of tags that are actually being used in the wild.
 
-So I thought of running my own research to see the kind of trends and usage of tags across the Alexa Top 1000 websites. Since I did not have access to the Alexa list, I used the top 1000 URLs from [HTTPArchive](http://httparchive.org/) instead.
+So I thought of running my own research to see the kind of trends and usage of tags across the Alexa Top 1000 websites. Since I did not have access to the Alexa list, I used the top 1000 URLs from [HTTPArchive](https://httparchive.org/) instead.
 
 In this first part of the blog, I summarize my findings on the  tag.
 
@@ -59,7 +59,7 @@ Here's the distribution again:
 
 When I looked at the &lt;link&gt; tags, I wasn't sure on the usage and had to do a bit of read-up. Here's a summary of some of the tags:
 
-* __rel="search":__ As a user, you can configure alternate search engines like "imdb" on browsers. This tag provides a mechanism to provide hint that your site has the ability for such a search functionality. The concept is called <a href="http://www.opensearch.org/Home">OpenSearch</a> and you can read about it's use at <a href="https://aaronparecki.com/2011/07/11/3/how-to-let-google-power-opensearch-on-your-website">Aaron Parecki's blog</a>. And here's a sample OpenSearch file from Airbnb: https://www.airbnb.com/opensearch.xml.</li>
+* __rel="search":__ As a user, you can configure alternate search engines like "imdb" on browsers. This tag provides a mechanism to provide hint that your site has the ability for such a search functionality. The concept is called <a href="https://www.opensearch.org/Home">OpenSearch</a> and you can read about it's use at <a href="https://aaronparecki.com/2011/07/11/3/how-to-let-google-power-opensearch-on-your-website">Aaron Parecki's blog</a>. And here's a sample OpenSearch file from Airbnb: https://www.airbnb.com/opensearch.xml.</li>
 * __rel="image_src"__: As a site owner, you may have a preference on which image is used as an icon to represent the website. This tag could be used to specify the icon. For more, read this <a href="https://stackoverflow.com/questions/19274463/what-is-link-rel-image-src">stack overflow discussion</a>.</li>
 * __rel="next"__: If you have a paginated website and would like to provide hints to the search engine bots using this tag. An associated tag is <strong>rel="prev" </strong>for pointing back to the previous page. More details at <a href="https://webmasters.googleblog.com/2011/09/pagination-with-relnext-and-relprev.html">Google Webmaster tools blog.</a></li>
 

@@ -34,7 +34,7 @@ In other words, all of the studies have an issue where it's hard to go ignore th
 
 ![Correlation is not causation](/images/blog/correlation_not_causation.jpg)
 
-(Digressing: If you want to read up on more serious issues related to <i>correlation is not causation</i> issue, head [over here](http://www.skepticalraptor.com/skepticalraptorblog.php/correlation-does-not-imply-causation-except-when-it-does/)).
+(Digressing: If you want to read up on more serious issues related to <i>correlation is not causation</i> issue, head [over here](https://www.skepticalraptor.com/skepticalraptorblog.php/correlation-does-not-imply-causation-except-when-it-does/)).
 
 To summarize, here's the issues with the studies:
 
@@ -94,4 +94,4 @@ After looking at the various research and surveys, it is clear that ultimately, 
 All this boils down to <a href="https://twitter.com/mattcutts">Matt Cutts</a> simple statement:
 <blockquote>You never want to do something completely different for googlebot than you'd do for regular users.
 
-<cite><a href="http://www.seolium.com/seo/learn/show-different-pages-for-googlebot/">SEOLium blog post</a></cite></blockquote>
+<cite><a href="https://www.seolium.com/seo/learn/show-different-pages-for-googlebot/">SEOLium blog post</a></cite></blockquote>

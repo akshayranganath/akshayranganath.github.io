@@ -18,7 +18,7 @@ Until a few years back, a website's performance was measured using the Javascrip
 
 
 >Perceived performance refers to how fast a user thinks your website is, not necessarily how fast your technical stats say it is. When it comes to optimizing your websites, its what the user thinks that really matters, not the technical wizardry that’s going on behind the scenes. <br />
-_Source: [An Introduction to Perceived Performance](http://blog.teamtreehouse.com/perceived-performance)_
+_Source: [An Introduction to Perceived Performance](https://blog.teamtreehouse.com/perceived-performance)_
 
 ### Hows does this impact measurement?
 

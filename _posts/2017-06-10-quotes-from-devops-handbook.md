@@ -379,7 +379,7 @@ __Telemetry__ defined
 In the world of devOps, monitoring is so important that monitoring systems need to be more available and scalable than the systems being monitored.
 
 __Culture of blame__
-Typical metric used is *[mean time until declared innocent](http://www.networkworld.com/article/2264981/lan-wan/eliminating-the-mean-time-to-innocence.html)* - how quickl can we convince everyone else that we didn't cause the outage.
+Typical metric used is *[mean time until declared innocent](https://www.networkworld.com/article/2264981/lan-wan/eliminating-the-mean-time-to-innocence.html)* - how quickl can we convince everyone else that we didn't cause the outage.
 
 #### Information radiator
 "[Information radiator](https://www.agilealliance.org/glossary/information-radiators/)" is the generic term for any of a number of handwritten, drawn, printed or electronic displays which a team places in a highly visible location, so that all team members as well as passers-by can see the latest information at a glance: count of automated tests, velocity, incident reports, continuous integration status, and so on.

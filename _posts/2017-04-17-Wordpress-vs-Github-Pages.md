@@ -53,12 +53,12 @@ Your browser does not support the video tag.
 
 ## JS & CSS Complexity
 
-Apart from performance, the migration resulted in a huge reduction in the complexity of the JS code and CSS scripts that are used. I used the [YellowLab tools](http://yellowlab.tools/) to run the comparison. Here's link to the results:
+Apart from performance, the migration resulted in a huge reduction in the complexity of the JS code and CSS scripts that are used. I used the [YellowLab tools](https://yellowlab.tools/) to run the comparison. Here's link to the results:
 
 | Test | Score | URL |
 | ---- | ----- | --- |
-| Wordpress | 68/100 | [http://yellowlab.tools/result/ep126bxo5p](http://yellowlab.tools/result/ep126bxo5p) |
-| GitHub | 98/100 | [http://yellowlab.tools/result/ep123gqut6](http://yellowlab.tools/result/ep123gqut6) |
+| Wordpress | 68/100 | [https://yellowlab.tools/result/ep126bxo5p](https://yellowlab.tools/result/ep126bxo5p) |
+| GitHub | 98/100 | [https://yellowlab.tools/result/ep123gqut6](https://yellowlab.tools/result/ep123gqut6) |
 
 Here's some the primary reasons for Wordpress scoring so low. 
 

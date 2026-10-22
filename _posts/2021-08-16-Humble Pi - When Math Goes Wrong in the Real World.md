@@ -34,7 +34,7 @@ Here some interesting ones:
 
 [Source](https://upload.wikimedia.org/wikipedia/commons/e/ec/Albert_Bridge_notice.JPG)
 
-* The hair-splitting issues about calculating number of days in a year! I did not realize that in the Gregorian calendar, not every year divisible by 4 is automatically considered as a leap year! The correct calculation is a bit more complex.. and the funny repercussion where a [Russian team arrived too late to compete at the 1908 Olympics](http://www.todayifoundout.com/index.php/2012/11/the-russian-olympic-team-arrived-12-days-late-to-the-1908-london-olympics-because-they-hadnt-updated-to-using-the-gregorian-calendar/)!
+* The hair-splitting issues about calculating number of days in a year! I did not realize that in the Gregorian calendar, not every year divisible by 4 is automatically considered as a leap year! The correct calculation is a bit more complex.. and the funny repercussion where a [Russian team arrived too late to compete at the 1908 Olympics](https://www.todayifoundout.com/index.php/2012/11/the-russian-olympic-team-arrived-12-days-late-to-the-1908-london-olympics-because-they-hadnt-updated-to-using-the-gregorian-calendar/)!
 
 >In the Gregorian calendar a year is a leap year if it is divisible by 4 with the exceptions that years divisible by 100 are not leap years unless they are also divisible by 400. The following Python program determines if year is a leap year. [[Source](https://scipython.com/book2/chapter-2-the-core-python-language-i/examples/the-gregorian-calendar/)]
 

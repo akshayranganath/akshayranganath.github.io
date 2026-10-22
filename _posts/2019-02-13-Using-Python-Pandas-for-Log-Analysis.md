@@ -13,7 +13,7 @@ In this short tutorial, I would like to walk through the use of [Python Pandas](
 
 ## Background
 
-[Python Pandas](https://pandas.pydata.org/) is a library that provides data science capabilities to python. Using this library, you can use data structures like _[DataFrame](http://pandas.pydata.org/pandas-docs/stable/reference/frame.html)_. This data structure allows you to model the data like an in-memory database. By doing so, you will get query-like capabilities over the data set.
+[Python Pandas](https://pandas.pydata.org/) is a library that provides data science capabilities to python. Using this library, you can use data structures like _[DataFrame](https://pandas.pydata.org/pandas-docs/stable/reference/frame.html)_. This data structure allows you to model the data like an in-memory database. By doing so, you will get query-like capabilities over the data set.
 
 ## Use Case
 
@@ -89,7 +89,7 @@ Hope you found this useful and get inspired into picking pandas for your analyti
 
 I was able to pick up pandas after going through an excellent course on Coursera titled [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis). During this course, I realized that pandas has an excellent documentation and stack overflow is the right place to ask questions as the team contributing to pandas is heavily engaged on this platform.
 
-- Pandas Documentation: [http://pandas.pydata.org/pandas-docs/stable/](http://pandas.pydata.org/pandas-docs/stable/)
+- Pandas Documentation: [https://pandas.pydata.org/pandas-docs/stable/](https://pandas.pydata.org/pandas-docs/stable/)
 - Stack Overflow: 
 
 ## Full Code
