@@ -1,0 +1,57 @@
+.post blockquote.markdown-alert {
+  margin: 1em 0;
+  border: 0;
+  border-left: 4px solid;
+  padding: 0.5em 1em;
+  color: $darkGray;
+  font-size: 18px;
+  font-style: normal;
+}
+
+.post blockquote.markdown-alert .markdown-alert-title {
+  margin: 0 0 0.5em;
+  color: $darkGray;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: bold;
+}
+
+.post blockquote.markdown-alert-note {
+  border-left-color: #0969da;
+}
+
+.post blockquote.markdown-alert-note .markdown-alert-title {
+  color: #0969da;
+}
+
+.post blockquote.markdown-alert-tip {
+  border-left-color: #1a7f37;
+}
+
+.post blockquote.markdown-alert-tip .markdown-alert-title {
+  color: #1a7f37;
+}
+
+.post blockquote.markdown-alert-important {
+  border-left-color: #8250df;
+}
+
+.post blockquote.markdown-alert-important .markdown-alert-title {
+  color: #8250df;
+}
+
+.post blockquote.markdown-alert-warning {
+  border-left-color: #9a6700;
+}
+
+.post blockquote.markdown-alert-warning .markdown-alert-title {
+  color: #9a6700;
+}
+
+.post blockquote.markdown-alert-caution {
+  border-left-color: #cf222e;
+}
+
+.post blockquote.markdown-alert-caution .markdown-alert-title {
+  color: #cf222e;
+}

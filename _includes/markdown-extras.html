@@ -1,0 +1,137 @@
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var main = document.getElementById('main');
+
+    if (!main) {
+      return;
+    }
+
+    main.querySelectorAll('blockquote').forEach(function (blockquote) {
+      var paragraph = blockquote.querySelector('p');
+
+      if (!paragraph) {
+        return;
+      }
+
+      var match = paragraph.textContent.match(/^\[!(NOTE|TIP|IMPORTANT|WARNING|CAUTION)\]/i);
+
+      if (!match) {
+        return;
+      }
+
+      var kind = match[1].toLowerCase();
+      var remaining = match[0].length;
+      var walker = document.createTreeWalker(paragraph, NodeFilter.SHOW_TEXT);
+      var firstText = walker.nextNode();
+      var lastText = firstText;
+      var endOffset = 0;
+
+      while (lastText && remaining > 0) {
+        endOffset = Math.min(lastText.textContent.length, remaining);
+        remaining -= endOffset;
+
+        if (remaining > 0) {
+          lastText = walker.nextNode();
+        }
+      }
+
+      if (lastText) {
+        var range = document.createRange();
+        range.setStart(firstText, 0);
+        range.setEnd(lastText, endOffset);
+        range.deleteContents();
+      }
+
+      var separatorWalker = document.createTreeWalker(paragraph, NodeFilter.SHOW_TEXT);
+      var leadingText = separatorWalker.nextNode();
+
+      if (leadingText) {
+        leadingText.textContent = leadingText.textContent.replace(/^\r?\n[ \t]*/, '');
+      }
+
+      var firstChild = paragraph.firstChild;
+
+      while (firstChild && firstChild.nodeType === Node.TEXT_NODE && !firstChild.textContent) {
+        var nextChild = firstChild.nextSibling;
+        paragraph.removeChild(firstChild);
+        firstChild = nextChild;
+      }
+
+      if (firstChild && firstChild.nodeName === 'BR') {
+        paragraph.removeChild(firstChild);
+      }
+
+      if (!paragraph.textContent.trim()) {
+        paragraph.remove();
+      }
+
+      blockquote.classList.add('markdown-alert', 'markdown-alert-' + kind);
+
+      var title = document.createElement('p');
+      title.className = 'markdown-alert-title';
+      title.textContent = kind.charAt(0).toUpperCase() + kind.slice(1);
+      blockquote.insertBefore(title, blockquote.firstChild);
+    });
+
+    var mermaidNodes = main.querySelectorAll('pre code.language-mermaid, pre.language-mermaid code, .language-mermaid');
+
+    if (mermaidNodes.length) {
+      var mermaidScript = document.createElement('script');
+      mermaidScript.src = 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.min.js';
+      mermaidScript.onload = function () {
+        var wrappers = new Set();
+
+        mermaidNodes.forEach(function (node) {
+          wrappers.add(
+            node.closest('div.highlighter-rouge') ||
+            node.closest('pre') ||
+            node.closest('div.language-mermaid') ||
+            node
+          );
+        });
+
+        wrappers.forEach(function (wrapper) {
+          var source = wrapper.querySelector('pre code') || wrapper.querySelector('code') || wrapper;
+          var diagram = document.createElement('div');
+          diagram.className = 'mermaid';
+          diagram.textContent = source.textContent;
+          wrapper.parentNode.replaceChild(diagram, wrapper);
+        });
+
+        window.mermaid.initialize({ startOnLoad: false });
+        window.mermaid.run();
+      };
+      document.head.appendChild(mermaidScript);
+    }
+
+    var mathSource = main.textContent;
+    var mathScripts = main.querySelectorAll('script[type^="math/tex"]');
+
+    if (/\$\$|\\\(|\\\[/.test(mathSource) || mathScripts.length) {
+      mathScripts.forEach(function (mathScript) {
+        var isDisplay = /mode=display/i.test(mathScript.type);
+        var start = isDisplay ? '\\[' : '\\(';
+        var end = isDisplay ? '\\]' : '\\)';
+        var expression = mathScript.textContent.trim();
+
+        if (!expression.startsWith(start) || !expression.endsWith(end)) {
+          expression = start + expression + end;
+        }
+
+        mathScript.replaceWith(document.createTextNode(expression));
+      });
+
+      window.MathJax = {
+        tex: {
+          inlineMath: [['\\(', '\\)']],
+          displayMath: [['$$', '$$'], ['\\[', '\\]']]
+        }
+      };
+
+      var mathJaxScript = document.createElement('script');
+      mathJaxScript.src = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js';
+      mathJaxScript.async = true;
+      document.head.appendChild(mathJaxScript);
+    }
+  });
+</script>

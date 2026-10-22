@@ -80,6 +80,8 @@ kramdown:
   syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
+  parse_block_html: true
+  math_engine: mathjax
 
 # Set the Sass partials directory, as we're using @imports
 sass:
@@ -92,6 +94,9 @@ plugins:
   - jekyll-seo-tag # Add SEO related tags and JSON-LD
   - jekyll-paginate # Adding pagination capability
   - jekyll-redirect-from #redirect functionalit
+  - jemoji
+  - jekyll-mentions
+  - jekyll-relative-links
 
 # Exclude these files from your production _site
 exclude:
