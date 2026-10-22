@@ -1,7 +1,9 @@
 ---
 layout: post
 title: WebPerformance notes from PerfPlanet
+description: A roundup of insights from the 2016 PerfPlanet web performance advent calendar.
 comment: true
+tags: webperf, devops
 ---
 
 Every year, in the month of December, [calendar.perfplanet.com](http://calendar.perfplanet.com) invites the experts from Web Performance to contribute their ideas as one blog post a day. It has some very insightful articles and hints at the upcoming technologies.

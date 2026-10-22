@@ -4,6 +4,7 @@ title: Book Review on "The Perfect Weapon By David Sanger"
 comment: true
 description: David Sanger's book, the Perfect Weapon raising some thorny issues on cyber warfare along with an great narration of some incredible hacks that went on from Stuxnet to the audacious DNC hacks.
 image: /images/blog/hacker-perfect-weapon.jpg
+tags: book, security
 ---
 
 I recently completed the book _The Perfect Weapon: War, Sabotage, and Fear in the Cyber Age_. I first heard about it on an NPR show, [All Things Considered](https://www.npr.org/2018/06/14/620103358/the-perfect-weapon-tells-the-story-of-growing-cyber-war-that-the-u-s-is-fighting). The author was being interviewed about the book. He described the audacious hacks of US-Israeli intelligence in the Stuxnet and moved on to more imminent threats and the issues of cyber security.

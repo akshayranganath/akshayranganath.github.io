@@ -4,6 +4,7 @@ title: Perceptual SpeedIndex - What, Why and is it necessary?
 comment: true
 description: Recently a paper was released about perceived performance around a new metric called SpeedPerception. Although interesting, it does not appear to be practical like SpeedIndex, TTFB or other metrics.
 image: /images/blog/book_open.jpg
+tags: webperf, automation
 ---
 Recently, a [new paper](https://arxiv.org/abs/1704.01220) was released about [perceived performancee](https://www.smashingmagazine.com/2015/09/why-performance-matters-the-perception-of-time/). This paper calls for a new way to measure the perception of speed with a tool called SpeedPerception. It proposes improvements to [SpeedIndex](https://sites.google.com/a/webpagetest.org/docs/using-webpagetest/metrics/speed-index) for modeling the user's perceived speed. The study was interesting and here's my thoughts on it.
 

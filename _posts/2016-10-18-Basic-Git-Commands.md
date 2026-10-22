@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Basic Git Commands
+description: A practical Git cheat sheet covering repository setup, staging, commits, branches, tags, and common commands.
 comment: true
+tags: git, coding
 ---
 
 In this post, I talk about some of the most common git commands that I use. It is my version of the Git cheat sheet.

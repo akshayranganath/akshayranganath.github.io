@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Useful SEO Tags - Part 2
+description: A survey of meta tag usage across top websites and which tags matter for search engine optimization.
 comment: true
+tags: seo, webperf
 ---
 
 In this second part of the blog series, I look at the distribution on the usage of the &lt;meta&gt; tags across the Alexa top 1000 website.

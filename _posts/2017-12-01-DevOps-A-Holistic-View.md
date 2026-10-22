@@ -4,7 +4,7 @@ title: DevOps - A Holistic View
 comment: true
 description: DevOps is influenced by many ideas like Lean, ToC, Agile and ITIL. In this post, I point out the exact practices adopted from these methods. 
 image: /images/blog/collaboration.jpg
-tags: [devops, lean, agile, theory of constraints, ITIL]
+tags: devops, lean, agile, theory of constraints, itil
 ---
 
 DevOps is influenced by many ideas like Lean, ToC, Agile and ITIL. In this post, I wanted to explore the origin of different practices to give you a holistic view. The reason is that most blogs or articles just allude to this by saying "DevOps is based on Lean, Agile, ITIL and other practices" without explaining what part of the DevOps methodology is derived from these earlier methodologies. 

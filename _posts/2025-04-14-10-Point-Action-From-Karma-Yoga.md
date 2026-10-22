@@ -4,7 +4,7 @@ title: 10 point summary about the teachings from Karma Yoga of Bhagavad Gita
 comment: true
 description: 10 point summary about the teachings from Karma Yoga of Bhagavad Gita.
 image: /images/blog/karma-yoga-summarized.png
-tags: vendata
+tags: vedanta
 ---
 
 ## Background

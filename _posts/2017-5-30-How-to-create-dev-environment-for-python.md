@@ -4,6 +4,7 @@ title: DevOps &#58; Building a Python virtual environment
 comment: true
 description: When embarking on a devOps journey, getting a consistent development environment is the key. In this post, I show how to setup a virtual environment and install the correct libraries necessary for a project.
 image: /images/blog/nut-2051596_640.jpg
+tags: python, devops
 ---
 
 When embarking on a devOps journey, getting a consistent development environment is the key. In this post, I show how to setup a virtual environment and install the correct libraries necessary for a project.

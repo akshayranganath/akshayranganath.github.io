@@ -4,6 +4,7 @@ title: Migrating Wordpress Blogs to GitHub Pages
 description: Wordpress.com's free blogs have a number of inherent limitations. Moving to Ghithub pages provides ability to overcome these limitations and make the blogs faster and more effective. Here's my experience with this process.
 comment: false
 image: /images/blog/blog_banner.jpg
+tags: devops, webperf
 ---
 Over last 3 weeks, I learnt how to create and fix issues on the [github pages](https://pages.github.com/). I wanted to share the steps involved in migrating [my wordpress blog](https://akshayrangananth.wordpress.com/) to a github blog post. 
 

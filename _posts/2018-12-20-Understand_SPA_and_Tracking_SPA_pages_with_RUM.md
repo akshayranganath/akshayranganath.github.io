@@ -4,6 +4,7 @@ title: Quick Primer to Single Page Application (SPA) and Tracking SPA pages
 comment: true
 description: Understand the history API that powers Single Page Application (SPA) and learn how this is leveraged by real user monitoring solutions like mPulse for reporting performance of SPA pages .
 image: /images/blog/mobile-phone.jpg.jpg
+tags: webperf, coding
 ---
 
 ## tl;dr;

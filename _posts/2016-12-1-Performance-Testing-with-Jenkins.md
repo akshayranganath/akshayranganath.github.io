@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Performance Testing with Jenkins
+description: How to use Jenkins and Siege to automate scheduled synthetic performance tests across build nodes.
 comment: true
+tags: devops, webperf, automation
 ---
 
 In this blog post, I try to outline how Jenkins can be leveraged to perform Synthetic testing by using command line tool called Siege for automating the tests.

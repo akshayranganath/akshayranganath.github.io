@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Mutual auth and Certificate Revocation
+description: An introduction to mutual TLS authentication, client certificates, and certificate revocation tools.
 comment: true
 image: /images/blog/vault.png
+tags: security, devops
 ---
 
 Over the last few days, I have been working on mutual authentication / client certificates. While working on it, I learnt a few concepts around Certificate authentication and tools used to achive it. I thought it could be useful to others and wanted to share the same.

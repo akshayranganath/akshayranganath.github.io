@@ -1,7 +1,9 @@
 ---
 layout: post
 title: What metrics matter for SEO?
+description: Explores how site speed metrics such as TTFB and rendering times relate to Google search rankings.
 comment: true
+tags: seo, webperf
 ---
 
 *Google is very nuanced in the way it handles the Site speed. It appears to rely on some combination of TTFB coupled with rendering metric like Time to first paint / start render or DomInteractive. However, it is very hard to find the exact metric. So focus on delivering the best performance to user and Google will automatically rank you well!*

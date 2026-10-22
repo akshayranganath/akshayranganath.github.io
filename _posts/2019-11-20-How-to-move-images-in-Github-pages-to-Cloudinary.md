@@ -4,6 +4,7 @@ title: How to move images in Github pages to Cloudinary?
 comment: true
 description: Use Cloudinary to host images from your post to get relevant image format and right quality of image based on your device
 image: /images/blog/dandelion-2817950_1280.9b587226.jpg
+tags: webperf, devops
 ---
 
 >tl;dr: Instead of hosting images for your blog on Github account, consider using the free tier of Cloudinary. It saves on usage at Github and allows you to generate some cool transformation and better format of images at the same time. Download the source code from [here](https://gist.github.com/akshayranganath/c387b3d011f6da096dbf82bac3a9039d).

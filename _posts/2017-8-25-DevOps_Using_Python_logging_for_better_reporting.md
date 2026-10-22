@@ -4,7 +4,7 @@ title: Using Logging in Python for better reporting
 comment: true
 description: By using a multi-level logging built into the code can help in making it more DevOps friendly. Python's logging frame-work is a good way to start.
 image: /images/blog/satellite.jpg
-tags: [devops, automation, automated unit test, logging]
+tags: devops, automation, automated unit test, logging
 ---
 
 When moving into an agile / DevOps model of code production, one of the core concepts is building in enough monitoring and telemetry. To enable this, most programming languages come with bundled libraries for logging. There is log4J in Java and [logging](https://docs.python.org/3/library/logging.html) library in python. In this (short) post, I walk through a use case of how it helped.

@@ -4,6 +4,7 @@ title: Podcast roundup Jan 2020
 comment: true
 description: Here is my summary from various podcasts for the month of January 2020
 image: /images/blog/podcast_lover_1200x627.jpg
+tags: security, thinking
 ---
 
 ## Bruce Schneier: How insecure, unregulated tech is endangering the world

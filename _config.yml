@@ -50,7 +50,7 @@ footer-links:
 # disqus: akshayranganath
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-92984102-1
+google_analytics: G-VJHTZK3WQ1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
@@ -115,18 +115,6 @@ tags:
   type: liquid
   path: /tags/
 
-nav:
-  Home:           
-    - '/'
-  Blog:           
-    - '/blog/'
-    - { Categories: '/blog/categories/' }
-    - { Tags: '/blog/tags/' }
-  About:          
-    - '/about/'
-  Github Project: 
-    - 'http://akshayranganath.github.io/'
-
 # Where are tags and categories displayed
-tag_page: '/blog/tags/'
-category_page: '/blog/categories/'
+tag_page: '/tags/'
+category_page: '/categories/'

@@ -5,6 +5,7 @@ comment: true
 description: Pretty printing JSON is a common operation. I show how to get this done and set it as a command.
 image: /images/blog/command_prompt.png
 tag: [json,pretty-print]
+tags: python, coding
 ---
 Pretty printing JSON is a very common operation. In this post, I show how to build the code and make the script an executable as a first-class command.
 

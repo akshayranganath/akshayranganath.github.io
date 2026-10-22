@@ -4,6 +4,7 @@ title: Understanding and using Core Web Vitals
 comment: true
 description: Core Web Vitals was announced recently for measuring performance. Learn about the use, performance and SEO impact and tools available to measure the metrics defined as part of this change. 
 image: /images/blog/core-web-vitals-addy.png
+tags: webperf, seo
 ---
 
 Recently, Google announced [Web Vitals - Essential metrics for a healthy site](https://web.dev/vitals/) and my initial metrics was a bored yaaawn. Yet another initiative and yet another set of performance metrics. My cynicism was similar to this Dilbert situation.

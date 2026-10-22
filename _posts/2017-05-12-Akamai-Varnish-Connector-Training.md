@@ -3,6 +3,7 @@ layout: post
 title: Notes from "Akamai Connector For Varnish" training
 comment: true
 description: Akamai and Varnish are launching a new solution called Akamai Connector For Varnish. Here's how to setup and work with Varnish.
+tags: devops, webperf
 ---
 
 Akamai and Varnish are launching a new solution called **[Akamai Connector For Varnish](https://developer.akamai.com/connector-for-varnish/)**. For this purpose, I took a training on Varnish and here are the notes from this session.

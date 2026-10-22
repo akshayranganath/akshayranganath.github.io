@@ -4,6 +4,7 @@ title: 5 tools for DIY SEO Health Check
 comment: true
 description: Basic SEO analysis for technical folks can sound difficult. There are a lot of free tools that can help. I show 5 such SEO tools/methods for DIY SEO analysis.
 image: /images/blog/health-check.jpg
+tags: seo, automation
 ---
 
 SEO Analysis can appear to be quite difficult, especially if you are from a technical background and don't have a lot of knowledge of marketing techniques. However, there are many aspects of SEO that ultimately boils down to a technical health check of your website. In this blog post, I want to cover 5 free tools & methods to get you started with some basic SEO health check.

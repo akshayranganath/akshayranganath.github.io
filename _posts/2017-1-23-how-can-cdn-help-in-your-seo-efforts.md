@@ -1,7 +1,9 @@
 ---
 layout: post
 title: How can CDN help in your SEO efforts?
+description: Explains how CDNs can support SEO through improved speed, targeting, mobile friendliness, and domain authority.
 comment: true
+tags: seo, webperf
 ---
 
 CDN can help in more than just improving site-speed for SEO. It can aid in better targeting, mobile friendliness, domain authority and more. Read about where CDNs are of use for your SEO efforts.

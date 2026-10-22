@@ -4,6 +4,7 @@ title: What powers observability with RUM tools?
 comment: true
 description: Real User Monitoring solutions rely on browser support to make the measurements meaningful. We look at some of the underlying standards that allow this capability.
 image: /images/blog/hourglass-2910951_640.jpg
+tags: webperf, coding
 ---
 
 Real User Monitoring (RUM) is the ability to measure the performance of your website / web application as seen by your end users. Some of the measurements are well-supported, some are browser specific and a few standards allow observability by letting you decide the measurement parameters. In the plethora of tools, it is hard to understand the differences. With this post, I would like to provide you a firm foundation on the minimum supported provided by the RUM solution for some solid measurements.

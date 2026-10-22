@@ -4,6 +4,7 @@ title: Better notes with Markdown and SublimeText!
 comment: true
 description: Learn why Markdown is a good for taking notes during trainings and meetings and plugins for Sublime Text2+Markdown integration. It's very good for converting to blog posts with Github pages as well.
 image: /images/blog/markdown.png
+tags: coding, automation
 ---
 
 Over the past few months, I have realized that Markdown is a very good way to take notes, especially if the end goal is to quickly format and convert it to a blog post as well. 

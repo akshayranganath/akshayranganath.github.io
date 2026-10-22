@@ -4,7 +4,7 @@ title: OCSP Validation with OpenSSL
 comment: true
 description: OCSP Stapling is becoming pervelant across browsers for validating certificates. Here I show how to run this validation manually with OpenSSL.
 image: /images/blog/tls-validation.png
-tags: [ocsp, tls, openssl, security]
+tags: ocsp, tls, openssl, security
 ---
 
 >Edit June 19,2020: Added details to support OCSP request to servers that don't support HTTP 1.0. 

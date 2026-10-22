@@ -4,6 +4,7 @@ title: Wordpress.com vs Github Pages Performance compared
 comment: true
 description: Wordpress.com gets a lot of attention about its bloat and slowness. While moving to Github pages, I ran a comparison and wanted to show the magnitude of difference across the 2 platforms.
 image: 
+tags: webperf, devops
 ---
 
 Wordpress.com gets a lot of attention about its bloat and slowness. While moving to Github pages, I ran a comparison and wanted to show the magnitude of difference across the 2 platforms.

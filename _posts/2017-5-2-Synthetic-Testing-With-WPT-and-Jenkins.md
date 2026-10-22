@@ -3,6 +3,7 @@ layout: post
 title: Synthetic Testing and with WPT and Jenkins
 comment: true
 description: Webpagetest is very good for monitoring website performance. By using Jenkins to run synthetic tests on WPT, it is possible to build a decent solution for automated performance monitoring and validating your performance budget.
+tags: devops, webperf, automation
 ---
 Webpagetest is an indispensable tool for performance monitoring of websites. Using the scripted test+REST API and combining with Jenkins, WPT can be converted to a synthetic testing tool to test scenario beyond the scope of tools like Gomez and Catchpoint. 
 

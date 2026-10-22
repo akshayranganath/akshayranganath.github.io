@@ -4,7 +4,7 @@ title: Experimenting CrewAI to write a report on Advaita
 comment: true
 description: I experimented the use of ChatGPT to research and create an article about a very complex topic - the Hard Problme of Consciousness.
 image: /images/blog/hard-problem-of-consciousness.png
-tags: vendata
+tags: vedanta
 ---
 
 ## Background

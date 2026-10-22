@@ -4,6 +4,7 @@ title: 3 Trends in Web Performance
 comment: true
 description: Web Performance landscape has evolved with focus on perceived performance, RAIL model, focus on mobile website speed and better tooling. The blog explains new metrics and relates them to measurement tools.
 image: /images/blog/speed-2018.jpg
+tags: webperf, devops
 ---
 
 Website performance is always an ongoing effort and an elusive target. In the early days, pageLoad time was the gold standard of web performance monitoring. However, websites have evolved to be a lot more dynamic, Javascript heavy and filled with rich images and 3rd party content. We need better metrics, a better model and better tooling to measure and monitor the performance. In this blog post, I explain the evolution 3 different trends that is shaping the industry:

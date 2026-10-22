@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Docker Commands
+description: Notes from Docker Quickstart covering installation and common Docker commands on CentOS 7.
 comment: true
+tags: devops, coding
 ---
 
 I completed the course on [Docker Quickstart](https://linuxacademy.com/devops/training/course/name/docker-quick-start) at LinuxAcademy today. Over the course of I made notes on the important commands. Here's my notes.

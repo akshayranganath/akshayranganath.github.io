@@ -4,7 +4,7 @@ title: Phsychological Foundation Model from Vedanta
 comment: true
 description: A simple 3x3 framework to address psychological issues that crops up in life and a very practical approach to solve it, based on the teachings of Vedanta and Karma Yoga of Bhagavad Gita.
 image: /images/blog/karma-yoga-self-improvement.png
-tags: vendata
+tags: vedanta
 ---
 
 ## Background

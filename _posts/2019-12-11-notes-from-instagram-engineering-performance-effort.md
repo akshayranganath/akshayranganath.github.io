@@ -4,6 +4,7 @@ title: Notes from Making Instagram Fast articles
 comment: true
 description: Instagram Engineering published 4 part blog on web performance optimization. Here is my notes from these articles.
 image: /images/blog/lmpszilmigl2dkkmbure
+tags: webperf, devops
 ---
 
 ## &tl;dr;
