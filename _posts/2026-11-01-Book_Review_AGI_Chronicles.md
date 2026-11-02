@@ -13,11 +13,12 @@ tags: book, ai-ml
 
 I finished Kevin Roose's *The AGI Chronicles* (Farrar, Straus and Giroux). I heard about it on [Hard Fork](https://www.nytimes.com/column/hard-fork), which used to be my favorite podcast, back when Kevin and Casey Newton hosted it. I liked the book as a story. I would not hand it to someone who wants a deep business book, or a technical one.
 
+Roose follows a small circle of researchers, founders, and companies who took "let's build AGI" from a fringe bet and turned it into the race the rest of us are living in. The book opens in 2017. At OpenAI, Ilya Sutskever and Alec Radford look at Google's transformer paper and decide this is the hill to climb. That work becomes GPT. Train a model to predict text, and abilities show up that nobody wrote into the spec. From there it is the OpenAI saga. The founding. Elon Musk's exit. The split that created Anthropic. Google trying to keep pace. Sam Altman pushed out as CEO and brought back. The people who want to go faster, arguing with the people who want a brake. He draws on more than 150 interviews and documents that were not public. Board drama, lab fights, policy rooms. That part reads well. It is a story about people, and he is good at people.
+
 ![The AGI Chronicles, by Kevin Roose](/images/blog/agi-chronicles-cover.jpg)
 
 [Source: [Book website](https://us.macmillan.com/books/9780374618759/theagichronicles/)]
 
-Roose follows a small circle of researchers, founders, and companies who took "let's build AGI" from a fringe bet and turned it into the race the rest of us are living in. The book opens in 2017. At OpenAI, Ilya Sutskever and Alec Radford look at Google's transformer paper and decide this is the hill to climb. That work becomes GPT. Train a model to predict text, and abilities show up that nobody wrote into the spec. From there it is the OpenAI saga. The founding. Elon Musk's exit. The split that created Anthropic. Google trying to keep pace. Sam Altman pushed out as CEO and brought back. The people who want to go faster, arguing with the people who want a brake. He draws on more than 150 interviews and documents that were not public. Board drama, lab fights, policy rooms. That part reads well. It is a story about people, and he is good at people.
 
 ## OpenAI is the show
 
