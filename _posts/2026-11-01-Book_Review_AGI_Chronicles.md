@@ -3,11 +3,11 @@ layout: post
 title: Notes on The AGI Chronicles
 comment: true
 description: Kevin Roose's The AGI Chronicles is an OpenAI people story, thin on the business and the technology. From an Advaitic view, an LLM is not conscious until a seer outlasts the machine.
-image: images/blog/agi_chronicles_blog_hero_v2.png
+image: /images/blog/agi_chronicles_blog_hero_v2.png
 tags: book, ai-ml
 ---
 
-![agi chronicles hero image](images/blog/agi_chronicles_blog_hero_v2.png)
+![agi chronicles hero image](/images/blog/agi_chronicles_blog_hero_v2.png)
 
 ## A story about people
 
