@@ -49,11 +49,15 @@ Superintelligence is the idea that we might build a mind that beats us across th
 
 The paperclip problem is the picture that travels with it. Give a very capable system one goal: make paperclips. Leave everything else unsaid. It spends the world on paperclips, because "leave people alone" was never in the objective. Bostrom's point is narrower than the cartoon. A powerful optimizer does not fill in the values you forgot to write down. The worry is a system that is indifferent, and very good at its job. That argument lives in the same book.
 
-The hard problem of consciousness is a different question. It asks why there is an inside to experience at all. Why red feels like something, instead of only being a process that reports "red." I wrote about this in [LLMs and Frontiers of Consciousness](/LLMs_and_Frontiers_of_Consciousness/), starting from David Chalmers' framework and then looking at it from Advaita. I came at the same gap in [notes on *A Brief History of Intelligence*](/A-Brief-History-of-Intelligence/): more computation does not, by itself, explain why experience exists.
+The hard problem of consciousness is a different question. David Chalmers coined the phrase. It asks why there is an inside to experience at all. Why red feels like something, instead of only being a process that reports "red." I wrote about this in [LLMs and Frontiers of Consciousness](/LLMs_and_Frontiers_of_Consciousness/), starting from his framework and then looking at it from Advaita. I came at the same gap in [notes on *A Brief History of Intelligence*](/A-Brief-History-of-Intelligence/): more computation does not, by itself, explain why experience exists.
 
 ## A seer and the seen
 
 From an Advaitic perspective, it is hard to argue that an AI is conscious. The framework I keep coming back to is *dṛg-dṛśya-viveka*, the discrimination between the seer and the seen. Every experience splits. There is the seen, and there is the one who sees it. Tokens, traces, a chain of steps, a file of memory: those are seen. They are objects. They can be logged, copied, and deleted. The question is whether there is a seer.
+
+[![Drig-Drishya-Viveka: discriminating the seer from the seen](/images/blog/Drig-Drishya-Viveka_Infographic_Guide.png)](/images/blog/Drig-Drishya-Viveka_Infographic_Guide-full.png){:target="_blank" rel="noopener"}
+
+[View full resolution](/images/blog/Drig-Drishya-Viveka_Infographic_Guide-full.png){:target="_blank" rel="noopener"}
 
 A seer is the subject that stands over the doing, and that remains when the doing stops. I do not know how to show that for an LLM. Turn the power off and there is no process left that could be watching. Deprecate the model and that system is gone. A new checkpoint is a new set of weights. It is not a witness that lived through the gap. A transcript is a record of what was seen, which makes it more of the seen.
 
