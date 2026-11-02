@@ -23,6 +23,8 @@ Here is the thing I kept noticing as I read. OpenAI is the show. Everybody else 
 
 Anthropic is in the book, mostly as the safety-minded split from OpenAI. At times I felt even they were underplayed. They are one of the labs that actually set the pace, and in these pages they still feel like a chapter in someone else's story. Google DeepMind shows up when the plot needs a rival. The camera does not stay.
 
+I wanted a headcount. The casting felt off. [Metix AI mapped the labs](https://metix.ai/reports/mapping/frontier-ai-labs-talent-2026) in June 2026. About 11,900 technical people, across 13 labs in the US, UK, and France. Meta's AI research track and DeepMind together are 58% of them. OpenAI is third. Anthropic is smaller. The net flow still runs from OpenAI to Anthropic, about 8 to 1, on the SignalFire numbers that map cites. Anthropic keeps them. Two-year retention is 80%, the highest in the group. The book still has OpenAI as the show.
+
 ## The industry that never walks on stage
 
 Grok is ignored completely. Microsoft Copilot is ignored. So are the model offerings from AWS. If you work anywhere near how companies actually adopt this stuff, those are not side plots. Copilot is how a huge number of enterprises meet a model for the first time. AWS is how a lot of those same companies buy, host, and govern one. Leave them out and the race looks like a three-lab drama. The market I see is wider than that.
@@ -79,3 +81,4 @@ I do hope Kevin and Casey continue their great reporting, and that they do a gre
 * [Superintelligence: Paths, Dangers, Strategies, by Nick Bostrom](https://www.oxfordmartin.ox.ac.uk/publications/superintelligence-paths-dangers-strategies), Oxford University Press
 * [LLMs and Frontiers of Consciousness](/LLMs_and_Frontiers_of_Consciousness/)
 * [Is reality a simulation - A Brief History of Intelligence](/A-Brief-History-of-Intelligence/)
+* [Frontier AI Lab Talent Landscape & Flow Map](https://metix.ai/reports/mapping/frontier-ai-labs-talent-2026), Metix AI, 11 June 2026
